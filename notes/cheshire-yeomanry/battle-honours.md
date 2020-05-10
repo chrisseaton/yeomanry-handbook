@@ -1,0 +1,25 @@
+# Battle Honours
+
+## South Africa
+
+* South Africa 1900-01
+
+## The First World War
+
+* Somme 1918
+* Bapaume 1918
+* Hindenburg Line
+* Épéhy
+* Pursuit to Mons
+* France and Falnders 1918
+* Egypt 1916-17
+* Gaza
+* Jerusalem
+* Jericho
+* Tell 'Asur
+* Palestine 1917-18
+
+## The Second World War
+
+* Syria 1941
+* Nort-West Europe 1945 (honorary distinction)
