@@ -1,26 +1,46 @@
+## Prehistory
+
+## 1660
+
+* A troop of Light Horse for the hundreds of Wirral, Bucklow, and Macclesfield was commanded by Capt George Warburton
+
+## 1666
+
+* A troop of Light Horse for the hundreds of Broxton, Northwich, Nantwich, and Eddisbury was commanded by Lt Col Sir Philip Egerton
+
 # Early history
+
+## 1796
+
+* County Palatine of Cheshire presided over by Sir Peter Warburton
+* 26-Nov, Goerge Harry, 5th Earl of Stamford and Warrington, the Lord Lieutenant of the county, convened a meeting at Northwich to discuss raising a corps of Light Cavalry
 
 ## 1797
 
-* 17-Jan, three troops of *Chester Cavalry* raised
+* 17-Jan, three troops of *Provisional Corps of Cavarly for the County of Chester* raised with Sir John Liecester as Colonel
 * 5-Jun, *Macclesfield Cavalry* troop raised
 
 ## 1798
 
+* May, James Lumm, an Irish reb was arrested by a King's messenger at Buxton on a charge of treason, and escorted to Chester by the Macclesfield troop
 * 24-May, *Stockport Cavalry* troop raised
-* 7-Jul, *Nether Knutsford Association Cavalry* troop raised
+* 7-Jul, *Nether Knutsford Association Cavalry* troop raised - the Association additionally had two companies of infantry, and was at the time distinct from Sir John Leicester's corps
 
 ## 1802
 
-* *Stockport Cavalry* troop disbanded
+* *Stockport Cavalry* troop disbanded following the Peace of Amiens
 
 ## 1803
 
-* 29-Jun, *Cheshire Yeomanry Cavalry* formed from existing Macclesfield and Knutsford troops, with new troops raised at Tabley, Mere, Nortwich, and Ashton Heys
-* 12-Aug, independent *Stockport Cavalry *troop re-raised
+* 29-Jul, *Cheshire Yeomanry Cavalry* formed from existing Macclesfield and Knutsford troops, with new troops raised at Tabley, Mere, Nortwich, and Ashton Heys
+* 12-Aug, independent *Stockport Cavalry* troop re-raised
 * 13-Aug, a second regiment, *Western Cheshire Volunteer Cavalry* was raised with six troops
 * 22-Aug, independent *Norton Cavalry* troop raised
-* *The Earl of Chester's Regiment of Cheshire Yeomanry Cavalry* title granted
+* Sep, Prince of Wales feather granted
+* 15-Oct, *The Earl of Chester's Regiment of Cheshire Yeomanry Cavalry* title granted
+* System of beacons on the cost used to alert in case of invasion, and the Colonel had sealed prepared orders
+* 12-Dec, officers met at the George Inn, Knutsford, decided to station three men for six months in Knutsford in order to be able to carry orders in the event of an invasion
+* 28-Dec, a naval press-gang tried to recruit a Yeoman in Chester and detained him in the Northgate Gaol, but he was broken out by a crowd
 
 ## 1806
 

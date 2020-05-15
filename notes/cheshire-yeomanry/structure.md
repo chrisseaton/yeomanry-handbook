@@ -1,8 +1,13 @@
 # Structure
 
+## Circa 1660
+
+* Wirral, Bucklow, and Macclesfield Light Horse
+* Broxton, Northwich, Nantwich, and Eddisbury Light Horse
+
 ## 1797
 
-* Independent troops in Cheshire
+* Provisional Corps of Cavarly for the County of Chester
   * Chester Cavalry
   * Macclesfield Cavalry
   * Stockport Cavalry

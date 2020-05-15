@@ -1,6 +1,6 @@
 # Lineage
 
-* 1797, independent troops in Cheshire
+* 1797, *Provisional Corps of Cavarly for the County of Cheste*
 * 1803, *Cheshire Yeomanry Cavalry* and *Western Cheshire Volunteer Cavalry*
 * 1803, *Earl of Chester's Regiment of Cheshire Yeomanry Cavalry* and *Western Cheshire Volunteer Cavalry*
 * 1814, *Prince Regent's Corps of Cheshire Yeomanry Cavalry*
