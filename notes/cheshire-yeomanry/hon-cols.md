@@ -1,7 +1,5 @@
 # Honoray Colonels
 
-## Cheshire Yeomanry
-
 * Col Sir John Leicester, 1st Baron de Tabley, 1803-1827
 * Lt Col G Leicester, 2nd Barton de Tabley, 1836-1869
 * Lt Col H Grosvenor, 1st Duke of Westminster, 1869-1899
