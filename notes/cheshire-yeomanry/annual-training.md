@@ -12,3 +12,4 @@
 * 1815, Chester
 * 1817, none due to late harvest
 * 1818, Liverpool
+* 1819, grounds of Capt Daintry

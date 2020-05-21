@@ -195,12 +195,63 @@
 
 ## 1819
 
-* 3-Dec, re-titled *Prince Regent's 1st Regiment of Cheshire Yeomanry Cavalry*, with ten troops, and a second *Prince Regent's 2nd Regiment of Cheshire Yeomanry Cavalry* was raised with six troops
+* Increased industrial unrest
+* Jan
+  * Hentry 'Orator' Hunt, a former Wiltshire Yeoman until he was dismissed and imprissioned for threatening his commanding officer was now an aggitator of the unrest
+  * thrown out of the Theatre Royal, Manchester, by officers of the 7th Hussars, for hissing during the National Anthem
+* 15-Feb
+  * meeting at Sandy Brow, Stockport to discss a petition to the King
+  * a Cap of Liberty (symbol of the French revolution) was displayed and part of the crowd tried to seize it
+  * the Stockport Troop and the 80th Regiment of Infantry were called out
+  * the Riot Act was read and the military dispersed the crowd
+* 17-May, Macclesfield and Stockport annual training in the grounds of Capt Daintry, followed by other Troops later on
+* 11-Jul, orders recieved to hold the Regiment at readiness
+* 15-Jul, warned to be full "as prepared prepared as possible"
+* 24-Jul, assination thread (against Col Sir John Leicester?) published by Saxton, an associate of Hunt
+* 2-Aug
+  * meeting on St Peter's Field called
+  * the meeting was pronounced illegal based on previous experience
+  * Regiment ordered to assemble, but then this was cancelled due to the meeting being postponed
+* in the following week Tabley House was set on fire
+* 9-Aug, Regiment ordered to assemble on Altrincham Road a mile from Manchester, but again cancelled
+* 16-Aug
+  * Regiment assembled at Sale Moor at 0900, arrived Manchester 1100
+  * Magistrates assembled at a house on Mount Street
+  * joined by Manchester and Salford Yeomanry Cavarly, recently formed with two troops under Major Trafford
+  * joined by 15th Hussars under Lt Col Dalrymple
+  * joined by detachment of 88th Foot under Col McGregor
+  * joined by two pieces of artillery under Maj Dyneley
+  * joined by detachemnt of 31st Food under Lt Col Guy L'Estrange, who also commaned the whole
+  * crowd now between 60-150,000, one hundred yards wide
+  * speakers were to be intended to be arrested but constables could not reach them
+  * a troop of the Manchester and Salford Yeomanry Cavarly under Capt Birley advanced into the crowd and became cut off
+  * Cheshire Yeomanry and 15th Hussars arrived at the crowd at this point and were ordered to disperse the crowd
+  * 1900, Riot Act Read
+  * 6 killed, 60-600 injured
+  * a woman and child died
+  * at least one person died from sabre cut
+  * Cheshire Yeomanry had three men hurt, one horse killed
+* 17-Aug
+  * Cheshire Yeomanry still mobilised in Manchester
+  * at 1300 a message arrived that there was rioting in Macclesfield, including destroying the property of Thomas Grimsditch, an officer
+  * Squadron dispatched
+  * 31st Foot arrived before Cheshire Yeomnary and dispersed the riot
+* 18-Aug, Regiment demobilised
+* 19-Aug, Stockport Troop paraded, burnt flags captured from the Reformers
+* 29-Sep, Loyal Knutsford Volunteer infantry reformed
+* 15-Oct, meeting at the Crown Inn, Nantwich to raise a larger force, which became the *2nd Regiment*
+* 28-Oct, Ashton Heyes Troop dined at Cote Brook
+* 3-Nov, Stockport Troop dined at the Angel Inn, Stockport
+* 10-Nov, meeting to increase the number in the Stockport Troop
+* 3-Dec, re-titled *Prince Regent's 1st Regiment of Cheshire Yeomanry Cavalry*, with ten troops, and a second *Prince Regent's 2nd Regiment of Cheshire Yeomanry Cavalry* was raised with six troops, commanded by Thomas Cholmondele
+* 13-Dec, mobilised for Manchester again, but kept in lower towns instead
+* 16-Dec, demobilised
+* 27-Dec, dinner at the White Lion Inn, Stockport, Troop presented a sabre to Capt Newton
 * Dunham Massey and Altrincham troops raised
 
 ## 1820
 
-* The Legion was re-titled *Prince Regent's Cheshire Volunteer Legion* with infantry companies at Knutsford re-formed
+* The Legion was re-titled *Prince Regent's Cheshire Volunteer Legion*
 * An independent troop in Adlington raised
 
 ## 1821
