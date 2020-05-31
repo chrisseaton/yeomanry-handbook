@@ -12,26 +12,31 @@
 
 ## 1796
 
+* Leary p4
 * County Palatine of Cheshire presided over by Sir Peter Warburton
 * 26-Nov, Goerge Harry, 5th Earl of Stamford and Warrington, the Lord Lieutenant of the county, convened a meeting at Northwich to discuss raising a corps of Light Cavalry
 
 ## 1797
 
+* Leary p5
 * 17-Jan, three troops of *Provisional Corps of Cavarly for the County of Chester* raised with Col Sir John Liecester and Lt Col Thomas Dod
 * 5-Jun, *Macclesfield Cavalry* troop raised
 
 ## 1798
 
+* Leary p5
 * May, James Lumm, an Irish reb was arrested by a King's messenger at Buxton on a charge of treason, and escorted to Chester by the Macclesfield troop
 * 24-May, *Stockport Cavalry* troop raised
 * 7-Jul, *Nether Knutsford Association Cavalry* troop raised - the Association additionally had two companies of infantry, and was at the time distinct from Sir John Leicester's corps
 
 ## 1802
 
+* Leary p7
 * *Stockport Cavalry* troop disbanded following the Peace of Amiens
 
 ## 1803
 
+* Leary p7
 * 29-Jul, *Cheshire Yeomanry Cavalry* formed from existing Macclesfield and Knutsford troops, with new troops raised at Tabley, Mere, Nortwich, and Ashton Heys
 * 12-Aug, independent *Stockport Cavalry* troop re-raised
 * 13-Aug, a second regiment, *Western Cheshire Volunteer Cavalry* was raised with six troops
@@ -45,6 +50,7 @@
 
 ## 1804
 
+* Leary p17
 * 21-Jan, reviewed at Tabley Park by Prince William Frederick and presented with standards
 * 15-Jul, inspected by Lt Col Hare
 * Sep, attached to Maj Gen Burton's brigade, headquartered in Chester
@@ -52,33 +58,40 @@
 
 ## 1805
 
+* Leary p22
 * Permament duty in Liverpool (date uncertain but possibly November)
 
 ## 1806
 
+* Leary p23
 * *The Earl of Chester's Legion* formed as a parent formation, also incorporating the *Knutsford Loyal Volunteers* infantry companies which had been formed in 1803
 * 18-Oct, permament duty in Liverpool
 
 ## 1807
 
+* Leary p24
 * Permament duty in the local area of each troop
 
 ## 1808
 
+* Leary p24
 * 14-Nov, permament duty in Chester
 
 ## 1809
 
+* Leary p25
 * 16-Oct, permament duty in Chester, but without the Legion as infantry were not allowed to be called up
 * 25-Oct, 50th coronoation jubilee for King George III at Knutsford church, Legion reviewd by Col Sir John Leiecester, dinner provided for everyone in local pubs, with officesr in the Angel Inn, followed by fireworks on the heath
 
 ## 1810
 
+* Leary p26
 * The *Western Cheshire Volunteer Cavalry* was disbanded
 * Troops called out for drill in their local areas
 
 ## 1812
 
+* Leary p27
 * 13-Apr, start of dealing industrial unrest relating to the cotton trade
   * Cumberland Militia mobilised
   * Macclesfield Troop mobilised by 1600 under Capt J Daintry to the factory of Goodall and Birchinall in Macclesfield
@@ -104,11 +117,13 @@
 
 ## 1813
 
+* Leary p30
 * 18-Oct, annual training in Knutsford
 * 22-Oct, reviewed by Maj Gen Dirom in Tabley Park, followed by roast beef and ale, vase presented to Col Sir John Leicester by Lt Col Augustus Leicester
 
 ## 1814
 
+* Leary p35
 * Mar, re-titled *Prince Regent's Corps of Cheshire Yeomanry Cavalry*
 * May, Napoleon exiled
 * *Stockport Cavalry* troop absorbed into the regiment
@@ -120,6 +135,7 @@
 
 ## 1815
 
+* Leary p40
 * Feb, Napoleon returned from exile, leading to the *Hundred Days* campaign
 * 16-Jul, Col Sir John Leicester offerd to mobilise two troops but was declined
 * 21-Oct, permament duty at Chester
@@ -130,6 +146,7 @@
 
 ## 1816
 
+* Leary p43
 * Feb, cuts to militia and the Yeomanry
 * 9-May, officers and SNCOs met in Warren Buckeley Arms
 * Sep, Lt Col Edward Townshend assumed command
@@ -138,6 +155,7 @@
 
 ## 1817
 
+* Leary p48
 * The post-Napoleonic depression, the Corn Laws, and a bad harvest in 1816, led to more industrial unrest
 * 13-Jan, meeting in Stockport to protest against the Corn Laws, Stockport Troop held at readiness
 * 15-Jan, Stockport Troop went to the theatre in full dress
@@ -177,6 +195,7 @@
 
 ## 1818
 
+* Leary p60
 * 25-Apr, dinner of all Yeomanry officers at Thatched House, London, arranged by Col Sir John Leicester
 * 25-May, permament duty at Liverpool
 * 28-May, dinner provided by the Major of Liverpool at the Town Hall, regiment inspected by Gen Dirom
@@ -195,6 +214,7 @@
 
 ## 1819
 
+* Leary p67
 * Increased industrial unrest
 * Jan
   * Hentry 'Orator' Hunt, a former Wiltshire Yeoman until he was dismissed and imprissioned for threatening his commanding officer was now an aggitator of the unrest
