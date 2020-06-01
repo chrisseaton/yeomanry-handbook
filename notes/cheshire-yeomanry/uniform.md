@@ -23,3 +23,7 @@
 ## 1813
 
 * The Stockport Troop became Hussars and so were issued a pelisse
+
+## 1838
+
+* New blue undress jackets and caps

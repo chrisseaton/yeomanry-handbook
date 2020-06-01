@@ -23,3 +23,13 @@
 * 1827, Sandiway Head, Hoo Green, Knutsford
 * 1828, Mere
 * 1829, Liverpool
+* 1830, Liverpool
+* 1831, unknown
+* 1832, deferred due to cholera
+* 1833, Bootle
+* 1834, in the local area of each troop
+* 1835, unknown
+* 1836, Liverpool
+* 1837, Liverpool
+* 1838, Liverpool
+* 1839, Liverpool

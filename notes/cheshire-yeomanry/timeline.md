@@ -388,19 +388,87 @@
 * 15-Jun, annual camp at Liverpol
 * 19-Jun, reviewed by Gen Jordan
 
+## 1830
+
+* Leary p112
+* 21-May, annual training at Liverpool
+* 28-May, Regiment reviewed by Col Kearney of 2nd Dragoon Guards
+* 6-Jul, accession of William IV proclaimed at Congleton, followed by procession headed by the Troop
+* Dec, Dunham Massey Squadron and Stockport Troop sent to Hyde in case of industrial unrest, but not needed
+
+## 1831
+
+* Leary p113
+* 8-Sep
+  * coronation of William IV, procession in Stockport including the Troop
+  * officers of the Troop, 51st Regiment of Infantry, sixty town gentleman dined at Bulkeley Arms, members of the Troop dined at the Red Lion Hotel, Heaton Norris
+* Nov, Capt W Egerton became Lt Col - CO?
+
 ## 1832
 
-* The Mere troop moved to Morley
+* Leary p113
+* 1-May, Cap Humphrey Trafford took command of the Mere Troop, which renamed as the Morley Troop and moved there and the horses changed to grey
+* 31-May
+  * meeting of officers at Knutsford to discuss how cholera had appeared in Liverpool and then Chester
+  * had been planning for annual camp on 2-Jun
+  * decided to defer annual camp
 
-## 1827
+## 1833
 
-* Re-titled *King's Own Regiment of Cheshire Yeomanry Cavalry*
+* Leary p114
+* Jun, annual camp in Liverpool
+* 7-Jun, reviewed on Bootle sands by Maj Barton of 12th Lancers
+
+## 1834
+
+* Leary p114
+* Annual camp in the local area of each troop
+* 17-Sep, dinner given to Capt Lord Warren de Tabley of the gentlemen, tradesmen, and other inhabitants of Knutsford, as he returned home from abroad
+
+## 1835
+
+* Leary p114
+* 24-Sep, Capt Lord Warren de Tabley entertained his troop at the Royal George Hotel, Knutsford
+* 1-Dec, Lt Col Egerton became Lt Col Commandant as Lt Col Grey had died
+
+## 1836
+
+* Leary p114
+* 12-Jan, Capt Lord Warren de Tabley became Lt Col (CO)
+* 23-Sep, annual camp at Liverpool
+
+## 1837
+
+* Leary p115
+* Re-titled *King's Own Regiment of Cheshire Yeomanry Cavalry* (query)
+* Jun, annual camp at Liverpool, inspected by Col Chatterton of 4th Royal Irish Dragoon Guards
+* 26-Jul, Morley Troop in Stratford in case of industrial unrest, but services not required
 
 ## 1838
 
-* Re-titled *King's Regiment of Cheshire Yeomanry Cavalry*
+* Leary p115
 * The independent troop at Adlington was disbanded
-* The Knutsford troop moved to Tatton, and a second Macclesfield troop to Congleton
+* The Knutsford troop moved and renamed to Tatton, and the second Macclesfield troop to Congleton
+* New blue undress jackets and caps
+* Re-titled *King's Regiment of Cheshire Yeomanry Cavalry* (query)
+* 25-May, annual training at Liverpool, inspected by Col Chatterton
+
+## 1839
+
+* Leary p116
+* 31-May, annual training at Liverpool
+* New industrial unrest
+* May, orders allowing the Yeomanry to be called out when required
+* 22-Jul, Chartist meeting at Macclesfield, Tabley and Tatton Troops to Macclesfield, but not required
+* Aug, twelve light cavalry carbines issued for each troop (Stockport Troop already had them)
+* 12-Aug
+  * Chartists planning simultaneous meetings around the country
+  * intelligence that they would march to Chester to free people about to stand trial
+  * whole Regiment mobilised, then told only one squadron needed
+  * Forest and Arley Troops formed the squadron
+* 13-Aug, Morley and Stockport Troops sent to Hyde
+* 17-Aug, Regiment stood down
+* 25-Sep, Congleton Troop took part in ceremony to lay foundation stone for a viaduct to link with Manchester and Birmingham Railway, but it was never completed
 
 ## 1848
 
