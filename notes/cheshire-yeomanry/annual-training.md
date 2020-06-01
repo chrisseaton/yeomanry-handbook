@@ -13,3 +13,13 @@
 * 1817, none due to late harvest
 * 1818, Liverpool
 * 1819, grounds of Capt Daintry
+* 1820, Liverpool
+* 1821, in the local area of each troop
+* 1822, in the local area of each troop
+* 1823, Bootle
+* 1824, Knutsford Raceground
+* 1825, Liverpool
+* 1826, in the local area of each troop
+* 1827, Sandiway Head, Hoo Green, Knutsford
+* 1828, Mere
+* 1829, Liverpool

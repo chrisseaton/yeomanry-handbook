@@ -19,3 +19,7 @@
 ## 1818
 
 * Blue overalls
+
+## 1813
+
+* The Stockport Troop became Hussars and so were issued a pelisse

@@ -1,4 +1,4 @@
-## Prehistory
+# Prehistory
 
 ## 1660
 
@@ -137,8 +137,8 @@
 
 * Leary p40
 * Feb, Napoleon returned from exile, leading to the *Hundred Days* campaign
-* 16-Jul, Col Sir John Leicester offerd to mobilise two troops but was declined
-* 21-Oct, permament duty at Chester
+* 16-Jul, Col Sir John Leicester offered to mobilise two troops but was declined
+* 21-Oct, permanent duty at Chester
 * 27-Oct, due to be reviewed but rained off
 * 28-Oct, Knutsford Troop given dinner and 'good stout October' by the King and Constitution Club
 * Stockport Troop sent petition to Col Sir John Leicester that they didn't want to serve under Caopt Gee, who offered resignation which was accepted
@@ -150,7 +150,7 @@
 * Feb, cuts to militia and the Yeomanry
 * 9-May, officers and SNCOs met in Warren Buckeley Arms
 * Sep, Lt Col Edward Townshend assumed command
-* Yeomanry held at rediness for more industrial unrest
+* Yeomanry held at readiness for more industrial unrest
 * 4-Dec, meeting at George Inn, in Nether Knutsford about additional funds to make the Yeomanry more effective for industrial unrest, every man got a scarlet cloth jacket, a belt or girdle with brass buckle, a buff leather strap with plated button and loop, and a blue cloth foraging cap
 
 ## 1817
@@ -184,7 +184,7 @@
   * a rocket would be fired from St Peter's Field to initiate
   * King's Dragoon Guards, already there, joined by 15th Light Dragoons, 54th Regiment of Infantry
   * Knutsford Troop in Manchester, remained of Regiment held at readiness
-  * possibly due to the massive military and civil prescence in the city nothing happened
+  * possibly due to the massive military and civil presence in the city nothing happened
 * 4-Jun, public dinner in Manchester in celebration of the King's birthday, toast was drunk to the Cheshire Yeomanry
 * 19-Jul, band formed, with nineteen members
 * 25-Aug, Maj Brooke entertained at Mere Hall
@@ -201,7 +201,7 @@
 * 28-May, dinner provided by the Major of Liverpool at the Town Hall, regiment inspected by Gen Dirom
 * 14-Jul
   * industrial unrest in Stockport, caused by strike breaking
-  * Quartermaster Howard commanding the troop in abscence of officers
+  * Quartermaster Howard commanding the troop in absence of officers
   * Riot Act read, several members of the Troop injured
 * 17-Jul, Mere, Knutsford, Tabley troops arrived, stayed until 19-Jul, Stockport not stood down util 23-Jul
   * Sergeant Brownhill of Stockport Troop fired a pistol through the window of a house, his troop feared he'd be dismissed and petitioned to keep him until their captain could conduct an investigation
@@ -217,7 +217,7 @@
 * Leary p67
 * Increased industrial unrest
 * Jan
-  * Hentry 'Orator' Hunt, a former Wiltshire Yeoman until he was dismissed and imprissioned for threatening his commanding officer was now an aggitator of the unrest
+  * Hentry 'Orator' Hunt, a former Wiltshire Yeoman until he was dismissed and imprisoned for threatening his commanding officer was now an aggitator of the unrest
   * thrown out of the Theatre Royal, Manchester, by officers of the 7th Hussars, for hissing during the National Anthem
 * 15-Feb
   * meeting at Sandy Brow, Stockport to discss a petition to the King
@@ -225,9 +225,9 @@
   * the Stockport Troop and the 80th Regiment of Infantry were called out
   * the Riot Act was read and the military dispersed the crowd
 * 17-May, Macclesfield and Stockport annual training in the grounds of Capt Daintry, followed by other Troops later on
-* 11-Jul, orders recieved to hold the Regiment at readiness
+* 11-Jul, orders received to hold the Regiment at readiness
 * 15-Jul, warned to be full "as prepared prepared as possible"
-* 24-Jul, assination thread (against Col Sir John Leicester?) published by Saxton, an associate of Hunt
+* 24-Jul, assassination thread (against Col Sir John Leicester?) published by Saxton, an associate of Hunt
 * 2-Aug
   * meeting on St Peter's Field called
   * the meeting was pronounced illegal based on previous experience
@@ -271,28 +271,122 @@
 
 ## 1820
 
-* The Legion was re-titled *Prince Regent's Cheshire Volunteer Legion*
-* An independent troop in Adlington raised
+* Leary p90
+* 1-Jan, infantry of the Legion recieved colours, Knutsford Troop supported
+* 29-Jan, the Prince of Wales became George IV
+* Richard Leigh of Adlington proposed raising a troop of lancers
+  * commanded by Richard Townley Crosse
+  * attached to the Macclesfield Squadron
+  * uniform had a smaller cut of the skit of the jacket and a different cap
+* 3-Feb, proposed by Col Sir John Leicester to re-title the Legion the *King's Cheshire Volunteer Legion*, but initially refused
+* 7-Feb, Ashton Heyes Troop attended the Proclomation of the King
+* 8-Feb, Macclesfield Squadron, Knutsford Troop, Stockport Troop attended the Proclomation of the King
+  * dined at the *Warren Bulkeley Arms*
+* 10-Feb, Dunham Massey Squadron troop inspected by Lord Stamford and Lt Col Townshend
+* 11-Mar, the Legion was titled *King's Cheshire Volunteer Legion*
+* 17-Apr, dinner at Hoo Green, officers presented Lt Col Townshend with a plate as a mark of friendship
+* 24-Apr, dinner and ball at the Exchange at Manchester in honour of the King's birthday
+* 10-Jun, annual training at Liverpool for six days
 
 ## 1821
 
-* The Legion was re-titled *King's Cheshire Volunteer Legion*
+* Leary p100
+* Annual camp in the local areas of each troop
+* 12-Feb, Dunham Massey Troop exercised in Dunham Park, given alen by Capt Egerton
+* 26-Feb, Dunham Massey Troop exercised in Dunham Park, to compete for two swords presented by Capt Egerton and Lt Trafford for swordsmanship
+
+## 1822
+
+* Leary p101
+* Annual camp in the local areas of each troop
+* 23-Apr, Stockport Troop celebrated the King's birthday
+* Dec, regulations changed so that training became eight days permanent duty, eight days field duty, twelve division drills
+
+## 1823
+
+* Leary p101
+* The Stockport Troop became Hussars and were issued a pelisse
+* 21-May, permanent duty at Bootle, inspected by Col Freeth
+* 1-Oct, Capt Newton of the Stockport Troop presented two silver wine coolers by Capt Humphreys RN and other notable inhabitants of Stockport
 
 ## 1824
 
+* Leary p102
+* 5-Apr
+  * Macclesfield Troop called out to a labour disturbance about working hours
+  * rioters assembled in a church
+  * Capt Daintry, Lt Grimsditch, other members, severely hurt by thrown stones
+  * Stockport Hussars and Addlington Lancers called out, message sent to Manchester to mobilise the Dragoons stationed there but the disturbance ended
+* 31-May, inspection on Knutsford Raceground by Maj Watts of 3rd Dragoon Guards
 * The Legion's infantry companies were disbanded and it was re-titled *King's Cheshire Legion of Yeomanry Cavalry*
 
 ## 1825
 
+* Leary p103
+* May, permanent duty at Liverpool
+* 3-Jun, inspected by Lt Gen Sir John Byng on the sands at Liverpool
 * The two yeomanry regiments amalgamated into the *King's Cheshire Regiment of Yeomanry Cavalry*, not including the independent troops at Adlington and Stockport
+
+## 1826
+
+* Leary p104
+* Apr, more industrial unrest
+* 27-Apr
+  * meeting on St Peter's Fields about destroying power looms
+  * Regiment mobilised
+  * rioting in Ancoats
+  * 2200 Riot Act read, streets cleared by Queen's Bays
+* 28-Apr
+  * mobs gathered at New Cross, Manchester
+  * 1400 Queen's Bays, led by Capt Eckersley moved to New Cross
+  * Company of 60th Rifles sent forward
+  * 2000 Riot Act read
+  * 2200 order restored
+  * Queen's Bays stayed at the top of Mosley Street
+* 29-Apr
+  * mobs gathered at New Cross again
+  * Regiment ordered to patrol the streets
+  * 1300 mob started to break windows, Riot Act read
+  * the Regiment and the Queen's Bays continued to patrol for the rest of the day
+* Annual training in the local area of each troop
+* 27-May, Dunham Massey Squadron dined at the Dogg Inn, Dunham, Griffin and Stamford Arms Inns, Bowden
+* 12-Jun, officers assembled at Knutsford in the house of Cap Hollins to present Lt Col Townshend a sabre, then went to eh Angle Inn
+* Col Sir John Leicester elevated to the peerage as Baron de Tabley of Tabley House
+* 19-Jun
+  * twenty-one rounds of cannon fired in front of Tabley House
+* Col Leicester's tenants entertained at the Crown Inn, Northwich, the Windmill, Tabley, the Smoker, Plumbley, and the Crown, Peover
+* 3-Jul, Stockport Hussars took part I the opening of Wellington Bridge at Stockport
 
 ## 1827
 
+* Leary p108
+* 18-Jun, Col Leicester died
+* Feb, Capt W Tatton Egerton took command of the Knutsford Troop
+* Lt Col G Harry, 8th Baron Grey of Groby, became Lt Col Commandant (Honorary Colonel)
+* 22-Jul, Northwich and Forest Troops annual camp at Sandiway Head
+* 23-Jul, Mere and Stockport Troops and the Dunham Massey Squadron  annual camp at Hoo Green
+  * firework display held
+* wine and ale at Sharston Hall from Thomas Worthington
+* 3-Aug, dinner given to Capt Howard by members of the Troop and its supporters, presented a plate and cup
+* 6-Aug, Tabley, Knutsford, Adlington Toops, and the Macclesfield Squadron annual camp at Knutsford
+* 28-Dec, Capt Howard entertained the Troop and supporters in return at the Warren Bulkeley Arms, Stockport
+* 31-Dec, celebrations of Capt W Tatton Egerton coming of age
 * The Ashton Heys troop moved to Forest
+
+## 1828
+
+* Leary p112
+* 4-Aug, annual camp at Mere
 
 ## 1829
 
-* The Northwich troop moved to Arley
+* Leary p112
+* 16-May
+* Capt R Egerton Warburton took command of the Northwich Troop
+  * the Troop was renamed and moved to Arley
+* the Troop later gained the nicknamed *Saucy Arley*
+* 15-Jun, annual camp at Liverpol
+* 19-Jun, reviewed by Gen Jordan
 
 ## 1832
 

@@ -1,7 +1,10 @@
-# Honoray Colonels
+# Honorary Colonels
+
+In earlier years known as 'Colonel Commandant', and the split between this role and what we would now call the Commanding Officer is less clear.
 
 * Col Sir John Leicester, 1st Baron de Tabley, 1803-1827
-* Lt Col G Leicester, 2nd Barton de Tabley, 1836-1869
+* Lt Col G Harry, 8th Baron Grey of Groby, 1827-...
+* Lt Col G Leicester, 2nd Baron de Tabley, 1836-1869
 * Lt Col H Grosvenor, 1st Duke of Westminster, 1869-1899
 * Col C Stanhope, 8th Earl of Harrington, 1905-1917
 * Col H Grosvenor, 2nd Duke of Westminster, 1917-1953

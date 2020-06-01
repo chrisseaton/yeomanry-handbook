@@ -1,6 +1,6 @@
 # Battle Honours
 
-## South Africa
+## The Boer Wars
 
 * South Africa 1900-01
 
