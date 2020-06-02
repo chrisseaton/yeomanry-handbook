@@ -9,3 +9,4 @@ In earlier years known as Second in Command, and the split between this role and
 * Lt Col P Brooke?
 * Lt Col W Egerton, 1831-1836
 * Lt Col Lord de Tabley, 1836-...
+* Very confusing here - Leary p140

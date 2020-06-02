@@ -470,13 +470,110 @@
 * 17-Aug, Regiment stood down
 * 25-Sep, Congleton Troop took part in ceremony to lay foundation stone for a viaduct to link with Manchester and Birmingham Railway, but it was never completed
 
+## 1840
+
+* Leary p119
+* 6-Jun, annual training at Liverpool
+
+## 1841
+
+* Leary p119
+* 4-Jun, annual training at Liverpool
+* 9-Jun, two silver cups presented by NCOs and troopers to Lt Col Egerton on Bootle Sands
+* Jul, the Regiment's fund managers went bankrupt, funds recovered from the Treasury
+* Congleton Troop dispersed a riot on the High Street
+
+## 1842
+
+* Leary p121
+* 27-May, annual training at Liverpool, with new saddles and holsters
+* 15-Jul
+  * a thousand colliers passed through Congleton, towards Poynton, on their way to a meeting in Manchester
+  * Congleton Troop mobilised, marched to the Red Bull
+  * redirected to Newcastle-under-Lyme, remained on duty here with the Uttoxeter Troop of the Staffordshire Yeomanry
+* 18-Jul, Congleton Troop demobilised
+* 22-Jul, Congleton and Tatton Troops mobilised for Congleton again
+* 5-Aug, whole Regiment mobilised by this point as thousands of Chartists mobilised
+* 11-Aug
+  * ten thousand Chartists marched into Stockport
+  * Unrest in Macclesfield and Congleton
+* 11-Sep, unrest seems to have ceased
+
+## 1843
+
+* Leary p129
+* Inhabitants of Macclesfield and Stockport raised money for new standards and a silver trumpet
+* 5-Jun
+  * standards and trumpet presented on annual training at Liverpool, on Bootle Sands, by the Mayor of Macclesfield, E Proctor
+  * standards returned to the Adelphi Hotel which was headquarters during training
+  * dinner there, with two bucks from Tatton
+  * later hospitality at the Town Hall
+* 7-Jun, reviewed by Lt Col St Quintin of 17th Lancers
+
+## 1844
+
+* Leary p136
+* 13-May, annual training at Chester
+* 5-Jun, inspected by Col Stowell of the 12th Royal Lancers
+
+## 1845
+
+* Leary p137
+* 28-May, annual training at Chester
+* 2-Jun, inspected by Maj Gen Sir William Warre, commandant of the Nothern District
+* 3-Jun, banquet by Mayor and Town Council of Chester and those of Chester Garrison including 47th Regiment of Infantry and the Royal Artillery, at the Albion Hotel
+* 4-Jun
+  * inspected by Lt Col the Hon J Yorke Scarlette of the 5th Dragoon Guards
+  * banquet at the Royal Hotel
+
+## 1846
+
+* Leary p138
+* 10-Jun, annual training at Chester, field exercises on the Roodee
+* 16-Jun, inspected by Maj Gen Sir William Warre
+* 17-Jun
+  * inspected by Lt Col Parlby of the 4th Light Dragoons
+  * banquet at the Albion Hotel
+* 10-Sep, breakfast at the Assembly Room, Congleton, portrait of Capt Antrobus of the Congleton Troop presented by the Troop, painted by H Pickersgill RA
+* New caps, undress jackets with scarlet facings, and cloaks issued
+
+## 1847
+
+* Leary p139
+* 3-Jun, annual training at Chester
+* 8-Jun, inspected by Lt Gen Sir Thomas Arbuthnot, commander of the Northern and Midland District
+* 9-Jun, inspected by Lt Col Smith of the King's Dragoon Guards
+* 9-Nov
+  * meeting at the George Hotel, Knutsford
+  * confusion about Hon Col and CO
+* 14-Nov, at Tatton but I can't work out what was going on
+
 ## 1848
 
+* Leary p143
+* Feb, the French Revolution
+* 17-Mar, large gathering at the Free Trade Hall, Manchester, followed by meetings all around the country
+* 10-?, Chartist meeting at Macclesfield, Tatton and Congleton Troops mobilised to Monk's Heath, but not needed
+* 8-Jun, annual training in Chester
+* 13-Jun, Regimental band discussed at the Royal Hotel, Chester
+* 14-Jun, inspected by Lt Col Chatterton of the 4th Royal Irish Dragoon Guards
+* 14-Aug
+  * Arley Troop assembled in Appleton for change of command to Capt Lyon
+  * dinner at Appleton Hall
+* 29-Nov
+  * Toft Troop met at the Roebuck Inn, Mobberley to present sword, belt, sabretache, pouch, and belt
+  * new Regimental band played
+* Dec, percussion-cap carbines supplied in exchange for old flint-lock pistols and carbines
+* Some new swords issued in place of old scimitars
 * The first Macclesfield troop moved to Toft, and the Morley troop to Adlington
 
 ## 1849
 
+* Leary p148
 * 15-Jan, re-titled *The Earl of Chester's Regiment of Yeomanry Cavalry*
+* Annual training in the local area of each troop
+* 14-Dec, yeomanry ball and mess dinner was planned, but postponed due to death of Queen Dowager
+* 21-Dec, postponed ball and dinner
 
 ## 1855
 

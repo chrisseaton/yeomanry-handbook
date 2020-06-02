@@ -27,3 +27,7 @@
 ## 1838
 
 * New blue undress jackets and caps
+
+## 1836
+
+* New undress jackets with scarlet facings, caps and cloaks issued

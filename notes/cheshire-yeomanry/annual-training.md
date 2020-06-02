@@ -1,5 +1,7 @@
 # Annual Training
 
+Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands.
+
 * 25-Sep-1804, Liverpool
 * 1805, Liverpool
 * 18-Oct-1805, Liverpool
@@ -33,3 +35,13 @@
 * 1837, Liverpool
 * 1838, Liverpool
 * 1839, Liverpool
+* 1840, Liverpool
+* 1841, Liverpool
+* 1842, Liverpool
+* 1843, Liverpool
+* 1844, Chester
+* 1845, Chester
+* 1846, Chester
+* 1847, Chester
+* 1848, Chester
+* 1849, in the local area of each troop
