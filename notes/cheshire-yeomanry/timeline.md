@@ -575,13 +575,87 @@
 * 14-Dec, yeomanry ball and mess dinner was planned, but postponed due to death of Queen Dowager
 * 21-Dec, postponed ball and dinner
 
+## 1850
+
+* Leary p149
+* 30-May, annual training at Chester
+* Prices for shooting introduced
+* 5-Jun, inspected by Lt Col Arthur 3rd Dragoon Guards
+
+## 1851
+
+* Leary p149
+* Annual training in the local area of each troop
+* Apr, Cap Leicester of the Toft Troop died, Cornet Leigh of the Tabley Troop replaced him
+* Whole Regiment issued light cavalry swords, made by Lilly in Birmingham
+
+## 1852
+
+* Leary p151
+* 6-Jun, annual training in Chester
+* 9-Jun, inspected by Lt Col French, of the 2nd Dragoon Guards
+* Jul, Altrincham, Toft, Stockport, Adlington Troops held at readiness due to unrest during elections at Macclesfield and Stockport
+* 13-Oct
+  * Forest and Arley Troops, with Royal Welsh Fusiliers and artillery, formed guard of honour for Queen Victoria as she passed through Chester
+  * Forest Troop at the entrance to the station
+  * Arley Troop at Flookersbrook
+  * Officers wore black crape scarves and swords knots and shako ornaments were covered, drums and colour-staffs draped, due to mourning FM the Duke of Wellington
+
+## 1853
+
+* Leary p152
+* 2-Jun, annual training at Chester
+* 8-Jun, inspected by Lt Col Yorke of the 1st Royal Dragoons
+
+## 1854
+
+* Leary p152
+* 23-Apr, Toft, Adlington, Dunham, Altrincham Troops held at readiness for unrest in Stockport
+* 16-May, Toft, Adlington, Dunham, Altrincham Troops not required and stood down
+* 23-May, annual training at Chester
+* 23-May, *The Grand Review March*, composed by Quatermaster Twiss, played for the first time
+* 29-May, inspected by Maj Unitt, of the 3rd King's Own Light Dragoons
+
 ## 1855
 
-* The Dunham Massey troop was disbanded
+* Leary p152
+* 15-May, annual training at Chester
+* 18-May, reviewed by Lt Gen Sir Harry Bart, commanding the Northern District
+* 19-May, parade on the Roodee with a detachment of the Royal Artillery and 1st Royal Cheshire Militia, for the Queen's Birthday
+* 21-May, inspected by Maj Hagart of the 7th Queen's Own Hussars
 
 ## 1856
 
-* A troop was raised at Cholmondeley
+* Leary p153
+* 3-Jun, annual training at Chester
+* The Dunham Massey troop was disbanded, apparently due to a misunderstanding of some kind
+* 6-Jun, reviewed by Lt Gen Sir Harry Smith of the 1st Regiment of Life Guards
+* The Marquis of Cholmondeley raised a troop at Cholmondeley, Charles Cholmondeley commanding
+* 20-Oct, Cholmondeley Troop paraded at Cholmondeley Park
+
+## 1857
+
+* Leary p154
+* No annual training
+
+## 1858
+
+* Leary p154
+* 28-Sep, annual training in Chester (delayed due tot he Royal Agricultural Society visiting Chester)
+* 1-Oct
+  * reviewed by Lt Gen Sir Harry Smith of the 1st Regiment of Life Guards
+  * dinner with reviewing officer, some Lancashire Hussars, the Kerry Militia, and local gentlemen
+* 4-Oct
+  * reviewed by Col McMahon of the 5th Dragoon Guards
+  * banquet at the Royal Hotel
+  * silver fish-knife and York presented to Capt Hill
+
+## 1859
+
+* Leary p155
+* 24-May, annual training at Chester
+* 30-May, Col McMahon of the 5th Dragoon Guards
+* 14-Jun, Sebastopol gun presented to the town of Congleton, escorted by the Congleton Troop
 
 ## 1871
 

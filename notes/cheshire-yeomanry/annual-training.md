@@ -1,13 +1,13 @@
 # Annual Training
 
-Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands.
+Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely means the Roodee. Especially earlier camp was billeted in the town. Called variously 'permanent duty', 'annual training', 'annual camp'.
 
-* 25-Sep-1804, Liverpool
+* 1804, Liverpool
 * 1805, Liverpool
-* 18-Oct-1805, Liverpool
+* 1805, Liverpool
 * 1807, in the local area of each troop
-* 14-Nov-1808, Chester
-* 16-Oct-1809, Chester
+* 1808, Chester
+* 1809, Chester
 * 1810, in the local area of each troop
 * 1813, Knutsford
 * 1814, none
@@ -45,3 +45,13 @@ Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands.
 * 1847, Chester
 * 1848, Chester
 * 1849, in the local area of each troop
+* 1850, Chester
+* 1851, in the local area of each troop
+* 1852, Chester
+* 1853, Chester
+* 1854, Chester
+* 1855, Chester
+* 1856, Chester
+* 1857, none
+* 1858, Chester
+* 1859, Chester
