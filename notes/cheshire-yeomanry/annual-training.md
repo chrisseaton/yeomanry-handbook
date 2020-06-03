@@ -65,3 +65,13 @@ Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely 
 * 1867, Chester
 * 1868, Chester
 * 1869, unknown
+* 1870, Chester
+* 1871, Chester
+* 1872, Chester
+* 1873, Chester
+* 1874, unknown, presumably Chester
+* 1875, Chester
+* 1876, Chester
+* 1877, Chester
+* 1878, Chester
+* 1879, local areas

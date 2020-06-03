@@ -730,19 +730,82 @@
 * 31-Oct, Lt Col Grosvenor's father died and he became Marquis of Westminster
 * 10-Dec, mess meeting at the George Hotel, Knutsford
 
+## 1870
+
+* Leary p164
+* Jan, Westley Richards breechloading carbines issued, Troop Sergeant Majors attached to the 1st Dragoon Guards to learn about them
+* 2-Aug, annual training at Chester
+* 6-Aug, inspected by Maj Gen Sir John Garvock
+* 8-Aug
+  * inspected by Col J Reynolds
+  * candelabra presented (to who?) at the Grosvenor Hotel, Chester
+
 ## 1871
 
-* The Toft and Altrincham troops were disbanded
+* Leary p168
+* Regiment reduced to eight troops - the Toft and Altrincham troops were disbanded
+* 16-May, annual training at Chester
+* 22-May, inspected by Col Shute of the 4th Dragoon Guards
+* Outpost and reconnaissance duties were introduced
+
+## 1872
+
+* Leary p169
+* 4-Jun, annual training at Chester
+* 10-Jun, inspected  by Lt Col Maclean of the 13th Hussars
+* 13-Dec, meeting of officers at Knutsford, voted to pay for the band from ten days' pay from each officer
+
+## 1873
+
+* Leary 170
+* 20-May, annual training at Chester
+* 26-May, inspected at Eaton Park by Col Seager, Inspector of Yeomanry Cavalry
+* Badge of Honour instituted, best mean in each troop, worn on the arm for a year
+* Cornet became Second Lieutenant
+* An arrangement was set up with the Crystal Palace Band and J Phasey
+* Dec, troops measured for new overalls
+
+## 1874
+
+* Leary p171
+* RHQ moved from Knutsford to Chester
+* 2-Jun, annual training, presumably at Chester
+* 8-Jun, inspected by Col Seager
 
 ## 1875
 
+* Leary p173
+* 1-Jun, annual training at Chester
+* 7-Jun, inspected by Col Seager
 * A second troop was raised at Forest
 
 ## 1876
 
-* The first Forest troop moved to Eaton
-* A troop was raised at Peckforton
-* The Adlington troop and the independent troop at Stockport were disbanded
+* Leary 174
+* 23-May, annual training at Chester
+* 29-May, inspected by Col Seager
+* The Adlington troop and the independent troop at Stockport were disbanded, and troops were raised at Peckforton and (somewhere else) instead
+* The Forest Troop became the Eaton Troop
+
+## 1877
+
+* Leary 174
+* 1-Jun, annual training at Chester
+* 5-Jun, exercised in outpost and reconnaissance duty
+* 7-Jun, inspected by Col Seager
+* 13-Nov, Lady Beatrice Grosvenor escorted by the Eaton Troop to Chester Station on the occasion of her marriage with C Cavendish
+
+## 1878
+
+* Leary 175
+* 22-May, annual training, presumably at Chester
+* Snider carbines issued in place of the Westley Richards
+
+## 1879
+
+* Leary p175
+* May, annual training around local areas
+* 24-May, regimental shooting competition at Sealand, sword competition at the Roodee
 
 ## 1882
 
