@@ -27,7 +27,7 @@ Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely 
 * 1829, Liverpool
 * 1830, Liverpool
 * 1831, unknown
-* 1832, deferred due to cholera
+* 1832, none due to cholera
 * 1833, Bootle
 * 1834, in the local area of each troop
 * 1835, unknown
@@ -55,3 +55,13 @@ Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely 
 * 1857, none
 * 1858, Chester
 * 1859, Chester
+* 1860, none
+* 1861, Chester
+* 1862, Chester
+* 1863, Chester
+* 1864, Chester
+* 1865, Chester
+* 1866, none due to a cattle plague
+* 1867, Chester
+* 1868, Chester
+* 1869, unknown

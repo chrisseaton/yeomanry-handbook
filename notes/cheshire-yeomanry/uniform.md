@@ -31,3 +31,12 @@
 ## 1836
 
 * New undress jackets with scarlet facings, caps and cloaks issued
+
+## 1863
+
+* Headdress changed from the Light Dragoon shako to the Hussar busby
+
+## 1865
+
+* New stable jackets issued
+

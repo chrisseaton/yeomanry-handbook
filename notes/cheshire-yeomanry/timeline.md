@@ -657,6 +657,79 @@
 * 30-May, Col McMahon of the 5th Dragoon Guards
 * 14-Jun, Sebastopol gun presented to the town of Congleton, escorted by the Congleton Troop
 
+## 1860
+
+* Leary p155
+* No annual training
+
+## 1861
+
+* Leary p155
+* 4-Jun, annual training at Chester
+* 18-Jun, reviewed by Lt Col S Jenyns of the 13th Light Dragoons
+
+## 1862
+
+* Leary p156
+* 27-May, annual training at Chester
+* 2-Jun, inspected by Lt Col Gall of the 14th King's Hussars
+
+## 1863
+
+* Leary p157
+* 9-Jun, annual training at Chester
+* 13-Jun, general meeting at the Albion Hotel, Chester, formed a second band at Macclesfield sharing a bandmaster with the current band
+* 15-Jun, inspected by Lt Col Gall of the 14th King's Royal Hussars
+* Headdress changed from the Light Dragoon shako to the Hussar busby
+
+## 1864
+
+* Leary p158
+* 21-May, annual training at Chester
+* 6-Jun, inspected by Lt Col Dudley de Ros of the 1st Life Guards
+
+## 1865
+
+* Leary p158
+* 23-May, annual training at Chester
+* 24-May, feu-de-joie for the Queen's Birthday
+* 29-May, inspected by Maj Gen G Paget, Inspector-General of Cavalry
+* New stable jackets and instruments issued
+
+## 1866
+
+* Leary p159
+* No annual training due to a cattle plague
+
+## 1867
+
+* Leary p160
+* Feb, held at readiness due to feared attack by Fenians on Chester Castle
+* 13-Jul, annual training at Chester
+* 5-Aug, inspected by Col J Reynolds
+
+## 1868
+
+* Leary p160
+* 4-Aug, annual training at Chester
+* 8-Aug, inspected as part of the *Chester Volunteer Force* by Maj Gen J Lindsay, Inspector-General of the Reserve Forces
+* 10-Aug, inspected by Col J Reynolds
+
+## 1869
+
+* Leary p161
+* 15-May, Trumpeter William Smith became Trumpet Major
+* 1-Jun, annual training at Chester
+* 2-Jun, feu-de-joie for the Queen's Birthday
+* 7-Jun, inspected by Col J Reynolds
+* 14-Oct
+  * Forest Troop and detachment of the Cholmondeley Troop escorted the Prince of Wales to open the new Chester Town Hall
+  * Lt Col Lord de Tabley address at Grosvenor Hotel on behalf of the Freemasons of Chester
+* Lt Col Lord de Tabley resigned command
+* 30-Oct, Lt Col H Grosvenor assumed command
+* 31-Oct, Lt Col Grosvenor's father died and he became Marquis of Westminster
+* 10-Dec, mess meeting at the George Hotel, Knutsford
+
 ## 1871
 
 * The Toft and Altrincham troops were disbanded

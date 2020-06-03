@@ -8,5 +8,5 @@ In earlier years known as Second in Command, and the split between this role and
 * Lt Col E Townshend, 1816-...
 * Lt Col P Brooke?
 * Lt Col W Egerton, 1831-1836
-* Lt Col Lord de Tabley, 1836-...
+* Lt Col Lord de Tabley, 1836-1869
 * Very confusing here - Leary p140
