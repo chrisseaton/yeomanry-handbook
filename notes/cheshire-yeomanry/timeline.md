@@ -807,24 +807,87 @@
 * May, annual training around local areas
 * 24-May, regimental shooting competition at Sealand, sword competition at the Roodee
 
+## 1880
+
+* Leary p176
+* 1-Jun, annual training at Chester
+* 7-Jun, inspected by Col Thesiger
+* 2-Oct, the Arley Troop provided an escort to the homecoming after the marriage of Capt Piers Egerton-Warburton
+
+## 1881
+
+* Leary p178
+* Annual training in local areas
+
 ## 1882
 
-* A troop was raised on the Wirral
-* The Peckforton troop was disbanded
+* Leary p179
+* 24-Apr, the Peckforton troop was disbanded and a troop was raised on the Wirral instead
+* 16-May, annual training at Chester
+* 22-May, inspected by Col Thesiger, and by Gen Cameron for outpost duty
 
 ## 1883
 
-* A troop was raised at Bostock
-* The troop at Cholmondeley was disbanded
+* Leary p179
+
+* The troop at Cholmondeley was disbanded and a troop was raised in Middlewich instead, named the Bostock Troop
+* 29-May, annual training at Chester
+* 4-Jun, inspected by Col Lord Ralph Kerr, new Inspector of Auxiliary Cavalry
+* A Tournament Committee was formed and competition in tent-pegging, lemon-cutting, horse-back wrestling, bending
+
+## 1884
+
+* Leary p181
+* 3-Jun, annual training at Chester
+* Prizes for signally were instituted
+* 9-Jun, inspected by Maj Gen Willis of the Northern District, and Col Lord Ralph Kerr
+* Discussion of 'road reports' - probably route recess and map-making
+* Dec, precedence established for Yeomanry regiments, with the Cheshire Yeomanry as the 16th most senior
+
+## 1885
+
+* Leary p183
+* 27-Jan, precedence amended on new evidence to be 8th most senior
+* 9-Jun, annual training at Chester
+* 15-Jun, inspected by Maj Gen Willis of the Northern District, and Col Lord Ralph Kerr
 
 ## 1886
 
-* The Wirral troop was disbanded
+* Leary p183
+* 22-Jan
+  * Prince of Wales and sons Prince Albert Victor and Prince George planned to visit the Duke of Westminster
+  * Eaton Troop would have provided an escort
+  * intelligence that the Fenians (Irish republicans) may be planning some kind of action
+  * the Prince's train stopped at Waverton and he drove instead
+* 27-Jan, visit ended and Eaton Troop escorted him back
+* May, the Wirral troop was disbanded
+* 31-May, annual training at Chester
+* 7-Jun, inspection by Col Lord Ralph Kerr
+
+## 1887
+
+* Leary p185
+* 2-May, Tatton Troop escort to the Prince and Princess of Wales as they visited Tatton Park on the way to the Jubilee Exhibition at Manchester
+* May, annual training in Chester
+* 19-May, inspected by Col Lord Ralph Kerr
+* Signals emphasised more
 
 ## 1888
 
-* *H Troop* was raised at Eaton, a second Tatton troop was raised
+* Leary p192
+* 29-May, annual training at Chester
+* 7-Jun, inspected Col C W Duncome of the 1st Life Guards, new Inspector of Auxiliary Cavalry
+* *H Troop* was raised at Eaton, a second Tatton troop was raised in place of the Tabley Troop
 * The Tabley troop was disbanded
+
+## 1889
+
+* Leary p195
+* 21-May, annual training at Chester
+* 30-May, visit by FM The Duke of Cambridge, dined with officers at the Grosvenor Hotel
+* 31-May, inspected by the Duke of Cambridge, followed by lunch with the officers at the Grosvenor Hotel
+* 14-Jul, Sha of Persia visited Liverpool, Chester, Eaton Hall, Eaton Squadron Escorted
+* New swords issued
 
 ## 1893
 
