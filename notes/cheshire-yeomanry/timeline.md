@@ -889,9 +889,96 @@
 * 14-Jul, Sha of Persia visited Liverpool, Chester, Eaton Hall, Eaton Squadron Escorted
 * New swords issued
 
+## 1890
+
+* Leary p196
+* 13-May, annual training, presumably at Chester
+* 22-May, inspected by Col Duncombe
+
+## 1891
+
+* Leary p197
+* 10-Feb, meeting at the Grosvenor Hotel, Duke of Westminster announced he was retiring
+* 26-May, annual training, presumably at Chester
+* 27-May
+  * Regimental Polo team established
+  * first match against Liverpool Club, Yeomanry won 3-2
+  * second match against 12th Royal Lancers, Yeomanry lost
+* 5-Jun, inspected by Col Duncombe
+* 21-Oct, Col Scotland died
+* 24-Oct, funeral of Col Scotland at Eccleston, Eaton Squadron represented
+
+## 1892
+
+* Leary p200
+* Idea of Squadroning introduced
+* 16-Apr
+  * first Regimental point-to-point race against the 1st Royal Lancers
+  * four-mile course
+  * started at the Elms, Pulford
+  * Winning-post at Eccleston Hill near Eaton Drive
+* 17-May, annual training at Chester
+* 25-May, polo match against the 12th Royal Lancers, Yeomanry won 4-3
+* 26-May, inspected by Col Duncombe
+
 ## 1893
 
+* Leary p203
+* 22-Feb, lecture on Outpost Duty to the Tatton Squadron at the George Inn, Knutsford
 * 1-Apr, Troops were organised into squadrons for the first time, with *A Squadron* having *A Troop* at Knutsford and *B Troop* at Tatton, *B Squadron* having *C Troop* and *H Troop* at Eaton, *C Squadron* having *D Troop* at Bostock and *F Troop* at Northwich, and *D Squadron* having *E Troop* at Forest and *G Troop* at Macclesfield
+* Brigaded with the Lancashire Hussars in 9th Yeomanry Brigade, part of 5th Division, 3rd Army Corps
+* 30-May, annual training at Chester
+* 2-Jun, polo match against the Chester (County) Club, Yeomanry lost 5-3
+* 5-Jun, polo match against the 14 Hussars, draw 5-5, extra time 6-6
+* 7-Jun, polo match against the Liverpool Club, Yeomanry lost 7-2
+* 8-Jun, inspected by Col W Brownlow
+* 24-Dec, a renovated ward at the Chester General Infirmary was funded partially by the officers in memory of Col Scotland
+
+## 1894
+
+* Leary p207
+* 7-Apr
+  * point-to-point against the 14th Hussars
+  * 4-mile course from Handley to Saighton Towers
+* 15-May, annual training at Chester
+* 16-May, polo match against the 14th Hussars on the Roodee, rained the whole time, Yeomanry won 5-4
+* 18-May, polo match against the Chester County Club, Yeomanry lost 5-4
+* 21-May, polo match against the Rugby Club, Yeomanry won 7-4
+* 22-May, smoking concert at the Town Hall for the whole Regiment
+* 23-May, polo match against the Lancashire Hussars, Yeomanry lost 4-3
+* 24-May, inspected by Col Gough, Inspector General of Cavalry
+* 23-Jun, first Yeomanry Regimental Polo Match, at Hurlingham, between the Cheshire Yeomanry and the Lancashire Hussars, Yeomanry won 2-1
+
+## 1895
+
+* Leary p209
+* 11-Apr
+  * point-to-point against the 5th (Inniskilling) Dragoons
+  * course from Kinnerton, to the Cuckoo's Nest near Pulford
+  * Prize was a silver bowl
+* 15-May, annual training, presumably at Chester
+* 16-May, polo match against the Inniskilling Dragoons, Yeomanry lost 5-3
+* 20-May, polo match against the Chester Country Club, draw 5-5
+* 22-May, polo match against the Liverpool Club
+* 24-May, inspected by Col Gough
+
+## 1896
+
+* Leary p210
+* Point-to-point with the Carbineers cancelled due to death of Capt Yates, Master of the Cheshire Hounds
+* 21-May, annual training at Chester
+* 26-May, outpost practice, supervised by Gen Sir Baker Russell
+* 30-May, inspected by Col Gough
+* 2-Sep, Maritini-Metford Carbine issued
+* Emphasis began to be placed on rifles 
+
+## 1897
+
+* Leary p211
+* 8-May, Prince and Princess of Wales and Princess Victoria passed through Chester on visit to the Duke of Westminster, escorted by the Eaton Troop
+* 13-May, annual training at Chester
+* 18-May, smoking concert for the Regiment by the Major
+* 21-May, inspected by Col Gough, lunch for officers at the Grosvenor Hotel
 
 # The Boer Wars
 
