@@ -59,7 +59,7 @@
 ## 1805
 
 * Leary p22
-* Permament duty in Liverpool (date uncertain but possibly November)
+* Permanent duty in Liverpool (date uncertain but possibly November)
 
 ## 1806
 
@@ -197,7 +197,7 @@
 
 * Leary p60
 * 25-Apr, dinner of all Yeomanry officers at Thatched House, London, arranged by Col Sir John Leicester
-* 25-May, permament duty at Liverpool
+* 25-May, permanent duty at Liverpool
 * 28-May, dinner provided by the Major of Liverpool at the Town Hall, regiment inspected by Gen Dirom
 * 14-Jul
   * industrial unrest in Stockport, caused by strike breaking
@@ -982,9 +982,25 @@
 
 # The Boer Wars
 
+## 1899
+
+* Cooke p33
+* 28-Dec, banquet at Winsford given by John Cooke, Cap Mosley Leigh spoke to recruit for the Imperial Yeomanry
+
 ## 1900
 
-* Formed the 21st and 22nd Companies of the 2nd Battalion of the Imperial Yeomanry
+* Cooke p33
+* 25-Jan
+  * banquet at the Grosvenor Hotel and a smoking concert at Cheshter Town Hall, organised by Harr Barnston of Crewe Hill, for the men who had volunteered for the 21st Company
+  * banquet at Northwich for men who had volunteered for the 22nd Company
+* 26-Jan, Maj Tomkinson entertained both companies at the Grosvenor Hotel
+* 29-Jan, farewell service at Chester Cathedral
+* 30-Jan, both companies left Liverpool on SS Lake Erie, only 22nd took horses
+* 6-Feb, SS Lake Erie stopped at Las Palmas for two huors
+* 25-Feb, SS Lake Erie arrived at Table Bay
+* 26-Feb
+  * SS Lake Erie docked in Cape Town and troops disembarked
+  * companies arrived at Maitland Camp at 1900
 
 ## 1901
 
