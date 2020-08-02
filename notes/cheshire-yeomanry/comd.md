@@ -10,13 +10,24 @@ In earlier years known as Second in Command, and the split between this role and
 * Lt Col E Townshend, 1816-1829
 * Lt Col P Brooke, 1929-1831
 * Lt Col W Egerton, 1831-1836
-* Lt Col Lord de Tabley, 1836-1869
-* Lt Col H Grosvenor, 1st Duke of Westminster, 30 Oct 1869 - Mar 1891 (possibly combined with Hon Col)
+* Lt Col G Leicester, 2nd Baron de Tabley, 1836-1869 (possibly combined with Hon Col from 1847)
+* Lt Col H Grosvenor, 1st Duke of Westminster, 30 Oct 1869 - Mar 1891 (possibly combined with Hon Col until 1891, then Hon Col alone until 1899)
 * Lt Col P Egerton-Warburton, Mar 1891 - Mar 1899
 * Lt Col C A Stanhope, 8th Earl of Harrington, Mar 1899 - Sep 1905
-* ...
+* Lord Arthur Grosvenor, 1905 - ...
 * Lt Col G Egerton-Warburton, 8 May 1920 - 8 May 1926
-* ...
+* Lt Col S E Ashton, 8 May 1926 - 8 May 1930
+* Lt Col T M Brooks, 8 May 1930 - ...
+* Lt Col Williams, 1936 - Oct 31 ?
+* Lt Col Dennis
+* Lt Col Langford-Brooke (descented of Thomas Langford-Brooke who joined 1797?)
+* Lt Col Leicester-Warren (great-great-grandson of Leicester?)
+* Lt Col Verdin
+* Lt Col Mather
+* Lt Col Churton
+* Lt Col Sparrow, 1 Apr 1960 - 
+* Lt Col Williams
+* Lt Col Barkworth?
 
 ## Officers Commanding
 

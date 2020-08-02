@@ -31,9 +31,9 @@ The Grosvenor family have been associated with the Cheshire Yeomanry since their
 * 1951 - 2016
 * 1985, 1 Jan, assumed command
 * 1987, 31 Dec, resigned command
-* 2001, became Honorary Colonel of the [Royal Mercian and Lancastrian Yeomanry](../rmly)
+* 2001, became Honorary Colonel of the RMLY
 * 2008, resigned as Honorary Colonel
 
 ## Today
 
-Hugh Grosvenor (1991) is the 7th Duke of Westminster. He visited the [Cheshire Yeomanry](../cy) in 2019.
+Hugh Grosvenor (1991) is the 7th Duke of Westminster. He visited the CY in 2019.
