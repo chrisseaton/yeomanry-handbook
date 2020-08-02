@@ -4,8 +4,7 @@ In earlier years known as 'Colonel Commandant', and the split between this role 
 
 * Col Sir John Leicester, 1st Baron de Tabley, 1803-1827
 * Lt Col G Harry, 8th Baron Grey of Groby, 1827-1835
-* Vacant?, 1835-1847
-* Very confusing here - Leary p140
+* Lc Col W Egerton, 1835-1847
 * Lt Col G Leicester, 2nd Baron de Tabley, 1847-1869
 * Lt Col H Grosvenor, 1st Duke of Westminster, 1869-1899
 * Col C Stanhope, 8th Earl of Harrington, 1905-1917

@@ -13,6 +13,11 @@ The Egerton and Grey families were associated with the Cheshire Yeomanry in thei
 * 1825, 18 June, commissioned into the Cheshire Yeomanry and assumed command of the Ashton Heyes Troop
 * 1870, commanded?
 
+## Wilbraham Egerton (1781)
+
+* 1 September 1781 – 25 April 1856
+* 1835, became Honorary Colonel Cheshire Yeomanry
+
 ## William Tatton Egerton, 1st Baron (1806)
 
 * 30 December 1806 - 21 February 1883
