@@ -6,7 +6,7 @@ In earlier years known as 'Colonel Commandant', and the split between this role 
 * Lt Col G Harry, 8th Baron Grey of Groby, 1827-1835
 * Lc Col W Egerton, 1835-1847
 * Lt Col G Leicester, 2nd Baron de Tabley, 1847-1869
-* Possibly gapped or combined with Comd
+* Possibly gapped or combined with Comd, so counted as Lt Col H Grosvenor from 1969
 * Lt Col H Grosvenor, 1st Duke of Westminster, 1891-1899
 * Col C Stanhope, 8th Earl of Harrington, 1905-1917
 * Col H Grosvenor, 2nd Duke of Westminster, 1917-1953
