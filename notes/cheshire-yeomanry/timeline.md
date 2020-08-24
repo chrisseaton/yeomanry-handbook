@@ -255,7 +255,7 @@
   * Cheshire Yeomanry still mobilised in Manchester
   * at 1300 a message arrived that there was rioting in Macclesfield, including destroying the property of Thomas Grimsditch, an officer
   * Squadron dispatched
-  * 31st Foot arrived before Cheshire Yeomnary and dispersed the riot
+  * 31st Foot arrived before Cheshire Yeomanry and dispersed the riot
 * 18-Aug, Regiment demobilised
 * 19-Aug, Stockport Troop paraded, burnt flags captured from the Reformers
 * 29-Sep, Loyal Knutsford Volunteer infantry reformed
@@ -1010,7 +1010,7 @@
 
 ## 1908
 
-* 1-Apr, re-titled *Cheshire Yeomanry (Earl of Chester's)* as part of the *Territorial Force*, with *A Squadron* at Knutsford (detachments at Alderley Edge, Hale, Sale), *B Squadron* at Eaton (detachments at Chester, Farndon, Aldford, Pulford, Tattenhall, Kelsall), *C Squadron* at Northwich (detachments at Great Budworth, Appleton, Warburton, Nantwich, Winsford, Middlewich, Tarporley, Crewe), and *D Squadron* at Macclesfield (detachments at Congleton, Stockport, Adlington)
+* 1-Apr, re-titled *Cheshire Yeomanry (Earl of Chester's)* as part of the *Territorial Force*, with *A Squadron* at Knutsford (Detachments at Alderley Edge, Hale, Sale), *B Squadron* at Eaton (Detachments at Chester, Farndon, Aldford, Pulford, Tattenhall, Kelsall), *C Squadron* at Northwich (Detachments at Great Budworth, Appleton, Warburton, Nantwich, Winsford, Middlewich, Tarporley, Crewe), and *D Squadron* at Macclesfield (Detachments at Congleton, Stockport, Adlington)
 
 # The First World War
 
