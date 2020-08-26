@@ -20,7 +20,7 @@ In earlier years known as Second in Command, and the split between this role and
 * Lt Col T M Brooks, 8 May 1930 - ...
 * Lt Col Williams, 1936 - Oct 31 ?
 * Lt Col Dennis
-* Lt Col Langford-Brooke (descented of Thomas Langford-Brooke who joined 1797?)
+* Lt Col Langford-Brooke (descendent of Thomas Langford-Brooke who joined 1797?)
 * Lt Col Leicester-Warren (great-great-grandson of Leicester?)
 * Lt Col Verdin
 * Lt Col Mather
