@@ -29,6 +29,8 @@ The Grosvenor family have been associated with the Cheshire Yeomanry since their
 ## Gerald Grosvenor, 6th Duke of Westminster (1951)
 
 * 1951 - 2016
+* Born as the 9th Earl Grosvenor
+* 1979, became 6th Duke of Westminster
 * 1985, 1 Jan, assumed command
 * 1987, 31 Dec, resigned command
 * 2001, became Honorary Colonel of the RMLY
