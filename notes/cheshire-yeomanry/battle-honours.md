@@ -22,4 +22,4 @@
 ## The Second World War
 
 * Syria 1941
-* Nort-West Europe 1945 (honorary distinction)
+* North-West Europe 1945 (honorary distinction)

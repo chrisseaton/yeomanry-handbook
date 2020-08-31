@@ -22,3 +22,12 @@
 * 1999, *C (Cheshire Yeomanry) Squadron*, Royal Mercian and Lancastrian Yeomanry
 
 In the 1800s the title of the Regiment seemed fairly fluid.
+
+## 80 Signals
+
+Split from the Cheshire Yeomanry in 1973.
+
+* 1967, 80 (Cheshire) Signal Squadron, 33rd (Lancashire and Cheshire) Signal Regiment
+* 1973, 80 (Cheshire Yeomanry) Signal Squadron, 33rd (Lancashire and Cheshire) Signal Regiment
+* 2009, 33 (Lancashire) Signal Squadron, 32nd Signal Regiment
+* 2014, 842 Signal Troop, 33 (Lancashire) Signal Squadron, 37 (Wales and Western) Signal Regiment
