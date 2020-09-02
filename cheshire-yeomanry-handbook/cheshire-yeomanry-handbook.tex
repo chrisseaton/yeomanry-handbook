@@ -1,10 +1,9 @@
 \documentclass[a4paper,7pt]{book}
 
-\usepackage[a5paper,bindingoffset=10mm,%
-left=15mm,right=15mm,top=15mm,bottom=15mm,%
-footskip=10mm]{geometry}
+\usepackage[a5paper,bindingoffset=10mm,left=15mm,right=15mm,top=15mm,bottom=15mm,footskip=10mm]{geometry}
 \usepackage{multicol}
 \usepackage{libertine}
+\usepackage{graphicx}
 \usepackage{titlesec}
 
 \usepackage{perpage}
@@ -12,10 +11,32 @@ footskip=10mm]{geometry}
 
 \title{Handbook of the \\ History of the \\ Cheshire Yeomanry}
 \author{Chris Seaton}
+\date{1797-2020}
+
+\title{
+  \includegraphics[width=0.5\textwidth]{1898-leary-feathers.pdf} \\
+  \vspace{10mm}
+  \huge Handbook \\
+  \vspace{2mm}
+  \Large of the History of the \\
+  \Huge Cheshire Yeomanry
+}
 
 \begin{document}
 
+\frontmatter
+
 \maketitle
+
+\vspace*{\fill}
+
+\begin{center}
+  Copyright \textcopyright 2020 Chris Seaton
+\end{center}
+
+\tableofcontents{}
+
+\mainmatter
 
 \input{nomrolls/nomrolls.tex}
 
