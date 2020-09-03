@@ -50,7 +50,7 @@ In earlier years known as Second in Command, and the split between this role and
 * Maj N L Hill, 1 Jul 99 - 30 Sep 99
 * Maj J R Compston, 1 Oct 99 - 31 Mar 02
 * Maj C J Ledsham, 1 Apr 02 - 24 Feb 05
-* Maj Sir James Lindsay, 3rd Baronet - 25 Feb 05, 21 Apr 07
+* Maj Sir James Lindsay, 3rd Baronet, 25 Feb 05 - 21 Apr 07
 * Maj R W N Collis, 22 Apr 07 - 25 Apr 10
 * Maj P C Morris, 26 Apr 10 - 16 Feb 13
 * Maj W N W Bankes, 17 Feb 13 - 30 Apr 14
