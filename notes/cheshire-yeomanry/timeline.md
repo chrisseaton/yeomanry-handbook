@@ -1000,7 +1000,7 @@
 * 25-Feb, SS Lake Erie arrived at Table Bay
 * 26-Feb
   * SS Lake Erie docked in Cape Town and troops disembarked
-  * companies arrived at Maitland Camp at 1900
+  * companies arrived at Maitland Camp at 1900 hours
 
 ## 1901
 

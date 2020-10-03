@@ -20,6 +20,7 @@
 * 1971, *C Squadron, Queen's Own Yeomanry
 * 1972, *C (Cheshire Yeomanry) Squadron*, Queen's Own Yeomanry
 * 1999, *C (Cheshire Yeomanry) Squadron*, Royal Mercian and Lancastrian Yeomanry
+* 2014, *C (Cheshire Yeomanry) Squadron*, Queen's Own Yeomanry
 
 In the 1800s the title of the Regiment seemed fairly fluid.
 
