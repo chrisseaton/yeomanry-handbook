@@ -7,7 +7,7 @@
 
 ## 1797
 
-* Provisional Corps of Cavarly for the County of Chester
+* Provisional Corps of Cavalry for the County of Chester
   * Chester Cavalry
   * Macclesfield Cavalry
   * Stockport Cavalry

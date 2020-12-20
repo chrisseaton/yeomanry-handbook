@@ -14,18 +14,18 @@
 
 * Leary p4
 * County Palatine of Cheshire presided over by Sir Peter Warburton
-* 26-Nov, Goerge Harry, 5th Earl of Stamford and Warrington, the Lord Lieutenant of the county, convened a meeting at Northwich to discuss raising a corps of Light Cavalry
+* 26-Nov, George Harry, 5th Earl of Stamford and Warrington, the Lord Lieutenant of the county, convened a meeting at Northwich to discuss raising a corps of Light Cavalry
 
 ## 1797
 
 * Leary p5
-* 17-Jan, three troops of *Provisional Corps of Cavarly for the County of Chester* raised with Col Sir John Liecester and Lt Col Thomas Dod
+* 17-Jan, three troops of *Provisional Corps of Cavalry for the County of Chester* raised with Col Sir John Leicester and Lt Col Thomas Dod
 * 5-Jun, *Macclesfield Cavalry* troop raised
 
 ## 1798
 
 * Leary p5
-* May, James Lumm, an Irish reb was arrested by a King's messenger at Buxton on a charge of treason, and escorted to Chester by the Macclesfield troop
+* May, James Lumm, an Irish rebbel was arrested by a King's messenger at Buxton on a charge of treason, and escorted to Chester by the Macclesfield troop
 * 24-May, *Stockport Cavalry* troop raised
 * 7-Jul, *Nether Knutsford Association Cavalry* troop raised - the Association additionally had two companies of infantry, and was at the time distinct from Sir John Leicester's corps
 
@@ -54,7 +54,7 @@
 * 21-Jan, reviewed at Tabley Park by Prince William Frederick and presented with standards
 * 15-Jul, inspected by Lt Col Hare
 * Sep, attached to Maj Gen Burton's brigade, headquartered in Chester
-* 25-Sep, permament duty in Liverpool under command of Prince William Frederick
+* 25-Sep, permanent duty in Liverpool under command of Prince William Frederick
 
 ## 1805
 
@@ -65,23 +65,23 @@
 
 * Leary p23
 * *The Earl of Chester's Legion* formed as a parent formation, also incorporating the *Knutsford Loyal Volunteers* infantry companies which had been formed in 1803
-* 18-Oct, permament duty in Liverpool
+* 18-Oct, permanent duty in Liverpool
 
 ## 1807
 
 * Leary p24
-* Permament duty in the local area of each troop
+* permanent duty in the local area of each troop
 
 ## 1808
 
 * Leary p24
-* 14-Nov, permament duty in Chester
+* 14-Nov, permanent duty in Chester
 
 ## 1809
 
 * Leary p25
-* 16-Oct, permament duty in Chester, but without the Legion as infantry were not allowed to be called up
-* 25-Oct, 50th coronoation jubilee for King George III at Knutsford church, Legion reviewd by Col Sir John Leiecester, dinner provided for everyone in local pubs, with officesr in the Angel Inn, followed by fireworks on the heath
+* 16-Oct, permanent duty in Chester, but without the Legion as infantry were not allowed to be called up
+* 25-Oct, 50th coronation jubilee for King George III at Knutsford church, Legion reviewed by Col Sir John Leicester, dinner provided for everyone in local pubs, with officers in the Angel Inn, followed by fireworks on the heath
 
 ## 1810
 
@@ -180,7 +180,7 @@
   * 500 protesters got as far as Macclesfield but the 2nd Troop stopped them
 * Col Sir John Leicester tried to raise more troops but people now not as supportive, fearing the Blanketeers
 * 25-Mar
-  * a plot to sieze the barracks, prison, banks, private houses in Manchester was discovered
+  * a plot to seize the barracks, prison, banks, private houses in Manchester was discovered
   * a rocket would be fired from St Peter's Field to initiate
   * King's Dragoon Guards, already there, joined by 15th Light Dragoons, 54th Regiment of Infantry
   * Knutsford Troop in Manchester, remained of Regiment held at readiness
@@ -217,10 +217,10 @@
 * Leary p67
 * Increased industrial unrest
 * Jan
-  * Hentry 'Orator' Hunt, a former Wiltshire Yeoman until he was dismissed and imprisoned for threatening his commanding officer was now an aggitator of the unrest
+  * Henry 'Orator' Hunt, a former Wiltshire Yeoman until he was dismissed and imprisoned for threatening his commanding officer was now an aggitator of the unrest
   * thrown out of the Theatre Royal, Manchester, by officers of the 7th Hussars, for hissing during the National Anthem
 * 15-Feb
-  * meeting at Sandy Brow, Stockport to discss a petition to the King
+  * meeting at Sandy Brow, Stockport to discuss a petition to the King
   * a Cap of Liberty (symbol of the French revolution) was displayed and part of the crowd tried to seize it
   * the Stockport Troop and the 80th Regiment of Infantry were called out
   * the Riot Act was read and the military dispersed the crowd
@@ -237,14 +237,14 @@
 * 16-Aug
   * Regiment assembled at Sale Moor at 0900, arrived Manchester 1100
   * Magistrates assembled at a house on Mount Street
-  * joined by Manchester and Salford Yeomanry Cavarly, recently formed with two troops under Major Trafford
+  * joined by Manchester and Salford Yeomanry Cavalry, recently formed with two troops under Major Trafford
   * joined by 15th Hussars under Lt Col Dalrymple
   * joined by detachment of 88th Foot under Col McGregor
   * joined by two pieces of artillery under Maj Dyneley
-  * joined by detachemnt of 31st Food under Lt Col Guy L'Estrange, who also commaned the whole
+  * joined by detachemnt of 31st Food under Lt Col Guy L'Estrange, who also commanded the whole
   * crowd now between 60-150,000, one hundred yards wide
   * speakers were to be intended to be arrested but constables could not reach them
-  * a troop of the Manchester and Salford Yeomanry Cavarly under Capt Birley advanced into the crowd and became cut off
+  * a troop of the Manchester and Salford Yeomanry Cavalry under Capt Birley advanced into the crowd and became cut off
   * Cheshire Yeomanry and 15th Hussars arrived at the crowd at this point and were ordered to disperse the crowd
   * 1900, Riot Act Read
   * 6 killed, 60-600 injured
@@ -263,7 +263,7 @@
 * 28-Oct, Ashton Heyes Troop dined at Cote Brook
 * 3-Nov, Stockport Troop dined at the Angel Inn, Stockport
 * 10-Nov, meeting to increase the number in the Stockport Troop
-* 3-Dec, re-titled *Prince Regent's 1st Regiment of Cheshire Yeomanry Cavalry*, with ten troops, and a second *Prince Regent's 2nd Regiment of Cheshire Yeomanry Cavalry* was raised with six troops, commanded by Thomas Cholmondele
+* 3-Dec, re-titled *Prince Regent's 1st Regiment of Cheshire Yeomanry Cavalry*, with ten troops, and a second *Prince Regent's 2nd Regiment of Cheshire Yeomanry Cavalry* was raised with six troops, commanded by Thomas Cholmondeley
 * 13-Dec, mobilised for Manchester again, but kept in lower towns instead
 * 16-Dec, demobilised
 * 27-Dec, dinner at the White Lion Inn, Stockport, Troop presented a sabre to Capt Newton
@@ -272,15 +272,15 @@
 ## 1820
 
 * Leary p90
-* 1-Jan, infantry of the Legion recieved colours, Knutsford Troop supported
+* 1-Jan, infantry of the Legion received colours, Knutsford Troop supported
 * 29-Jan, the Prince of Wales became George IV
 * Richard Leigh of Adlington proposed raising a troop of lancers
   * commanded by Richard Townley Crosse
   * attached to the Macclesfield Squadron
   * uniform had a smaller cut of the skit of the jacket and a different cap
 * 3-Feb, proposed by Col Sir John Leicester to re-title the Legion the *King's Cheshire Volunteer Legion*, but initially refused
-* 7-Feb, Ashton Heyes Troop attended the Proclomation of the King
-* 8-Feb, Macclesfield Squadron, Knutsford Troop, Stockport Troop attended the Proclomation of the King
+* 7-Feb, Ashton Heyes Troop attended the Proclamation of the King
+* 8-Feb, Macclesfield Squadron, Knutsford Troop, Stockport Troop attended the Proclamation of the King
   * dined at the *Warren Bulkeley Arms*
 * 10-Feb, Dunham Massey Squadron troop inspected by Lord Stamford and Lt Col Townshend
 * 11-Mar, the Legion was titled *King's Cheshire Volunteer Legion*
@@ -292,7 +292,7 @@
 
 * Leary p100
 * Annual camp in the local areas of each troop
-* 12-Feb, Dunham Massey Troop exercised in Dunham Park, given alen by Capt Egerton
+* 12-Feb, Dunham Massey Troop exercised in Dunham Park, given ale by Capt Egerton
 * 26-Feb, Dunham Massey Troop exercised in Dunham Park, to compete for two swords presented by Capt Egerton and Lt Trafford for swordsmanship
 
 ## 1822
@@ -316,7 +316,7 @@
   * Macclesfield Troop called out to a labour disturbance about working hours
   * rioters assembled in a church
   * Capt Daintry, Lt Grimsditch, other members, severely hurt by thrown stones
-  * Stockport Hussars and Addlington Lancers called out, message sent to Manchester to mobilise the Dragoons stationed there but the disturbance ended
+  * Stockport Hussars and Adlington Lancers called out, message sent to Manchester to mobilise the Dragoons stationed there but the disturbance ended
 * 31-May, inspection on Knutsford Raceground by Maj Watts of 3rd Dragoon Guards
 * The Legion's infantry companies were disbanded and it was re-titled *King's Cheshire Legion of Yeomanry Cavalry*
 
@@ -385,7 +385,7 @@
 * Capt R Egerton Warburton took command of the Northwich Troop
   * the Troop was renamed and moved to Arley
 * the Troop later gained the nicknamed *Saucy Arley*
-* 15-Jun, annual camp at Liverpol
+* 15-Jun, annual camp at Liverpool
 * 19-Jun, reviewed by Gen Jordan
 
 ## 1830
@@ -520,7 +520,7 @@
 
 * Leary p137
 * 28-May, annual training at Chester
-* 2-Jun, inspected by Maj Gen Sir William Warre, commandant of the Nothern District
+* 2-Jun, inspected by Maj Gen Sir William Warre, commandant of the Northern District
 * 3-Jun, banquet by Mayor and Town Council of Chester and those of Chester Garrison including 47th Regiment of Infantry and the Royal Artillery, at the Albion Hotel
 * 4-Jun
   * inspected by Lt Col the Hon J Yorke Scarlette of the 5th Dragoon Guards
@@ -613,7 +613,7 @@
 * 23-Apr, Toft, Adlington, Dunham, Altrincham Troops held at readiness for unrest in Stockport
 * 16-May, Toft, Adlington, Dunham, Altrincham Troops not required and stood down
 * 23-May, annual training at Chester
-* 23-May, *The Grand Review March*, composed by Quatermaster Twiss, played for the first time
+* 23-May, *The Grand Review March*, composed by Quartermaster Twiss, played for the first time
 * 29-May, inspected by Maj Unitt, of the 3rd King's Own Light Dragoons
 
 ## 1855
@@ -991,7 +991,7 @@
 
 * Cooke p33
 * 25-Jan
-  * banquet at the Grosvenor Hotel and a smoking concert at Cheshter Town Hall, organised by Harr Barnston of Crewe Hill, for the men who had volunteered for the 21st Company
+  * banquet at the Grosvenor Hotel and a smoking concert at Chester Town Hall, organised by Harr Barnston of Crewe Hill, for the men who had volunteered for the 21st Company
   * banquet at Northwich for men who had volunteered for the 22nd Company
 * 26-Jan, Maj Tomkinson entertained both companies at the Grosvenor Hotel
 * 29-Jan, farewell service at Chester Cathedral

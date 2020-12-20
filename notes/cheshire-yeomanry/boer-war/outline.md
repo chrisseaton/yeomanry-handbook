@@ -1,6 +1,6 @@
 # Phases
 
-## Suppression of the rebellion in the north-western ditrict of Cape Colony
+## Suppression of the rebellion in the north-western district of Cape Colony
 
 ## Pursuit of Generals Hertzog and Brand
 

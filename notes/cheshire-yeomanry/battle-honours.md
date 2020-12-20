@@ -11,7 +11,7 @@
 * Hindenburg Line
 * Épéhy
 * Pursuit to Mons
-* France and Falnders 1918
+* France and Flanders 1918
 * Egypt 1916-17
 * Gaza
 * Jerusalem
