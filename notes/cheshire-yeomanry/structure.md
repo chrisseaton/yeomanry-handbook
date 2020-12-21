@@ -16,12 +16,26 @@
 ## 1803
 
 * Earl of Chester's Regiment of Cheshire Yeomanry Cavalry
+  * Tabley Troop
+  * Mere Troop
+  * Ashton Heyes Troop
+  * Knutsford Troop
+  * Macclesfield Troop
+  * Northwich Troop
 * Western Cheshire Volunteer Cavalry
 
 ## 1806
 
 * Earl of Chester's Legion
   * Earl of Chester's Regiment of Cheshire Yeomanry Cavalry
+    * Tabley Troop
+    * Mere Troop
+    * Ashton Heyes Troop
+    * Knutsford Troop
+    * 1st Macclesfield Troop
+    * 2nd Macclesfield Troop
+    * Northwich Troop
+    * Stockport Troop
   * Western Cheshire Volunteer Cavalry
   * Knutsford Loyal Volunteers
 
@@ -42,6 +56,9 @@
 * Earl of Chester's Legion
   * Prince Regent's 1st Regiment of Cheshire Yeomanry Cavalry
   * Prince Regent's 2nd Regiment of Cheshire Yeomanry Cavalry
+  * (unclear which regiment they came under)
+    * Dunham Massey Troop
+    * Altrincham Troop
   * Knutsford Loyal Volunteers
 
 ## 1820
