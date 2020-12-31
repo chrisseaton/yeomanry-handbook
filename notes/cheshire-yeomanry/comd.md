@@ -60,3 +60,4 @@ In earlier years known as Second in Command, and the split between this role and
 * Maj W N W Bankes, 1 May 14 - 1 Apr 15
 * Maj A Siddell, 2 Apr 15 - 31 Oct 16
 * Maj A S Davies, 1 Nov 16 - 31 Mar 20
+* Maj C G Seaton, 1 Apr 20
