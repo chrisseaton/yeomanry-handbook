@@ -7,6 +7,5 @@
 * Edward VII, 22-Jan-1901 - 6-May-1910
 * George V, 6-May-1910 - 20-Jan-1936
 * Edward VII, 20-Jan-1936 - 11-Dec-1936
-* George VI, 11-Dec-1936 - 6- Feb-1952
+* George VI, 11-Dec-1936 - 6-Feb-1952
 * Elizabeth II, 6-Feb-1952 - present
-
