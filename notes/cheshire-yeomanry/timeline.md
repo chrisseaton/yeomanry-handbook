@@ -6,7 +6,7 @@
 
 ## 1666
 
-* A troop of Light Horse for the hundreds of Broxton, Northwich, Nantwich, and Eddisbury was commanded by Lt Col Sir Philip Egerton
+* A grouping of troops of volunteer cavarly for the hundreds of Broxton, Northwich, Nantwich, and Eddisbury was commanded by Lt Col Sir Philip Egerton, as the *Light Horse of Cheshire*. Includes families such as Egerton, Cholmondeley, Grosvenor, Wilbraham, Warburton, and more.
 
 # Early history
 

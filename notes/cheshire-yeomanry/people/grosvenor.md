@@ -2,6 +2,10 @@
 
 The Grosvenor family have been associated with the Cheshire Yeomanry since their early history until the recent day, and at times the City of London Yeomanry and the North Irish Horse. They held the titles Baron Grosvenor, Viscount Belgrave, Marquess of Westminster, and Duke of Westminster.
 
+## Sir Thomas Grosvenor
+
+* 1666, Light Horse of Cheshire
+
 ## Hugh Grosvenor, 1st Duke of Westminster (1825)
 
 * 1825 - 1899
