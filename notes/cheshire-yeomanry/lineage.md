@@ -1,5 +1,6 @@
 # Lineage
 
+* 1660, Two troops of Light Horse for the County of Cheshire
 * 1797, *Provisional Corps of Cavalry for the County of Chester*
 * 1803, *Cheshire Yeomanry Cavalry* and *Western Cheshire Volunteer Cavalry*
 * 1803, *Earl of Chester's Regiment of Cheshire Yeomanry Cavalry* and *Western Cheshire Volunteer Cavalry*
@@ -17,7 +18,7 @@
 * 1947, *Cheshire Yeomanry (Earl of Chester's)*
 * 1967, *Cheshire Yeomanry (Earl of Chester's Territorials)*
 * 1969, *Cheshire Yeomanry (Earl of Chester's)*
-* 1971, *C Squadron, Queen's Own Yeomanry
+* 1971, *C Squadron*, Queen's Own Yeomanry
 * 1972, *C (Cheshire Yeomanry) Squadron*, Queen's Own Yeomanry
 * 1999, *C (Cheshire Yeomanry) Squadron*, Royal Mercian and Lancastrian Yeomanry
 * 2014, *C (Cheshire Yeomanry) Squadron*, Queen's Own Yeomanry
