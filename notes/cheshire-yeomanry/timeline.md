@@ -1,12 +1,12 @@
 # Prehistory
 
-## 1660
+## 1660s
 
-* A troop of Light Horse for the hundreds of Wirral, Bucklow, and Macclesfield was commanded by Capt George Warburton
-
-## 1666
-
-* A grouping of troops of volunteer cavarly for the hundreds of Broxton, Northwich, Nantwich, and Eddisbury was commanded by Lt Col Sir Philip Egerton, as the *Light Horse of Cheshire*. Includes families such as Egerton, Cholmondeley, Grosvenor, Wilbraham, Warburton, and more.
+* Leary p3, 285, 289
+* Two troops of Light Horse:
+  * Hundreds of Wirral, Bucklow, and Macclesfield was commanded by Capt George Warburton (recorded 1660)
+  * Hundreds of Broxton, Northwich, Nantwich, and Eddisbury was commanded by Lt Col Sir Philip Egerton (recorded 1666)
+  * Includes families such as Egerton, Cholmondeley, Grosvenor, Wilbraham, Warburton, and more
 
 # Early history
 
