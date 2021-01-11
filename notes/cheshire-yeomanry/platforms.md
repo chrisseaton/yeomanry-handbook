@@ -1,5 +1,6 @@
 # Platforms
 
+* 1796 - Horses
 * 1947 - Cromwell and Comet tanks
 * 1958 - Daimler armoured cars
 * 1971 - Fox, Spartan, Sultan, Samson
