@@ -1,9 +1,12 @@
 # Platforms
 
 * 1796 - Horses
+* Rolls Royce armoured car
+* Camel
 * 1947 - Cromwell and Comet tanks
-* 1958 - Daimler armoured cars
-* 1971 - Fox, Spartan, Sultan, Samson
-* 1999 - Challenger 2, Land Rover Defence TTV
+* Centurion tanks
+* 1958 - Daimler armoured cars and Daimler scout cards
+* Fox, Saladin, Sabre, Scimitar
+* 1999 - Challenger 2
 * 2014 - Land Rover Defender RWMIK
 * 2019 - Supacat Jackal MWMIK
