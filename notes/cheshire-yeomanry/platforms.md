@@ -6,7 +6,7 @@
 * 1947 - Cromwell and Comet tanks
 * Centurion tanks
 * 1958 - Daimler armoured cars and Daimler scout cards
-* Fox, Saladin, Sabre, Scimitar
+* Fox, Ferret, Saladin, Sabre, Scimitar
 * 1999 - Challenger 2
 * 2014 - Land Rover Defender RWMIK
 * 2019 - Supacat Jackal MWMIK
