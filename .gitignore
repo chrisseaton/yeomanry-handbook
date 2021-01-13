@@ -1,9 +1,11 @@
+cheshire-yeomanry-handbook/cheshire-yeomanry-handbook.pdf
 *.aux
 *.dvi
 *.fdb_latexmk
 *.fls
 *.log
-*.pdf
 *.synctex.gz
 *.toc
 *.out
+*.bbl
+*.blg

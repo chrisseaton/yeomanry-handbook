@@ -1,2 +1,2 @@
-cheshire-yeomanry-handbook.pdf: $(wildcard *.tex) $(wildcard **/*.tex) $(wildcard *.pdf) $(wildcard **/*.pdf)
+cheshire-yeomanry-handbook.pdf: $(wildcard *.bib) $(wildcard *.tex) $(wildcard **/*.tex) $(wildcard **/*.pdf)
 	latexmk -pdf cheshire-yeomanry-handbook.tex
