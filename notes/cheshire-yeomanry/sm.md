@@ -24,7 +24,7 @@
 * WO2 T Hallam, 2001
 * WO2 D J Griffiths, 2002-2003
 * WO2 R D Wharton, 2004-2005
-* W02 D L Williams, 2006-2009
+* WO2 D L Williams, 2006-2009
 * WO2 L Speed, 2010-?
 
 ### C (Cheshire Yeomanry) Squadron, QOY
