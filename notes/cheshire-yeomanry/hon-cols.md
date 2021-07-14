@@ -9,7 +9,8 @@ In earlier years known as 'Colonel Commandant', and the split between this role 
 * Lt Col H Grosvenor, 1st Duke of Westminster, 1869-1899
 * Col C Stanhope, 8th Earl of Harrington, 1905-1917
 * Col H Grosvenor, 2nd Duke of Westminster, 1917-1953
-* Lt Col G Grosvenor, 4th Duke of Westminster, 1955-1967
+* Col G Egerton Warburton, 1953-1955
+* Col G Grosvenor, 4th Duke of Westminster, 1955-1967
 * Col P Lever, 3rd Viscount Leverhulme, 1967-1981
 * Col G E Sparrow, 1981-1988
 * Col R G Sparrow, 1988-1993

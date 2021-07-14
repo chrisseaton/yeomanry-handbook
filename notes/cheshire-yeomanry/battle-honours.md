@@ -12,7 +12,7 @@
 * Épéhy
 * Pursuit to Mons
 * France and Flanders 1918
-* Egypt 1916-17
+* Egypt 1916-17 (not in guidon programme or on guidon?!)
 * Gaza
 * Jerusalem
 * Jericho

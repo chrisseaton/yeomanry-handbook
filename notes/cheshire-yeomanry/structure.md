@@ -162,6 +162,14 @@
   * B Squadron (Birkenhead)
   * C Squadron (Birkenhead)
 
+* Cadets
+  * 1 (Stockport) Detachemnt
+  * 2 (Bredbury) Detachemnt
+  * 36 (Frodsham) Detachment
+  * 37 (Helsby) Detachment
+  * 64 (Wallasey) Detachment
+  * 65 (Moreton) Detachment
+
 ## 1969
 
 * 33 Signal Regiment (V)

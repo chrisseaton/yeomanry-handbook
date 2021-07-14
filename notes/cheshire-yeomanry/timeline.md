@@ -1034,11 +1034,19 @@
 
 * Re-titled *17th Lines of Communication Signals*
 
+## 1957
+
+* Yeomanry Regiments permitted to carry guidons
+
 # Post-war
 
 ## 1947
 
 * 1-Apr, re-titled *Cheshire Yeomanry (Earl of Chester's)* with *A Squadron* at Knutsford, *C Squadron* at Northwich, and *D Squadron* at Macclesfield
+
+## 1961
+
+* 8-Jul, guidon presented
 
 ## 1967
 
