@@ -1043,24 +1043,47 @@
 ## 1967
 
 * 1-Apr, re-titled *Cheshire Yeomanry (Earl of Chester's Territorials)* as part of the *Territorial Army and Volunteer Reserve*, with *A Squadron* at Nortwich, and *B Squadron* and *C Squadron* at Birkenhead
+* Camp at Castlemartin
+* Moved to the TAVR III
+
+## 1968
+
+* No funding for camp, but paid for by Old Comrades to go to Cerrig with the Carabiniers - one of only a few Regiments to achieve a camp this year
 
 ## 1969
 
-* 1-Jan, re-titled *Cheshire Yeomanry (Earl of Chester's)* and reduced to cadre strength, sponsored by *33 Signal Regiment (V)*, with some personnel moving to 80 Signal Squadron
+* 1-Jan, TAVR III abolished, re-titled *Cheshire Yeomanry (Earl of Chester's)* and reduced to cadre strength, sponsored by *33 Signal Regiment (V)*, with some personnel moving to 80 Signal Squadron
+* Investitue of the Prince of Wales at Caernarvon
+* Annual camp with the Carabiniers in North Wales and Chester
+* Jul, Nunshigum parade with the Carabiniers
+
+## 1970
+
+* Nov, all remaining Yeomanry Regiments and Cadres to go, except Ayrshire, Yorkshire, Cheshire Yeomanries, and Northumberland Hussars
+* 33 (Lancashire and Cheshire) Signal Regiment, with 80th (Cheshire Yeomanry) Squadron on NATO exercise in Belgium at Kaulille
+* Annual camp with the Carabiniers in Germany
 
 # Modern history
 
 ## 1971
 
 * 1-Apr, re-titled *C Squadron* subordinate to the *Queen's Own Yeomanry*
+* 17-Jun, 33rd (Lancashire and Cheshire) Signal Regiment, Officers Regimental Dinner, Burniston Barracks, Scarborough
+* 31-Oct, parade at the Dale to reform the Squadron
 
 ## 1972
 
 * Nov, re-titled *C (Cheshire Yeomanry) Squadron*
+* 15-Apr, dinner at Thornton Manor
 
 ## 1973
 
 * The signal section left to 80 Signal Squadron, which was redesignated *80 (Cheshire Yeomanry) Signal Squadron*
+* 24-Mar, OCA All Squadron's Annual Dinner, Town Hall, Chester
+
+## 1974
+
+* 23-Mar, All Squadrons Annual Dinner, Gilwern
 
 ## 1994
 

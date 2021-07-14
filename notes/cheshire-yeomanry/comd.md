@@ -27,7 +27,7 @@ In earlier years known as Second in Command, and the split between this role and
 * Lt Col Churton
 * Lt Col Sparrow, 1 Apr 1960 - 
 * Lt Col Williams
-* Lt Col Barkworth?
+* Lt Col J A S Barkworth ... - 1967
 
 ## Officers Commanding
 
