@@ -5,7 +5,7 @@
 * Wirral, Bucklow, and Macclesfield Light Horse
 * Broxton, Northwich, Nantwich, and Eddisbury Light Horse
 
-## 1797
+## 1797
 
 * Provisional Corps of Cavalry for the County of Chester
   * Chester Cavalry
