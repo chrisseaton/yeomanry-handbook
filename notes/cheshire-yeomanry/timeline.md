@@ -152,6 +152,7 @@
 * Sep, Lt Col Edward Townshend assumed command
 * Yeomanry held at readiness for more industrial unrest
 * 4-Dec, meeting at George Inn, in Nether Knutsford about additional funds to make the Yeomanry more effective for industrial unrest, every man got a scarlet cloth jacket, a belt or girdle with brass buckle, a buff leather strap with plated button and loop, and a blue cloth foraging cap
+* Ancestor of Lt J Baskervyle-Glegg gave support (Verdin p 16)
 
 ## 1817
 
@@ -898,6 +899,7 @@
 ## 1891
 
 * Leary p197
+* Mar, Lt Col P Egerton-Warburton assumed command
 * 10-Feb, meeting at the Grosvenor Hotel, Duke of Westminster announced he was retiring
 * 26-May, annual training, presumably at Chester
 * 27-May
@@ -980,16 +982,28 @@
 * 18-May, smoking concert for the Regiment by the Major
 * 21-May, inspected by Col Gough, lunch for officers at the Grosvenor Hotel
 
+## 1898
+
+* Verdin p 1
+* Leary published
+
 # The Boer Wars
 
 ## 1899
 
+* Verdin p7
 * Cooke p33
+* Mar, Lt Col P Egerton-Warburton handed over command to Lt Col C A Stanhope, 8th Earl of Harrington
+* 22-Dec, Hon Col, Lt Col H Grosvenor, 1st Duke of Westminster, died of pneumonia
+* 9-Oct, BOers of the Transvaal issued ultimatum
+* 11-Oct, Boers invaded Natal
+* Dec, Capt Wyndham produced a plan for the Imperial Yeomanry, at someone else's suggestion
 * 28-Dec, banquet at Winsford given by John Cooke, Cap Mosley Leigh spoke to recruit for the Imperial Yeomanry
 
 ## 1900
 
 * Cooke p33
+* 15-Jan, other companies of Imperial Yeomanry deployed
 * 25-Jan
   * banquet at the Grosvenor Hotel and a smoking concert at Chester Town Hall, organised by Harr Barnston of Crewe Hill, for the men who had volunteered for the 21st Company
   * banquet at Northwich for men who had volunteered for the 22nd Company
@@ -1001,12 +1015,55 @@
 * 26-Feb
   * SS Lake Erie docked in Cape Town and troops disembarked
   * companies arrived at Maitland Camp at 1900 hours
+* Apr, reinforcements to the two companies sent
+* Jul, annual training at Hightown, near Altcar, under canvas for the first time
+* Lt J Baskervyle-Glegg left
+* 2nd Duke of Westminster, transferrd to RHG while in South Africa
 
 ## 1901
 
-* 17-Apr, re-titled *Cheshire Imperial Yeomanry (Earl of Chester's)* and gained a machine-gun section
+* Verdin p12
+* 2-Jan, recommendations Yeomanry Committee recommended Yeomanry become mounted infantry
+* 17-Apr, re-titled *Cheshire Imperial Yeomanry (Earl of Chester's)*
+  * Militia and Auxiliary Forces Act, 1901
+  * 9th Yeomanry Brigade disbanded
+  * 30 officers and 566 other ranks, permament staff of adjutant and five sergeants
+  * gained a machine-gun section
+  * swords were supposed to be handed in
+  * khaki dress became standard
+* Annual camp at Plovers Moss, Delamere - Capt Sir Philip de Grey Egerton at Oulton Park hosted
+* Jun, 21st and 22nd companies returned from South Africa
+* 26-Jul, Edward VII presented medals to one officer and 40 other-ranks of each company
+  * Tivoli restuarant afterward, entertained by the Earl of Harrington
+  * Medals presented to others at Chester shortly afterward
+* Rev C H Prodgers joined (CO's private civilian chapain)
+
+## 1902
+
+* Verdin p19
+* 2nd Duke of Westminster, transferrd from RHG back to Cheshire Yeomanry (Verdin p16)
+* 9-Aug, Coronation of Edward VII (originally 27-Jun, but he was mortally ill with appendicitis)
+  * 1 officer, 9 other ranks
+  * for some reason Cheshire Yeomanry sent one officer (lt R N H Verdin), one sergeant, one corporal, 24 other ranks
+  * shared a train with Debigshire Hussars
+  * paraded as part of Provisional Regiment under Col L Rolleston of South Nottinghamshire Hussars
+  * lined from Clarence Gate to Buckingham Palace
+
+## 1903
+
+* Verdin p21
+* Issued machine guns - Maxim .303 on tripod (Verdin p13)
+
+## 1904
+
+* Boer War memorial unveiled - missing name of Tpr G F Brundrit (Verdin p17)
 
 ## Pre-war
+
+## 1913
+
+* Verdin p13
+* Cooke published
 
 ## 1908
 

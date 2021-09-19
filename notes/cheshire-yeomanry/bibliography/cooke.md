@@ -4,3 +4,4 @@
 
 * John H Cooke
 * Published 1913-14 by Mackie and Co Limited, Warrington, and Phillipson and Golder, Chester
+* Treasurer to subscribers Maj H A Birley (sometimes called 'Birley's Book')

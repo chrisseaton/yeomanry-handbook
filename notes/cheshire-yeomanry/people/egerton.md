@@ -26,15 +26,18 @@ The Egerton and Grey families were associated with the Cheshire Yeomanry in thei
 * 1859, became 1st Baron Egerton
 * 1866, resigned from the Cheshire Yeomanry
 
-## Wilbraham Egerton, 1st Earl (1832)
+## Wilbraham Egerton, 1st Earl (1832-1909)
 
+* Formerly 2nd Baron
 * 17 January 1832 - 16 March 1909
 * 1851, 1 May, commissioned into the Cheshire Yeomanry as a Lieutenant and assumed command of the Tatton Troop
 * 1887, left the Cheshire Yeomanry
+* 1894, married
 * 1897, became 1st Earl Egerton
 * 1900, Donated for equipment for the Imperial Yeomanry and Volunteer Equipment Fund
 * 1901, 30 August, entertained the Cheshire Imperial Yeomanry companies at Tatton
 * 1901, 7 September, presented war medals at Chester Town Hall for those who couldn't be in London
+
 
 ## Alan de Tatton Egerton, 3rd Baron (1845)
 
@@ -75,4 +78,4 @@ The Egerton and Grey families were associated with the Cheshire Yeomanry in thei
 
 ## Today
 
-The barony died out with the 4th Baron in 1958. The baronetcy is a separate line, and William de Malpas Egerton (1949) is the 17th Baronet.
+The earldom died out with the 1st Early in 1909. The barony died out with the 4th Baron in 1958. The baronetcy is a separate line, and William de Malpas Egerton (1949) is the 17th Baronet.

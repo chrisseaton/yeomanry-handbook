@@ -2,7 +2,7 @@
 
 ## Regimental Sergeant Majors
 
-* ?
+* RSM Lamb, 1950?
 
 ## Squadron Sergeant Majors
 

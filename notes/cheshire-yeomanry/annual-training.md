@@ -93,6 +93,15 @@ Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely 
 * 1895, presumably Chester
 * 1896, Chester
 * 1897, Chester
+* 1900, Hightown, near Altcar
+* 1901, Plovers Moss, Delamere
+* 1902, Plovers Moss, Delamere
+* 1903, Plovers Moss, Delamere
+* 1904, Plovers Moss, Delamere
+* 1905, Plovers Moss, Delamere
+* 1906, Plovers Moss, Delamere
+* 1907, Plovers Moss, Delamere
+* 1908, Plovers Moss, Delamere
 * 1967, Castlemartin
 * 1968, Cerrig, with the Carabiniers
 * 1969, NATO exercise (signal squadron), North Wales and Chester with Carabiniers (Cadre)

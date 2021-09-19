@@ -9,11 +9,22 @@ The Grosvenor family have been associated with the Cheshire Yeomanry since their
 ## Hugh Grosvenor, 1st Duke of Westminster (1825)
 
 * 1825 - 1899
+* 1847, joined Cheshire Yeomanry as cornet in Dunham Massey Troop, then captain in Forest Troop
+* 1847-69, represented Chester in Parliament
 * 1869, became Honorary Colonel
+* 1880-85, Master of the Horse in the Royal Household
+
+## 'Earl Grosvenor'
+
+* 1874, joined Cheshire Yeomanry in Eaton Troop
+* 1882, left
 
 ## Hugh Grosvenor, 2nd Duke of Westminster (1879)
 
 * 1879 - 1953
+* 1898, joined Cheshire Yeomanry
+* 1900, transferred to RHG
+* 1902, returned to Cheshire Yeomanry
 * 1917, became Honorary Colonel
 
 ## William Grosvenor, 3rd Duke of Westminster (1894)

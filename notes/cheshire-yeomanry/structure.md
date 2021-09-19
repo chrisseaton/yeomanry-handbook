@@ -100,23 +100,24 @@
 ## 1893
 
 * Earl of Chester's Regiment of Yeomanry Cavalry
-  * A Squadron (Knutsford and Tatton)
+  * A Squadron (Knutsford and Tatton) *Verdin says second Tatton instead of Knutsford*
   * B Squadron (Eaton)
-  * C Squadron (Bostock and Northwich)
-  * D Squadron (Forset and Macclesfield)
+  * C Squadron (Bostock and Northwich) *Verdin says Arley instead of Northwich*
+  * D Squadron (Forset and Congleton)
 
-## 1847
+## 1898
 
-* Cheshire Yeomanry (Earl of Chester's)
-  * A Squadron at Knutsford
-  * C Squadron at Northwich
-  * D Squadron at Macclesfield
+* Earl of Chester's Regiment of Yeomanry Cavalry
+  * A Squadron (Tatton)
+  * B Squadron (Eaton)
+  * C Squadron (Bostock and Arley)
+  * D Squadron (Forset and Macclesfield) *Verdin says Congleton instead of Macclesfield*
 
 ## 1900
 
 * 2nd Battalion, Imperial Yeomanry
-  * 21st Company
-  * 22nd Company
+  * 21st Company (informally *Chester*, commanded by Lord Arthur Grosvenor, with Barbour)
+  * 22nd Company (informally *Mid Cheshire*, commanded by Mosley Leigh, with Phillips)
 * Cheshire Yeomanry (Earl of Chester's)
 
 ## 1901
