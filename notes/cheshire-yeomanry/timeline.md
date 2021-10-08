@@ -1010,7 +1010,7 @@
 * 26-Jan, Maj Tomkinson entertained both companies at the Grosvenor Hotel
 * 29-Jan, farewell service at Chester Cathedral
 * 30-Jan, both companies left Liverpool on SS Lake Erie, only 22nd took horses
-* 6-Feb, SS Lake Erie stopped at Las Palmas for two huors
+* 6-Feb, SS Lake Erie stopped at Las Palmas for two hours
 * 25-Feb, SS Lake Erie arrived at Table Bay
 * 26-Feb
   * SS Lake Erie docked in Cape Town and troops disembarked
@@ -1018,7 +1018,7 @@
 * Apr, reinforcements to the two companies sent
 * Jul, annual training at Hightown, near Altcar, under canvas for the first time
 * Lt J Baskervyle-Glegg left
-* 2nd Duke of Westminster, transferrd to RHG while in South Africa
+* 2nd Duke of Westminster, transferred to RHG while in South Africa
 
 ## 1901
 
@@ -1027,21 +1027,23 @@
 * 17-Apr, re-titled *Cheshire Imperial Yeomanry (Earl of Chester's)*
   * Militia and Auxiliary Forces Act, 1901
   * 9th Yeomanry Brigade disbanded
-  * 30 officers and 566 other ranks, permament staff of adjutant and five sergeants
+  * 30 officers and 566 other ranks, permanent staff of adjutant and five sergeants
   * gained a machine-gun section
   * swords were supposed to be handed in
   * khaki dress became standard
 * Annual camp at Plovers Moss, Delamere - Capt Sir Philip de Grey Egerton at Oulton Park hosted
 * Jun, 21st and 22nd companies returned from South Africa
 * 26-Jul, Edward VII presented medals to one officer and 40 other-ranks of each company
-  * Tivoli restuarant afterward, entertained by the Earl of Harrington
+  * Tivoli restaurant afterward, entertained by the Earl of Harrington
   * Medals presented to others at Chester shortly afterward
-* Rev C H Prodgers joined (CO's private civilian chapain)
+* Rev C H Prodgers joined (CO's private civilian chaplain)
+
+## Pre-war
 
 ## 1902
 
 * Verdin p19
-* 2nd Duke of Westminster, transferrd from RHG back to Cheshire Yeomanry (Verdin p16)
+* 2nd Duke of Westminster, transferred from RHG back to Cheshire Yeomanry (Verdin p16)
 * 9-Aug, Coronation of Edward VII (originally 27-Jun, but he was mortally ill with appendicitis)
   * 1 officer, 9 other ranks
   * for some reason Cheshire Yeomanry sent one officer (lt R N H Verdin), one sergeant, one corporal, 24 other ranks
@@ -1056,18 +1058,53 @@
 
 ## 1904
 
+* Verdin p21
 * Boer War memorial unveiled - missing name of Tpr G F Brundrit (Verdin p17)
+* All Yeomanry regiments reduced in size by 120 other ranks
+* Machine Gun Troop formed with the Maxim Guns
 
-## Pre-war
+## 1905
+
+* Verdin p22
+* Earl of Harrington resigned command and became Hon Col succeeding Col P Egerton-Warburton
+* Scouts introduced - six per squadron, of which two detached to RHQ - used for reconnaissance and observation
+
+## 1906
+
+* Verdin p23
+
+## 1907
+
+* Verdin p24
+* Jun, Forest Troop (which by this point was sort of separate to D Squadron) was disbanded, with most people going to C Squadron, which became Forest Squadron
+
+## 1908
+
+* Verdin p25
+* Territorial Act 1908, which formed the Territorial Army
+* 1-Apr, re-titled *Cheshire Yeomanry (Earl of Chester's)* as part of the *Territorial Force*, with *A Squadron* at Knutsford (Detachments at Alderley Edge, Hale, Sale), *B Squadron* at Eaton (Detachments at Chester, Farndon, Aldford, Pulford, Tattenhall, Kelsall), *C Squadron* at Northwich (Detachments at Great Budworth, Appleton, Warburton, Nantwich, Winsford, Middlewich, Tarporley, Crewe), and *D Squadron* at Macclesfield (Detachments at Congleton, Stockport, Adlington)
+* Welsh Border Mounted Brigade formed from Cheshire Yeomanry, Denbigshire Yeomanry (informally the Denbigshire Hussars) and the Shropshire Yeomanry
+* Territorial Associations formed
+* Lecture by Lt Gen Sir R S Baden-Powell on scouting (Verdin p23)
+* Trained for the last time at Plovers Moss, and was a Brigade camp
+
+## 1909
+
+* Verdin p26
+* 9-May, camp at Ponds Farm, Salisbury Plain
+
+## 1910
+
+* Verdin p28
+* 6-May, Edward VII died
+* 14-May, camp at Cholmondeley
+* 19-May, service to commemorate Edward VII on Cholmondeley cricket ground
+* Lord Arthur Grosvenor resigned command, succeeded by Wyndham
 
 ## 1913
 
 * Verdin p13
 * Cooke published
-
-## 1908
-
-* 1-Apr, re-titled *Cheshire Yeomanry (Earl of Chester's)* as part of the *Territorial Force*, with *A Squadron* at Knutsford (Detachments at Alderley Edge, Hale, Sale), *B Squadron* at Eaton (Detachments at Chester, Farndon, Aldford, Pulford, Tattenhall, Kelsall), *C Squadron* at Northwich (Detachments at Great Budworth, Appleton, Warburton, Nantwich, Winsford, Middlewich, Tarporley, Crewe), and *D Squadron* at Macclesfield (Detachments at Congleton, Stockport, Adlington)
 
 # The First World War
 
@@ -1076,6 +1113,10 @@
 ## 1920
 
 * 7-Jan, re-titled *Cheshire Yeomanry (Earl of Chester's)* as part of the *Territorial Army*
+
+## 1925
+
+* Trained at Sandy Brow, Delamere (Verdin p26)
 
 # The Second World War
 
