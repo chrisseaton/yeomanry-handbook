@@ -1050,6 +1050,7 @@
   * shared a train with Debigshire Hussars
   * paraded as part of Provisional Regiment under Col L Rolleston of South Nottinghamshire Hussars
   * lined from Clarence Gate to Buckingham Palace
+* Start of reunion dinners for the 21st Company (Verdin p37) on 2nd Saturday in June, first at Golden Lion, then Blossoms, then Queen's Hotel
 
 ## 1903
 
@@ -1077,6 +1078,7 @@
 
 * Verdin p24
 * Jun, Forest Troop (which by this point was sort of separate to D Squadron) was disbanded, with most people going to C Squadron, which became Forest Squadron
+* 26-Dec, 'Burglary of Cholomondeley' (Verdin p31)
 
 ## 1908
 
@@ -1087,6 +1089,7 @@
 * Territorial Associations formed
 * Lecture by Lt Gen Sir R S Baden-Powell on scouting (Verdin p23)
 * Trained for the last time at Plovers Moss, and was a Brigade camp
+* Allowed to recruit dismounted troops (Verdin p31)
 
 ## 1909
 
@@ -1101,10 +1104,41 @@
 * 19-May, service to commemorate Edward VII on Cholmondeley cricket ground
 * Lord Arthur Grosvenor resigned command, succeeded by Wyndham
 
+## 1911
+
+* Verdin p29
+* 22-Jun, coronation of George VI and Mary
+  * Regiment stationed at Hyde Park Corner
+  * Dismounted, officers in full dress, men in khaki
+* 13-Jul, Prince of Wales investiture at Caernarvon
+* Sep, camp at Eaton Park, focusing on signally and scouting
+  * signal lamp link between clock tower of Eaton and Brown Knoll, Broxton
+  * 'hide and seek'
+* Agadir crisis
+* Rioting and general strike in Liverpool, Regiment prepared to go but wasn't sent
+
+## 1912
+
+* Verdin p33
+* 19-Jan, ball at Grosvenor Hotel
+* 18-May, camp at Eaton Park
+* Tpr J R Mingay's horse bolted, crashing into a tree, killing him
+
 ## 1913
 
-* Verdin p13
-* Cooke published
+* Verdin p36 (? very unclear)
+* Cooke published (Verdin p13)
+* 11-May, Brigade camp at Llangammarch Wells
+* 8-Jun, commanding officer Lt Col Wyndham died from heart attack following pneumonia, Lt Col Wilson assumed command
+
+### 1914
+
+* Verdin p38
+* Mar, opening of Albert Woods wing at the Chester Infirmary, and renaming to Chester Royal Infirmary, band paraded at the Cross
+* Planned to camp at Alderley
+* May, TEWT at Weobley-Kington
+* 5-Sep, camp at Howcaple, near Ross, in Herefordshire
+* 3-Aug, last peace-time training, enemy for DLOY in Knutsford area, many on bicycles
 
 # The First World War
 
