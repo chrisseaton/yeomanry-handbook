@@ -16,10 +16,10 @@
 * 1910, retired
 * 1910-1929, MP for Eddisbury
 * 1914, resumed commission
+* Part of the 2nd Line in WW1
 * 1917, Major
 * 1921-1928, Comptroller of the Household
 * 1924, 1st Baronet Churton
-* Part of the 2nd Line in WW2
 * Died 1929
 * Baronetcy died with him
 * "No man however could have described him as modest." (Verdin 167)
