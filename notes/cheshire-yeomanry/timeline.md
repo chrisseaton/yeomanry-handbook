@@ -379,7 +379,7 @@
 * Leary p112
 * 4-Aug, annual camp at Mere
 
-## 1829
+## 1829
 
 * Leary p112
 * 16-May
@@ -625,7 +625,7 @@
 * 19-May, parade on the Roodee with a detachment of the Royal Artillery and 1st Royal Cheshire Militia, for the Queen's Birthday
 * 21-May, inspected by Maj Hagart of the 7th Queen's Own Hussars
 
-## 1856
+## 1856
 
 * Leary p153
 * 3-Jun, annual training at Chester
@@ -1064,7 +1064,7 @@
 * All Yeomanry regiments reduced in size by 120 other ranks
 * Machine Gun Troop formed with the Maxim Guns
 
-## 1905
+## 1905
 
 * Verdin p22
 * Earl of Harrington resigned command and became Hon Col succeeding Col P Egerton-Warburton
