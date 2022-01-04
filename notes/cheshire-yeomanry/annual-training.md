@@ -106,12 +106,16 @@ Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely 
 * 1910, Cholmondeley
 * 1911, Eaton Park
 * 1912, Eaton Park
+...
 * 1967, Castlemartin
 * 1968, Cerrig, with the Carabiniers
 * 1969, NATO exercise (signal squadron), North Wales and Chester with Carabiniers (Cadre)
 * 1970, NATO exercise, Belgium (signal squadron), Germany with Carabiniers (Cadre)
-* 2017, Warcop
-* 2018, Salisbury Plain
-* 2019, Croatia
-* 2020, Thetford
-* 2021, Galloway Forest
+* 1971, Bellerby, individual training and TEWTs
+* 1972, Westdown, troop training and inter-troop competition
+...
+* 2017, Warcop, courses camp
+* 2018, Salisbury Plain, Ex WESSEX STORM
+* 2019, Croatia, Ex SAVA STAR
+* 2020, Thetford, support to Light Dragoons
+* 2021, Galloway Forest, Ex RISING FOX

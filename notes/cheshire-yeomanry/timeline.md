@@ -1209,12 +1209,26 @@
 
 * 1-Apr, re-titled *C Squadron* subordinate to the *Queen's Own Yeomanry*
 * 17-Jun, 33rd (Lancashire and Cheshire) Signal Regiment, Officers Regimental Dinner, Burniston Barracks, Scarborough
+* 18-Sep, annual camp at Bellerby, individual training and TEWTs
 * 31-Oct, parade at the Dale to reform the Squadron
+  * 70 members of the Squadron
+  * Seven deteachements of cadets
+  * QDG band
+  * Over 100 old comrades
+  * Maj R G Sparrow handed over command to Maj A W A Spiegelberg
 
 ## 1972
 
-* Nov, re-titled *C (Cheshire Yeomanry) Squadron*
+* Mar, Smoker at the Library of Wynnstay Hall (home of Williams-Wynn)
 * 15-Apr, dinner at Thornton Manor
+* Apr, B (Eaton Squadron) OCA dinner at Queen Hotel
+* 18-Mar, All Squadron's OCA dinner at Town Hall, 150 people
+* Mar, Military Museum opened by Hon Col, Leverhulme, dummy by the horse is wearing his boots
+* Provided communications for the Maxol Marathon - last major international trial prior to Munich olympics
+  * Used Saracen command vehicle, carrying commentators over the course
+* Jul, Five Saracens sent at short notice to Northern Ireland for Orange Day
+* Nov, re-titled *C (Cheshire Yeomanry) Squadron*
+* Garden party at Tabley
 
 ## 1973
 
