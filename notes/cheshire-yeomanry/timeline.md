@@ -1142,6 +1142,15 @@
 
 # The First World War
 
+### 1915
+
+* 1-Jan-1915, exercise against Duke of Westminster's Number 2 Squadron, Royal Naval Armoured Cars Division
+* First to deploy, France Mar-1915
+
+### 1916
+
+* 17-Mar, rescue of crews of HMS Tara and SS Moorina by Duke of Westminster (Fletcher p29)
+
 # Inter-war
 
 ## 1920
