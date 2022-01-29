@@ -35,6 +35,10 @@ In earlier years known as Second in Command, and the split between this role and
 
 ## Officers Commanding
 
+### The Cadre
+
+* Maj R G Sparrow, 1968 - 31 Oct 71
+
 ### C (Cheshire Yeomanry) Squadron, QOY
 
 * Maj R G Sparrow, 1 Jan 71 - 31 Oct 71
