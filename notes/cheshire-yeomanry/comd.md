@@ -14,22 +14,24 @@ In earlier years known as Second in Command, and the split between this role and
 * Lt Col H Grosvenor, 1st Duke of Westminster, 30 Oct 1869 - Mar 1891 (possibly combined with Hon Col until 1891, then Hon Col alone until 1899)
 * Lt Col P Egerton-Warburton, Mar 1891 - Mar 1899
 * Lt Col C A Stanhope, 8th Earl of Harrington, Mar 1899 - Sep 1905
-* Lord Arthur Grosvenor, 1905 - ...?
-* Lt Col Wyndham, ?... - 1913
-* Lt Col Wilson, 1913 - ...
+* Lord Arthur Grosvenor, 1905 - October 1911
+* Lt Col Wyndham, October 1911 - 1913
+* Lt Col Wilson, 1913 - 1917
+* (gapped due to KSLI?)
 * Lt Col G Egerton-Warburton, 8 May 1920 - 8 May 1926
 * Lt Col S E Ashton, 8 May 1926 - 8 May 1930
-* Lt Col T M Brooks, 8 May 1930 - ...
-* Lt Col Williams, 1936 - Oct 31 ?
-* Lt Col Dennis
-* Lt Col Langford-Brooke (descendent of Thomas Langford-Brooke who joined 1797?)
-* Lt Col Leicester-Warren (great-great-grandson of Leicester?)
-* Lt Col Verdin
-* Lt Col Mather
-* Lt Col Churton
-* Lt Col Sparrow, 1 Apr 1960 - 
-* Lt Col Williams
-* Lt Col J A S Barkworth ... - 1967
+* Lt Col T M Brooks, 8 May 1930 - May 1933
+* Lt Col Sparrow, May 1933 - 1936
+* Lt Col Williams, 1936 - 1 Oct 1941
+* Lt Col Dennis, 1 Oct 1941 - 1947
+* Lt Col Langford-Brooke, 1947 - 1949 (descendent of Thomas Langford-Brooke who joined 1797?)
+* Lt Col Leicester-Warren, 1949 - 1951 (great-great-grandson of Leicester?)
+* Lt Col Verdin, 1951 - 1954
+* Lt Col Mather, 1954 - 1 Apr 1957
+* Lt Col Churton, 1 Apr 1957 - 1960
+* Lt Col Sparrow, 1 Apr 1960 - 1963
+* Lt Col Williams, 1963 - 1967
+* Lt Col J A S Barkworth 1967 - 1968
 
 ## Officers Commanding
 
@@ -62,4 +64,4 @@ In earlier years known as Second in Command, and the split between this role and
 * Maj W N W Bankes, 1 May 14 - 1 Apr 15
 * Maj A Siddell, 2 Apr 15 - 31 Oct 16
 * Maj A S Davies, 1 Nov 16 - 31 Mar 20
-* Maj C G Seaton, 1 Apr 20
+* Maj C G Seaton, 1 Apr 20 - present
