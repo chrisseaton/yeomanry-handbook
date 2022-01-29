@@ -18,4 +18,4 @@ In earlier years known as 'Colonel Commandant', and the split between this role 
 * Maj E G Hawke, 11th Baron, 1998-2005
 * Col N C Glazebrook, 2005-2013
 * Maj N L Hill, 2013-2019
-* Maj P Cooper, 2019-present
+* Maj P M Cooper, 2019-present
