@@ -15,7 +15,7 @@ In earlier years known as 'Colonel Commandant', and the split between this role 
 * Col G E Sparrow, 1981-1988
 * Col R G Sparrow, 1988-1993
 * Col A W A Spielberg, 1993-1998
-* Maj E G Hawke, 11th Baron, 1998-2006
-* Col N C Glazebrook, 2006-...at least 2010
-* Maj N Hill, at least 2014...-2019
+* Maj E G Hawke, 11th Baron, 1998-2005
+* Col N C Glazebrook, 2005-2013
+* Maj N L Hill, 2013-2019
 * Maj P Cooper, 2019-present
