@@ -8,7 +8,7 @@ In earlier years known as Second in Command, and the split between this role and
 * Lt Col T Brooke, 1803-1812
 * Lt Col A Leicester, 1812-1816
 * Lt Col E Townshend, 1816-1829
-* Lt Col P Brooke, 1929-1831
+* Lt Col P Brooke, 1829-1831
 * Lt Col W Egerton, 1831-1836
 * Lt Col G Leicester, 2nd Baron de Tabley, 1836-1869 (possibly combined with Hon Col from 1847)
 * Lt Col H Grosvenor, 1st Duke of Westminster, 30 Oct 1869 - Mar 1891 (possibly combined with Hon Col until 1891, then Hon Col alone until 1899)
