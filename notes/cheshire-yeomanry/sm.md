@@ -24,10 +24,12 @@
 * WO2 T Hallam, 2001
 * WO2 D J Griffiths, 2002-2003
 * WO2 R D Wharton, 2004-2005
-* WO2 D L Williams, 2006-2009
-* WO2 L Speed, 2010-?
+* WO2 D L Williams, 2006-2008
+* WO2 L Speed, 2008-2012
+* WO2 P Wade, 2012-2014
+* WO2 L Speed, 2014-2015
 
 ### C (Cheshire Yeomanry) Squadron, QOY
 
-* WO2 J Griffiths, ?
+* WO2 J Griffiths, 2015-2017
 * WO2 J Greenwood, 2017-...
