@@ -8,6 +8,7 @@
 
 * Somme 1918
 * Bapaume 1918
+* Epéhy
 * Hindenburg Line
 * Pursuit to Mons
 * France and Flanders 1918
@@ -17,7 +18,6 @@
 * Jericho
 * Tell ‘Asur
 * Palestine 1917-18
-* Syria 1941
 
 ## The Second World War
 
