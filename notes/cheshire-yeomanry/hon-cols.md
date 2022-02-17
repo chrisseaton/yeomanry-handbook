@@ -2,7 +2,7 @@
 
 In earlier years known as 'Colonel Commandant', and the split between this role and what we would now call the Commanding Officer is less clear.
 
-* Col Sir John Leicester, 1st Baron de Tabley, 1803-1827
+* Col Sir John Leicester, 1st Baron de Tabley, 1797-1827
 * Lt Col G Harry, 8th Baron Grey of Groby, 1827-1835
 * Lt Col W Egerton, 1835-1847
 * Lt Col G Leicester, 2nd Baron de Tabley, 1847-1869
