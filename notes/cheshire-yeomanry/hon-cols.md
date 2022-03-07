@@ -14,8 +14,8 @@ In earlier years known as 'Colonel Commandant', and the split between this role 
 * Col P Lever, 3rd Viscount Leverhulme, 1967-1981
 * Col G E Sparrow, 1981-1988
 * Col R G Sparrow, 1988-1993
-* Col A W A Spielberg, 1993-1998
-* Maj E G Hawke, 11th Baron, 1998-2005
+* Col A W A Spiegelberg, 1993-1998
+* Col E G Hawke, 11th Baron, 1998-2005 (substantive Major)
 * Col N C Glazebrook, 2005-2013
-* Maj N L Hill, 2013-2019
-* Maj P M Cooper, 2019-present
+* Col N L Hill, 2013-2019 (substantive Major)
+* Col P M Cooper, 2019-present (substantive Major)
