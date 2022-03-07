@@ -26,8 +26,8 @@ In earlier years known as Second in Command, and the split between this role and
 * Lt Col J H Dennis, 1 Oct 1941 - 1947
 * Lt Col R P Langford-Brooke, 1947 - 1949 (descendent of Thomas Langford-Brooke who joined 1797?)
 * Lt Col J L B Leicester-Warren, 1949 - 1951 (great-great-grandson of Leicester?)
-* Lt Col R B Verdin, 1951 - 1954
-* Lt Col W L Mather, 1954 - 1 Apr 1957
+* Lt Col Sir Richard Verdin, 1951 - 1954
+* Lt Col Sir William Mather, 1954 - 1 Apr 1957
 * Lt Col G V Churton, 1 Apr 1957 - 1960
 * Lt Col G E Sparrow, 1 Apr 1960 - 1963
 * Lt Col F J K Williams, 1963 - 1967
@@ -43,7 +43,7 @@ In earlier years known as Second in Command, and the split between this role and
 
 * Maj R G Sparrow, 1 Jan 71 - 31 Oct 71
 * Maj A W A Spiegelberg, 1 Nov 71 - 31 Mar 74
-* Maj D W Williams Wynn, 1 Apr 74 - 30 Apr 78
+* Maj D W Williams Wynn, 11th Baronet, 1 Apr 74 - 30 Apr 78
 * Maj D R B Thompson, 1 May 78 - 31 Dec 81
 * Maj E G Hawke, 11th Baron, 1 Jan 82 - 31 Dec 84
 * Maj G C Grosvenor, 6th Duke of Westminster, 1 Jan 85 - 31 Dec 87
