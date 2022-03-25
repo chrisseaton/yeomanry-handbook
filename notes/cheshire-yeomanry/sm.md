@@ -32,4 +32,5 @@
 ### C (Cheshire Yeomanry) Squadron, QOY
 
 * WO2 J Griffiths, 2015-2017
-* WO2 J Greenwood, 2017-...
+* WO2 J Greenwood, 2017-2022
+* WO2 C Poole, 2022
