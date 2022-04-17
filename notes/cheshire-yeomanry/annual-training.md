@@ -2,17 +2,21 @@
 
 Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely means the Roodee. Especially earlier camp was billeted in the town. Called variously 'permanent duty', 'annual training', 'annual camp'.
 
-* 1804, Liverpool
+* 1804, Tabley (January), Liverpool (July), Tabley (September)
 * 1805, Liverpool
 * 1805, Liverpool
+* 1806, Chester
 * 1807, in the local area of each troop
 * 1808, Chester
 * 1809, Chester
 * 1810, in the local area of each troop
-* 1813, Knutsford
+* 1811, none recorded
+* 1812, deployed
+* 1813, Tabley Park
 * 1814, none
 * 1815, Chester
-* 1817, none due to late harvest
+* 1816, none, but held in readiness
+* 1817, none due to late harvest, and deployed
 * 1818, Liverpool
 * 1819, grounds of Capt Daintry
 * 1820, Liverpool
@@ -26,7 +30,7 @@ Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely 
 * 1828, Mere
 * 1829, Liverpool
 * 1830, Liverpool
-* 1831, unknown
+* 1831, deployed or held in readiness
 * 1832, none due to cholera
 * 1833, Bootle
 * 1834, in the local area of each troop

@@ -987,7 +987,7 @@
 * Verdin p 1
 * Leary published
 
-# The Boer Wars
+# Boer Wars
 
 ## 1899
 
@@ -1179,7 +1179,7 @@
 
 * Yeomanry Regiments permitted to carry guidons
 
-# Post-war
+# Post-War
 
 ## 1947
 
