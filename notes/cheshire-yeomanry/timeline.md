@@ -987,7 +987,7 @@
 * Verdin p 1
 * Leary published
 
-# Boer Wars
+# The Boer Wars
 
 ## 1899
 
