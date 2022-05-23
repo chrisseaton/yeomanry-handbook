@@ -1,7 +1,6 @@
 # Nominal Roll of Officers
 
-Years of first joining, either by commission or transfer. Some people possibly
-appear twice, which we'd like to fix.
+Years of first joining, either by commission or transfer. Includes attached arms prior to 1900, as the distinction for example with adjutants is often vague.
 
 ## 1797
 
@@ -501,3 +500,453 @@ appear twice, which we'd like to fix.
 * H P Kirkpatrick
 * R N H Verdin
 * A M R Leigh
+
+## 1898
+
+* R Barbour
+* H R A Grosvenor, Viscount Belgrave, later 2nd Duke of Westminster
+* J Baskervyle-Glegg
+
+## 1899
+
+* J A R Kay
+
+## 1900
+
+* M Egerton
+
+## 1901
+
+* G C Lees Milne
+* P K Glazebrook
+
+## 1902
+
+* C W Tomkinson
+* W E Massey
+* W W Holland
+* J J de Knoop
+
+## 1903
+
+* J V Hermon
+* J Egerton-Warburton
+* G Cooper (QM)
+
+## 1905
+
+* I B Jarmay
+
+## 1906
+
+* P H Ashworth
+* W S W Radcliffe
+
+## 1907
+
+* J R S Payne
+* R G Brooke
+
+## 1908
+
+* A L Stanley, later 5th Baron of Alderley
+* B H Stock
+
+## 1910
+
+* G Egerton-Warburton
+* Lord E A Grosvenor
+* M J Kingscote
+
+## 1911
+
+* H Aldersey
+* G H deV Wilbraham
+* L Wilson
+
+## 1912
+
+* S E Ashton
+* W N Soames
+
+## 1913
+
+* W G K Sparrow
+* T M Brooks
+
+## 1914
+
+* P deM W Egerton
+* R J Houghton
+* A T Neilson
+* G G Lockett
+* J B Knowles
+* R M Wilson
+* H Carver
+* L W H Kerr
+* J E Tomkinson
+* Sir Kenneth Crossley, 2nd Baronet
+* C B Ismay
+* G M Cowie
+* R A Grosvenor
+* L H Wilson
+* C W Cowell (QM)
+* G P Dewhurst
+* R V Wilbraham
+* C B W Leicester
+* L H Jones
+* E Wooll
+* J Fergusson
+* C Leicester-Warren
+* H E Bushell
+* G A Perkins
+* A K Tyrer
+* H G T Royds
+* B N H Jones
+* W O Cobbett
+* A N Lockett
+* H Bleckley
+* E A Eason
+
+## 1915
+
+* W E Nicholson
+* O G Moseley
+* O H P Cox
+* N Armitage
+* C Schwabe
+* J W Boumphrey
+* E H Cruttenden
+* G U Garvan
+* A R EdghiIl
+* G B Hilyard
+* W A Duncombe-Anderson
+* A A Malcolm
+* J L Cross
+* A R Macklin
+* A Cooper
+* R W Buswell
+* N B Brooks
+* D H Webster
+* T P H Smith
+* R Cobbett
+
+## 1916
+
+* J A Greenfield
+* C E Holaway
+* H T Mathews
+* J Atkins
+* E P Vosper
+* P E Carlisle
+* T Groarke
+* G B Lockett
+* J N SolIy
+* A L B Singleton
+
+## 1917
+
+* W A Foulkes
+* H L M Lyons
+* G H Robinson
+* G H Gates
+* A Hood
+
+## 1918
+
+* W H Gowar
+* H J B O'Ncill
+* F W Sullivan
+* R G Lochner
+* W Long (QM)
+* B P Gallup
+* G Greenall
+* C P Dewhurst
+* F J Clarke
+* D E Williams
+
+## 1922
+
+* J H M Gordon
+* J H Dennis
+
+## 1923
+
+* J P Dewhurst
+* C D F Phillips-Brocklehurst
+
+## 1924
+
+* J H Smith-Maxwell
+
+## 1925
+
+* J W Flamank
+
+## 1926
+
+* J N Clegg
+
+## 1927
+
+* D Le Marchant
+* H E T Davies
+* M A T Johnson
+* R J Johnson Houghton
+* W B Hutchinson
+* S P L Groves
+* P Scott (QM)
+
+## 1930
+
+* R P Langford-Brooke
+* J L B Leicester-Warren
+* G P Holt
+* G R Barbour
+* G T Johnson Houghton
+
+## 1931
+
+* R B Verdin
+
+## 1932
+
+* T P Charlton
+
+## 1934
+
+* C P V Hervey
+* P F Pemberton
+
+## 1935
+
+* P Gamon
+* H C Cunningham
+
+## 1936
+
+* W L Mather
+* G V Churton
+* E H Eason
+
+## 1937
+
+* G B Dawson
+* M N Mitchell
+* A D Paterson
+* H P Rogers
+* K C Reid
+
+## 1938
+
+* M E S Higgin
+* J A Readman
+* P W B Lever, later 3rd Viscount Leverhulme
+* W J Cunningham
+* R M Dennis
+* R R Lockett
+
+## 1939
+
+* D F Shaw
+* S G Demetriadi
+* J K Hay
+* A D S Mangnall
+* J A P Bagge
+* R G V Black
+* D G West
+* A F Douglas-Home, 12th Earl of Home, later Baron Home of the Hirsel
+* C M P Coxwell-Rogers
+
+## 1940
+
+* W Pearce
+* C Funnel
+* R W B C Smith
+* G Milford-Cottam
+* G B Johnston
+* F Osmond
+* H C Martin
+* E V Hoyle
+* A A Galloway
+* M Bolton
+* D C Morgan
+* A H W Baker
+* D P Chapple Gill
+* C I Grant
+* C F Scott
+* R E W Stephens
+* R S Hutton
+* W H Fairclough
+* J D Dunlop
+* A M Elliot
+* H A P Stephens
+* D D Smith
+* J Clarke
+* A W Chalcraft
+* T B Morgan-Jones
+
+## 1941
+
+* L P Blackwell
+* R de Larinaga
+* A J Fearnley
+* J A Miller
+* D M Watt
+* D F Wilson
+* R B Jordan
+* H Glynn-Jones
+
+## 1947
+
+* A S D Graesser
+* D A Latham
+* D B D Dickson
+* G E Sparrow
+* J E K Rae
+* C G Rae
+* J G Brownlow
+* P J M Boddington
+* J R Finlow
+* C V Large
+
+## 1948
+
+* C P Norton
+* R G Platt
+* J D Sillavan
+* G T H Prosser
+
+## 1949
+
+* F J K Williams
+* H A D Wade
+* A W Forsyth
+* G M G Swindells
+* H D Wilbraham
+* W R N Lort
+
+## 1950
+
+* R N Higgin
+* J S Taylor
+* M R Orme
+* Sir Geoffrey V Bates, 5th Baronet of Bellefield
+
+## 1951
+
+* S B J Z de Ferranti
+* D M Garson
+* M J Wilbraham
+
+## 1952
+
+* M D G Clayton
+* R A O'Callaghan
+* M W Graham
+* W F Glazcbrook
+* P H Orme
+* R G Sparrow
+* N H Bruce
+
+## 1953
+
+* R S Boddington
+* B B Warrington
+
+## 1954
+
+* R M Posnett
+* A B M Orr
+* T J Clegg
+* T J Connolly
+* B J T Brothers
+* R V Covill
+* D A Childs
+* R A E Tremlett
+* P B Warrington
+* J S Chapman
+
+## 1955
+
+* J J K Moon
+* C J N Robinson
+* S Oppenheimer
+* J N Elliot
+* J L Wood
+* D R Levin-Raw
+
+## 1956
+
+* D L Colthorpe
+* M E J Hutton
+* G P Williams
+* T L A Daunt
+
+## 1957
+
+* M M Orr
+* W D Bouch
+* W M Tully
+* B N S Gemmel
+* A W A Spiegclberg
+* J M Wagstaff
+
+## 1958
+
+* P E J Focke
+* R M Roberts
+* C M Mallett
+* J H Prince
+* J R A Fox
+* J J Hutton
+
+## 1959
+
+* R S D'A Cleland
+* R C Naylor
+* A P Covill
+* D E D Johnson
+* A J T Jaggard
+* T G Kirkbride
+* A J Leighton
+* M B H Carver
+* J B Lockett
+
+## 1960
+
+* D Ridley
+* C J Green (QM)
+
+## 1962
+
+* R S Royston
+* A B Armstrong
+* A N G Kilgour
+
+## 1963
+
+* P Egerton-Warburton
+* M J S Preece
+* R T Speyer
+* A C Evans
+* S B Duncan
+* A J Gilham
+
+## 1964
+
+* R J F Gillington
+* A Robertson
+* D M Vevers
+* P J B Sayce
+* A J Jones (QM)
+* R P Yeoward
+
+## 1965
+
+* N G Moore
+* J B Bennett
+* A H C T Gates
+* G V Cope
+* W A Dunscath
+* P H Harford
