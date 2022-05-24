@@ -5,7 +5,7 @@
 * 1917-27: Capt W Long
 * 1927-40: Maj P Scott
 * 1947-42: Lt C Funnel
-* 1942-43: Lt F.W Mitchell
+* 1942-43: Lt F W Mitchell
 * 1943-44: Lt W G Luck
 * 1944-45: Lt J Munday
 * 1947-50: Capt J Robinson

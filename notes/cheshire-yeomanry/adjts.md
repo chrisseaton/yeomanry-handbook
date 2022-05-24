@@ -12,7 +12,6 @@
 * 1881: Capt E G Paley (5th Lancers)
 * 1886: Capt M Allfrey (15th Hussars)
 * 1891: Capt S Frewen (16th Lancers)
-* 1896: Capt HP Kirkpatrick (16th Lancers)
 * 1898-1901: Maj H P Kirkpatrick (16th (The Queen's) Lancers)
 * 1901-05: Capt N W Haig (6th (Inniskilling) Dragoons)
 * 1905-08: Capt J Richardson (11th (Prince Albert's Own) Hussars)
@@ -25,7 +24,7 @@
 * 1920-21: Capt C H Cotesworth (21st (Empress of India's) Lancers)
 * 1921-23: Capt M C R W Sparrow (20th Hussars)
 * 1923-27: Capt P W Bell (1st (Kings) Dragoon Guards)
-* 1927-31: Capt M C N C M Sykes (11th Hussars (Prince Albert's Own))
+* 1927-31: Capt N C M Sykes (11th Hussars (Prince Albert's Own))
 * 1931-35: Capt J M Blakiston-Houston (12th Hussars (Prince Albert's Own))
 * 1935-38: Capt E S Sword (13th/ 18th Royal Hussars (Queen Mary's Own))
 * 1938-40: Capt R S G Perry (9th Queen's Royal Lancers)
@@ -44,9 +43,9 @@
 
 ## 2nd Line
 
-* 1914-17: Capt G.P.Dewhurst
-* 1917-18: Capt D.H.Webster
+* 1914-17: Capt G P Dewhurst
+* 1917-18: Capt D H Webster
 
 ## 3rd Line
 
-* 1916-17: Capt O.H.P Cox
+* 1916-17: Capt O H P Cox
