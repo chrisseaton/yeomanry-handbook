@@ -1,10 +1,10 @@
 # Sergeant Majors
 
-## Regimental Sergeant Majors
+## Regimental Sergeants Major
 
 * RSM Lamb, 1950?
 
-## Squadron Sergeant Majors
+## Squadron Sergeants Major
 
 ### C (Cheshire Yeomanry) Squadron, QOY
 
