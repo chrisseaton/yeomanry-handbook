@@ -40,6 +40,26 @@
 * 1959-61: Capt G P D'A Waud (3rd Carabiniers (Prince of Wales's Dragoon Guards))
 * 1961-64: Capt P J A Hedley (3rd Carabiniers (Prince of Wales's Dragoon Guards))
 * 1964-65: Capt I H Jeffers (3rd Carabiniers (Prince of Wales's Dragoon Guards))
+* 1972-73 Capt P G E Bartholomew (RSDG)
+* 1973-75 Capt C M Tetley (16/5L)
+* 1975-77 Capt H C G Gabbey (5 Innis DG)
+* 1977-79 Capt W R Waterhouse (16/5L)
+* 1979-83 Capt J FitzGerald (5 Innis DG)
+* 1983-85 Capt T D L Higham (16/5L)
+* 1985-88 Capt L Duckworth (5 Innis DG)
+* 1988 Capt M J Gill 16/5L
+* 1989 Capt R P Cumming (5 Innis DG)
+* 1990-91 S A Vaughan-Edwards
+* 1992 Capt S A Vaughan-Edwards, 16/5L
+* 1993-94 Capt E P Ross, RDG
+* 1995 Captain B J Lockett QRL
+* 1996-2000 Capt P C R Troup, QRL
+
+## Permanent Staff Administration Officers
+
+* 2000-08 Capt J McBride
+* 2009-20 Capt C M Hodgkinson
+* 2020 Capt D Stanfield
 
 ## 2nd Line
 
