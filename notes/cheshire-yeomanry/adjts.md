@@ -1,11 +1,11 @@
 # Adjutants
 
-* 1803: W J Matchett
-* 1809: R W Dadley
-* 1813: S Dudley (3rd Dragoon Guards)
+* 1803: Capt W J Matchett
+* 1809: Capt R W Dadley
+* 1813: Capt S Dudley (3rd Dragoon Guards)
 * 1819: Capt J Barra (16th Lancers)
 * 1836: Capt H Hill (1st Dragoon Guards)
-* 1968: C D Rich (9th Lancers)
+* 1968: Capt C D Rich (9th Lancers)
 * 1870: Capt D Scotland (7th Dragoon Guards)
 * 1875: Capt P E Pope (4th Dragoon Guards)
 * 1880: Capt H A Reid (7th Dragoon Guards)
@@ -44,13 +44,12 @@
 * 1973-75 Capt C M Tetley (16/5L)
 * 1975-77 Capt H C G Gabbey (5 Innis DG)
 * 1977-79 Capt W R Waterhouse (16/5L)
-* 1979-83 Capt J FitzGerald (5 Innis DG)
+* 1979-83 Capt Lord John FitzGerald (5 Innis DG)
 * 1983-85 Capt T D L Higham (16/5L)
 * 1985-88 Capt L Duckworth (5 Innis DG)
 * 1988 Capt M J Gill 16/5L
 * 1989 Capt R P Cumming (5 Innis DG)
-* 1990-91 S A Vaughan-Edwards
-* 1992 Capt S A Vaughan-Edwards, 16/5L
+* 1990-92 Capt S A Vaughan-Edwards
 * 1993-94 Capt E P Ross, RDG
 * 1995 Captain B J Lockett QRL
 * 1996-2000 Capt P C R Troup, QRL
