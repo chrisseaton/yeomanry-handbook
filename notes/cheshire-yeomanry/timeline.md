@@ -25,7 +25,7 @@
 ## 1798
 
 * Leary p5
-* May, James Lumm, an Irish rebbel was arrested by a King's messenger at Buxton on a charge of treason, and escorted to Chester by the Macclesfield troop
+* May, James Lumm, an Irish rebel was arrested by a King's messenger at Buxton on a charge of treason, and escorted to Chester by the Macclesfield troop
 * 24-May, *Stockport Cavalry* troop raised
 * 7-Jul, *Nether Knutsford Association Cavalry* troop raised - the Association additionally had two companies of infantry, and was at the time distinct from Sir John Leicester's corps
 
@@ -242,7 +242,7 @@
   * joined by 15th Hussars under Lt Col Dalrymple
   * joined by detachment of 88th Foot under Col McGregor
   * joined by two pieces of artillery under Maj Dyneley
-  * joined by detachemnt of 31st Food under Lt Col Guy L'Estrange, who also commanded the whole
+  * joined by detachment of 31st Food under Lt Col Guy L'Estrange, who also commanded the whole
   * crowd now between 60-150,000, one hundred yards wide
   * speakers were to be intended to be arrested but constables could not reach them
   * a troop of the Manchester and Salford Yeomanry Cavalry under Capt Birley advanced into the crowd and became cut off
@@ -1144,8 +1144,8 @@
 
 ### 1915
 
-* 1-Jan-1915, exercise against Duke of Westminster's Number 2 Squadron, Royal Naval Armoured Cars Division
-* First to deploy, France Mar-1915
+* 1-Jan-1915, exercise against Duke of Westminster's Number 2 Squadron, Royal Naval Armoured Cars Division (Fletcher)
+  * First to deploy to France, Mar-1915  (Fletcher)
 
 ### 1916
 
@@ -1191,7 +1191,7 @@
 
 ## 1967
 
-* 1-Apr, re-titled *Cheshire Yeomanry (Earl of Chester's Territorials)* as part of the *Territorial Army and Volunteer Reserve*, with *A Squadron* at Nortwich, and *B Squadron* and *C Squadron* at Birkenhead
+* 1-Apr, re-titled *Cheshire Yeomanry (Earl of Chester's Territorials)* as part of the *Territorial Army and Volunteer Reserve*, with *A Squadron* at Northwich, and *B Squadron* and *C Squadron* at Birkenhead
 * Camp at Castlemartin
 * Moved to the TAVR III
 
