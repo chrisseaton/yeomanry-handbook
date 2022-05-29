@@ -26,6 +26,8 @@
 
 ## First World War
 
+* 1914, September, coastal defence in Norwich, as part of Welsh Border Mounted Brigade
+
 ## Second World War
 
 ## Post-War

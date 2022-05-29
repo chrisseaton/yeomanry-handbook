@@ -1137,18 +1137,66 @@
 * Mar, opening of Albert Woods wing at the Chester Infirmary, and renaming to Chester Royal Infirmary, band paraded at the Cross
 * Planned to camp at Alderley
 * May, TEWT at Weobley-Kington
-* 5-Sep, camp at Howcaple, near Ross, in Herefordshire
+* Camp planned to be 5-Sep, at Howcaple, near Ross, in Herefordshire, never happened
 * 3-Aug, last peace-time training, enemy for DLOY in Knutsford area, many on bicycles
+* continued...
 
 # The First World War
 
+### 1914
+
+* ...continued
+* Verdin p42
+* 4-Aug, war declared
+* 5-Aug, TA mobilised, all-ranks received postcard from Adjutant, supplemented by telegrams from PSIs, some entire troops mobilised by 2pm
+* 8-Aug, last vacancy in the Regiment filled
+* Regiment expected to go to Newbridge, near the Curragh, Ireland, but by 15-Aug was at Eccleston
+* Joined by rest of Welsh Border Mounted Brigade, except Shropshire Yeomanry
+* Maj Verdin failed medical, so went on command the 2nd Line
+* 3-Sep, Brigade left Eccleston for Norwich, 2,000 men, 1,800 horses, 13 trains from Northgate Station
+* Impromptu parade outside Town Hall by B Sqn
+* 4-Sep, marched from Norwich to Bungay
+* C Sqn officers billeted in house of novelist Rider Haggard
+* 9-Sep, Regiment moved to Kirby Cane Hall, home of Crisp family
+* Oct, moved again to Langley Park, Loddon, owned by Harlow family, with soldiers under canvas and some billeted in Loddon
+* D Sqn split with troops sent to other Sqns and the Machine Gun Troop
+* Tasked to defend Gorleston and coast immediately to the south
+* 3-Nov, Maj Glazebrook and A Sqn spotted RN engaged German warships, suspected they could be towing troop carriers, fired on the coast, first hostile shot to land on British soil since Napoleonic war
+* 11-Nov, C Sqn apprehended Mormons going door-to-door in Yarmouth, believing them to be German spies
+* Dec, huts at Langley Park starting to be completed, all houses by Christmas
+* Three-days leave planned for a few for Christmas
+* 16-Dec, bombardment of Scarborough, Hartlepools, Whitby, 127 civilians killed, Yeomanry stood-to but not involved
+* 23-Dec, reports of pending German raid, so stood-to Christmas Eve, Day, Boxing Day, but nothing happened, turned out German barges were actually loaded with troops, but aborted
+* 24-Dec, first bomb dropped on England by aeroplane, Dover, didn't involve Yeomanry
+
 ### 1915
 
-* 1-Jan-1915, exercise against Duke of Westminster's Number 2 Squadron, Royal Naval Armoured Cars Division (Fletcher)
-  * First to deploy to France, Mar-1915  (Fletcher)
+* Verdin p49, Fletcher
+* 'Mud and monotony'
+* 1-Jan, exercise against Duke of Westminster's Number 2 Squadron, Royal Naval Armoured Cars Division (Fletcher)
+  * South of Beccles
+  * 13 armoured cars
+  * First to deploy to France, Mar-1915 (Fletcher)
+* 19-Jan, raids on Yarmouth and Kings Lynn by Zeppelin, little damage done
+* Horses found to have mange, everything disinfected
+* Bishop of St Asaph used to come and take services for Shropshire, Cheshire, and Denbigshire Yeomanries
+* Apr, national outbreak of cerebral meningitis (spotted fever), but only one case in the Regiment, Maj Glazebrook, but caused everyone to be quarantined for two months
+* Spring, Zeppelin raids became more frequent, Regiment sent to look for lights believed to be guiding them
+* 25-May, Capt J J de Knoop disciplined for writing criticism of the Army in France, posted to the Staff of 2/1 Welsh Border Mounted Brigade, which was the Brigade of the 2nd Line
+* 26-Jul, Regiment moved to Somerleyton Park, owned by Sir Saville Crossley, later 3rd Baron Somerleyton (Verdin calls him Baronet, confusing him with Sir Kenneth Crossley, 2nd Baronet?)
+* Sept, rumours of going abroad dismounted
+* 5-Nov, orders to go abroad dismounted, likely to Salonika in the Balkans, but didn't happen
 
 ### 1916
 
+* Verdin p58
+* 1-Jan, letter asking CO's to agree to break up regiments for individual augmentees for 53rd (Welsh) Division in Egypt, plan changed based on protests
+* Jan, CO's son missing in RFC over Germany, pilot who shot him down dropped a note over British lines to say he was captured but seriously injured
+* 20-Feb, bombing over Lowestoft, aimed at A Sqn marching back from Church
+  * Machine Gun Troop and Capt Egerton-Warburton returned fire, first real action of the war
+* 2-Mar, last parade in Norfolk
+* 3-Mar, departed for Eypt, via Davenport, HMS Haverford
+* Tpr 'Bullet' Speed, was told he was too young, but stowed away to go to Egypt
 * 17-Mar, rescue of crews of HMS Tara and SS Moorina by Duke of Westminster (Fletcher p29)
 
 # Inter-war
