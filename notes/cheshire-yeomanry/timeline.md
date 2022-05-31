@@ -1143,7 +1143,7 @@
 
 # The First World War
 
-### 1914
+### 1914 (England)
 
 * ...continued
 * Verdin p42
@@ -1169,7 +1169,7 @@
 * 23-Dec, reports of pending German raid, so stood-to Christmas Eve, Day, Boxing Day, but nothing happened, turned out German barges were actually loaded with troops, but aborted
 * 24-Dec, first bomb dropped on England by aeroplane, Dover, didn't involve Yeomanry
 
-### 1915
+### 1915 (England)
 
 * Verdin p49, Fletcher
 * 'Mud and monotony'
@@ -1187,7 +1187,7 @@
 * Sept, rumours of going abroad dismounted
 * 5-Nov, orders to go abroad dismounted, likely to Salonika in the Balkans, but didn't happen
 
-### 1916
+### 1916 (England)
 
 * Verdin p58
 * 1-Jan, letter asking CO's to agree to break up regiments for individual augmentees for 53rd (Welsh) Division in Egypt, plan changed based on protests
@@ -1195,9 +1195,75 @@
 * 20-Feb, bombing over Lowestoft, aimed at A Sqn marching back from Church
   * Machine Gun Troop and Capt Egerton-Warburton returned fire, first real action of the war
 * 2-Mar, last parade in Norfolk
-* 3-Mar, departed for Eypt, via Davenport, HMS Haverford
+* 3-Mar, departed for Eypt, via Davenport, HMT Haverford
 * Tpr 'Bullet' Speed, was told he was too young, but stowed away to go to Egypt
-* 17-Mar, rescue of crews of HMS Tara and SS Moorina by Duke of Westminster (Fletcher p29)
+* ...continued
+
+### 1916 (Egypt)
+
+* ...continued
+* Verdin p62
+* 7-Mar, passed Gibraltar
+* 11-Mar, stopped at Malta
+* 13-Mar, stalked by a submarine, sank another ship, had been a rumour home that it was the Haverford
+* 14-Mar, reached Alexandria
+* 15-Mar, disembarked, got onto open cattle trucks, five hours to Wardan near the Nile, then Bini Salama
+* Co-located with Shropshire, Denbiglishire, Pembrokeshire, Montgomeryshire and Glamorganshire Yeomanries, forming 4th Dismounted Brigade
+* Regiments lost their machine gun troops, forming 210 Machine Gun Company at Brigade HQ, later 74th Machine Gun Battalion at 74th Division, Capt Egerton-Warbuton and Lt Lockett left for remainder of the War
+* 2nd DoW persuit of Sunussi to Bir Maer (separate to below, and not sure of date, see Battle of Agagia)
+* 17-Mar, rescue of crews of HMS Tara and SS Moorina by 2nd DoW (Fletcher p29)
+* 25-Mar, 2nd DoW met Maj Glazebrook at Cairo
+* 18-Apr, moved to Minia to prepare for operations against the Senussi
+* Some horses joined for officers at this point
+* Joined by draft from England
+* Officers hired a sailing boat on the Nile, to stalk ducks
+* Tasked to capture and occupy Baharia Oasis, 'Baharia Expedition'
+  * Blockhouses to be built along Line of Communication (axis) every 10 to 12 miles
+  * End of Apr, 4th Blockhouse nearing completion
+  * Some passable road, but then pontoon bridges that couldn't carry mech forces, so camel all the way
+  * Railway built along the line
+  * Glamorganshire Yeomanry and Buckinghamshire Yeomanry (Royal Bucks Hussars) stationed along line
+  * Baharia Motor Car Patrol, Cheshire Light Car Patrol
+  * Regt's role at this point sending out recce patrols on camel, usuaally 4-5 days, up to 9, carry all own water
+  * Later worked on the L of C iteself, railhead, blockhouses, camps
+* 8-May, Maj Glazebrook appointed Camp Commandant at Samalut, then to Shusha, then Director of Transport for whole Line of Communication
+* 13-May, Lt Soames not been well, but went out on patrol, returned 3 days later barely recognisable, hospital Minia, died on 18-May, LCpl Bolton, C Sqn, died same night, both burried in Coptic Cemetary
+* 25-May, all Regts asked to transfer 1 officer, 35 other ranks to the Imperial Camel Corps
+  * Mounted on 'henis' (trotting camels)
+* Jul, ten-days R&R at Sidi Bishir
+* 24-Jul, Turks threatening Suez Canal, 6th Company Imperial Camel Corps, sent to reinforce
+  * Camels escaped on an exercise at Mena near the Pryamids, took all night to recover them
+  * 2nd Battalion formed, commanded by Maj J J de Knoop
+  * Turks conducted rear-guard actions
+  * 6-Jul, 6th Company arrived
+  * 7-Jul, Lt Col J J de Knoop, trying to locate the enemy under fire, LCpl Fearnall attempted to locate enemy by walking along a ridge
+  * Col J J de Knoop hit in the arm by a sniper, continued to command, then again later in the afternoon hit and killed, buried at dusk close to where he died
+* 13-Aug to 17 Maj Glazebrook accompanied Capt MacFarlane of the Camel Corps to rece
+* End of Aug, 6th blockhouse almost ready, railway line laid, force moved to blockhouse
+* Sept, Capt Sparrow gave party for promotion with Champagne
+* 6-Oct, Lt Col Phillips-Brocklehurst to leave to command 9th Battalion Cheshire Regiment, Maj Barbour became Regtl 2IC
+* 10-Oct, Senussi evacuating Baharia, making for Siwa, everyone sent out to try to cut them off, but they escaped
+  * They comletely played us - stayed put while we spent huge resources and time building the L of C, then just left
+  * We never even saw the oasis! the Machine Gun Company did
+  * They could come back to the oasis any time they wanted unless we occupied it permamently
+* 14-Nov, left Shusha, to Alamein, 15-Nov coming together for the first time in months, then C Sqn went to Moghara
+* Just before leaving Shusha, told that they'd become an infantry battalion, so started infantry training
+  * Lt Barron and 2 Sgts from Northamptonshire Regiment attached from Infantry School of Training at Zeitoun
+  * Leave in Cairo
+  * 10th Battalion King's Shropshire Light Infantry (Shropshire and Cheshire Yeomanry Regiments) (KSLI) to be formed with Shropshire Yeomanry
+  * CY to form two companies, 2 (C Sqn) and 4 (B Sqn), A Sqn divided between the two
+
+## 1917 (Egypt)
+
+* Verdin p82
+* Feb, Light Car Patrol detached for Battle for Siwa Oasis, Lt Wilson accompanied, so first officer to get battle experience serving with the actual Regt (the KSLI?)
+* 1-Mar, left for Zeitoun, parties previous days
+* continued...
+
+## 1917 (Palestine)
+
+* ...continued
+* Verdin p85
 
 # Inter-war
 

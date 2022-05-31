@@ -1,4 +1,4 @@
-# Kings and Queens of the United Kingdom
+# Kings and Queens of Great Britain and the United Kingdom
 
 * George III, 25-Oct-1760 - 29-Jan-1820
 * George IV, 29-Jan-1820 - 26-June-1830 (regent from 1811)
