@@ -1,1 +1,0 @@
-* Elder Dempster Line
