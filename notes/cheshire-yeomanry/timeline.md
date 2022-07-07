@@ -1264,6 +1264,29 @@
 
 * ...continued
 * Verdin p85
+* 1-Mar, left Alamein for Zeitoun, via Helmieh
+  * At Zeitoun was the Dismoutend Brigade, including the Shropshire Yeomanry forming the other half of the battalion
+  * No 2 and 4 Companies initially almost entirely Cheshire Yeomen
+  * 4th Dismounted Brigade became 231st Infantry Brigade
+  * Part of 7th Division, with 2nd Dismoutend Brigade (6 Yeomanries) and the 3rd Dismounted Brigade (5 Yeomanries)
+  * Broken Spur was the Divisional sign - included 18 dismounted cavalry regiments
+  * From this point forward, reinforcements joined KSLI, not Cheshire Yeomanry
+  * Due to join Eastern Force under Gen Sir Chales Dobell
+  * Again, the Force needed a railway and water line to cross desert from Cairo to Palestine
+  * KSLI did training and other forces built these until December
+  * Nobody liked Zeitoun, but Cairo 15 mins away by train, officers went there most nights for dinner
+* Dec, Objective then was El Arish, Camel Corps including 6th Company sent as advance guard, as the 'Desert Column'
+* 21-Dec, Desert Column occupied El Arish unopposed
+* Infantry divisions remained at El Arish, Desert Column went forward to fight at Maghdaba on 23-Dec, and Rafah on 9-Jan
+
+## 1918 (Palestine)
+
+* Verdin p87
+* Confusing here - Verdin says bottom of p87 that the infantry divisions remained at El Arish, while cavalry and camels fought at Rafah, but then says Cheshire Yeomen were killed at Rafah. Might be becuase 5th Mounted Brigade (Yeomanry) joined at Rafah, but we were 4th, and that had already been renamed 231st Infantry Brigade in the previous year.
+* LCpl Onions killed, Tpr Gwilliam died of wounds at Rafah
+* 6th Company Imperial Camel Corps led by Maj Pettit, Shropshire Yeomanry at this point
+* 
+
 
 # Inter-war
 
