@@ -14,8 +14,8 @@
 * WO2 B C Hewitt, 1978-1984
 * WO2 J D Wood, 1985-1887
 * WO2 T G Parry, 1988-1989
-* WO2 S E Hartley, 1989-1994
-* WO2 C M Hodgkinson, 1997-1998
+* WO2 S E Hartley, 1989-1995
+* WO2 C M Hodgkinson, 1995-1998
 * WO2 D White, 1999
 
 ### C (Cheshire Yeomanry) Squadron, RMLY
