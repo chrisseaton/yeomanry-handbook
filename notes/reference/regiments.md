@@ -12,6 +12,10 @@
 
 * Amalgamated with 15/19 KRH to form LD in 1992
 
+## 14th/20th King's Hussars (14/20H)
+
+* Amalgamated with the RH to form KRH in 1992
+
 ## 15th/19th The King's Royal Hussars (15/19 KRH)
 
 * Amalgamated with 13/18 RH to form LD in 1992
@@ -39,6 +43,10 @@
 
 * Amalgamated from 13/18 RH and 15/19 KRH in 1992
 
+## 1st The Queen's Dragoon Guards (QDG)
+
+* Amalgamated from KDG and 2DG in 1959
+
 ## Queen's Own Hussars (QOH)
 
 * Amalgamated with QORIH to form QRH in 1993
@@ -64,3 +72,6 @@
 
 * Amalgamated from 9/12L and QRL in 2015
 
+## Royal Scots Dragoon Guards (Carabiniers and Greys)
+
+* Amalgamated from 3rd Carabiniers (Prince of Wales's Dragoon Guards) and The Royal Scots Greys (2nd Dragoons) in 1971
