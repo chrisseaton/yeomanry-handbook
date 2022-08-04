@@ -18,50 +18,10 @@
 * 1993-1996 WO2 R Manning RHG/D
 * 1996-1999 WO2 J K Stanworth LG
 
-## Driving and Maintenance
+## Regular/FTRS SQMS
 
-* 1971-1973 Sgt K Roberts 16/5L
-* 1973-1975 Sgt P Kinvig 16/5L
-* 1975-1975 Sgt D Lee 16/5L
-* 1975-1978 Sgt J Folan 16/5L
-* 1978-1979 Sgt S Broer 16/5L
-* 1979-1981 Sgt P Smith 16/5L
-* 1981-1984 Sgt J Wyatt 16/5L
-* 1984-1986 Sgt M Pickard 16/5L
-* 1986-1989 Sgt A Gasson 16/5L
-* 1989-1991 Sgt P Sandbrooke 16/5L
-* 1990-1994 Sgt C Murtagh (date not a mistake) 16/5L
-* 1994-1986 CoH S Smithers LG
-...
-* 2015-2016 Sgt M Milner QDG
-
-## Gunnery
-
-* 1975-1976 Sgt M Brown 5 INNIS DG
-* 1976-1978 Sgt T Smith 5 INNIS DG
-* 1978-1980 Sgt R Hesford 5 INNIS DG
-* 1980-1982 Sgt M Maguire 5 INNIS DG
-* 1982-1984 Sgt J Williamson 5 INNIS DG
-* 1984-1986 Sgt K Johnston 5 INNIS DG
-* 1986-1988 Sgt G Williams QDG
-* 1988-1990 Sgt B Richards 16/5L
-* 1990-1992 Sgt C Higgins 5 INNIS DG
-* 1992-1994 Sgt G Miley RTR
-* 1994-1997 Sgt N McKeown RDG
-* 1997-1999 Sgt A R Griffiths RDG
-
-## REME
-
-* 1978-1980 Sgt P Rosier
-* 1980-1983 SSgt H Watson
-* 1983-1985 SSgt P McCormack
-* 1985-1987 SSgt G Douglas
-* 1987-1988 SSgt G Fuery
-* 1988-1989 SSgt D Ashton
-* 1989-1991 Sgt D Charlton
-* 1991-1994 Sgt B Pimblott
-* 1994-1997 SSgt S Forshaw
-* 1997-1999 SSgt V J Roberts
+* ...1990-...1995 SSgt K R Crowton QOH
+* ... SSgt L Speed QOY
 
 ## Signals
 
@@ -80,3 +40,48 @@
 * 1996-1999 Sgt A M Robinson QDG
 ...
 * 2015-2016 Sgt D Blackburn QDG
+
+## Gunnery
+
+* 1975-1976 Sgt M Brown 5 INNIS DG
+* 1976-1978 Sgt T Smith 5 INNIS DG
+* 1978-1980 Sgt R Hesford 5 INNIS DG
+* 1980-1982 Sgt M Maguire 5 INNIS DG
+* 1982-1984 Sgt J Williamson 5 INNIS DG
+* 1984-1986 Sgt K Johnston 5 INNIS DG
+* 1986-1988 Sgt G Williams QDG
+* 1988-1990 Sgt B Richards 16/5L
+* 1990-1992 Sgt C Higgins 5 INNIS DG
+* 1992-1994 Sgt G Miley RTR
+* 1994-1997 Sgt N McKeown RDG
+* 1997-1999 Sgt A R Griffiths RDG
+
+## Driving and Maintenance
+
+* 1971-1973 Sgt K Roberts 16/5L
+* 1973-1975 Sgt P Kinvig 16/5L
+* 1975-1975 Sgt D Lee 16/5L
+* 1975-1978 Sgt J Folan 16/5L
+* 1978-1979 Sgt S Broer 16/5L
+* 1979-1981 Sgt P Smith 16/5L
+* 1981-1984 Sgt J Wyatt 16/5L
+* 1984-1986 Sgt M Pickard 16/5L
+* 1986-1989 Sgt A Gasson 16/5L
+* 1989-1991 Sgt P Sandbrooke 16/5L
+* 1992-1994 Sgt C Murtagh 16/5L
+* 1994-1986 CoH S Smithers LG
+...
+* 2015-2016 Sgt M Milner QDG
+
+## Artificer
+
+* 1978-1980 Sgt P Rosier REME
+* 1980-1983 SSgt H Watson REME
+* 1983-1985 SSgt P McCormack REME
+* 1985-1987 SSgt G Douglas REME
+* 1987-1988 SSgt G Fuery REME
+* 1988-1989 SSgt D Ashton REME
+* 1989-1991 Sgt D Charlton REME
+* 1991-1994 Sgt B Pimblott REME
+* 1994-1997 SSgt S Forshaw REME
+* 1997-1999 SSgt V J Roberts REME
