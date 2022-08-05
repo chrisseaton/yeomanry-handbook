@@ -1245,7 +1245,7 @@
 * 10-Oct, Senussi evacuating Baharia, making for Siwa, everyone sent out to try to cut them off, but they escaped
   * They comletely played us - stayed put while we spent huge resources and time building the L of C, then just left
   * We never even saw the oasis! the Machine Gun Company did
-  * They could come back to the oasis any time they wanted unless we occupied it permamently
+  * They could come back to the oasis any time they wanted unless we occupied it permanently
 * 14-Nov, left Shusha, to Alamein, 15-Nov coming together for the first time in months, then C Sqn went to Moghara
 * Just before leaving Shusha, told that they'd become an infantry battalion, so started infantry training
   * Lt Barron and 2 Sgts from Northamptonshire Regiment attached from Infantry School of Training at Zeitoun

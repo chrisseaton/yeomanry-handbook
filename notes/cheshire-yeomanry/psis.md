@@ -21,7 +21,8 @@
 ## Regular/FTRS SQMS
 
 * ...1990-...1995 SSgt K R Crowton QOH
-* ... SSgt L Speed QOY
+* ... SSgt L Speed
+* 2010 SSgt K R Crowton
 
 ## Signals
 
@@ -39,6 +40,8 @@
 * 1995-1996 Sgt A Burgess RDG
 * 1996-1999 Sgt A M Robinson QDG
 ...
+* 2007-2009 Sgt J Webb RDG (later QRH)
+...
 * 2015-2016 Sgt D Blackburn QDG
 
 ## Gunnery
@@ -55,6 +58,7 @@
 * 1992-1994 Sgt G Miley RTR
 * 1994-1997 Sgt N McKeown RDG
 * 1997-1999 Sgt A R Griffiths RDG
+...
 
 ## Driving and Maintenance
 
@@ -69,9 +73,17 @@
 * 1986-1989 Sgt A Gasson 16/5L
 * 1989-1991 Sgt P Sandbrooke 16/5L
 * 1992-1994 Sgt C Murtagh 16/5L
-* 1994-1986 CoH S Smithers LG
+* 1994-1996 CoH S Smithers LG
 ...
 * 2015-2016 Sgt M Milner QDG
+
+## PSI
+
+* 2001-2002 Sgt S Watson SCOTS DG
+* 2002-2005 Sgt J Griffiths RTR
+* 2006 Sgt B Porter RDG
+* 2007-2008 Sgt P Hunt RDG
+* 2009-2010 Sgt Cosby RDG
 
 ## Artificer
 
@@ -85,3 +97,4 @@
 * 1991-1994 Sgt B Pimblott REME
 * 1994-1997 SSgt S Forshaw REME
 * 1997-1999 SSgt V J Roberts REME
+...

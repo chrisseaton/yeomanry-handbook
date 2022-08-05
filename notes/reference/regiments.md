@@ -72,6 +72,6 @@
 
 * Amalgamated from 9/12L and QRL in 2015
 
-## Royal Scots Dragoon Guards (Carabiniers and Greys)
+## Royal Scots Dragoon Guards (Carabiniers and Greys) (SCOTS DG)
 
 * Amalgamated from 3rd Carabiniers (Prince of Wales's Dragoon Guards) and The Royal Scots Greys (2nd Dragoons) in 1971
