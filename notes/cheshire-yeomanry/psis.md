@@ -98,6 +98,6 @@
 * 1988-1989 SSgt D Ashton REME
 * 1989-1991 Sgt D Charlton REME
 * 1991-1994 Sgt B Pimblott REME
-* 1994-1997 SSgt S Forshaw REME
+* 1994-1997 SSgt S R Forshaw REME (later WO2)
 * 1997-1999 SSgt V J Roberts REME
 ...

@@ -52,7 +52,7 @@
 * 1990-92 Capt S A Vaughan-Edwards 16/5L
 * 1993-94 Capt E P Ross, RDG
 * 1995 Captain B J Lockett QRL
-* 1996-2000 Capt P C R Troup, QRL
+* 1996-2000 Capt P C R Troup QRL
 
 ## Permanent Staff Administration Officers
 
