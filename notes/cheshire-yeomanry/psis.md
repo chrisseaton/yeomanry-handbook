@@ -42,7 +42,8 @@
 ...
 * 2007-2009 Sgt J Webb RDG (later QRH)
 ...
-* 2015-2016 Sgt D Blackburn QDG
+* 2015-2017 Sgt D Blackburn QDG
+* 2017 Sgt A C Bates KRH
 
 ## Gunnery
 
@@ -75,7 +76,8 @@
 * 1992-1994 Sgt C Murtagh 16/5L
 * 1994-1996 CoH S Smithers LG
 ...
-* 2015-2016 Sgt M Milner QDG
+* 2015-2017 Sgt M Milner QDG
+* 2018 Sgt C W Dunleavy LD
 
 ## PSI
 
