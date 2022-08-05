@@ -43,7 +43,8 @@
 * 2007-2009 Sgt J Webb RDG (later QRH)
 ...
 * 2015-2017 Sgt D Blackburn QDG
-* 2017 Sgt A C Bates KRH
+* 2017-2019 Sgt A C Bates KRH
+* 2020 Sgt H A L F Bojang QDG
 
 ## Gunnery
 
