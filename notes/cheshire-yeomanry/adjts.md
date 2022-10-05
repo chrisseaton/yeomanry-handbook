@@ -23,7 +23,7 @@
 * 1918-19: Capt G W Provan (HLI)
 * 1920-21: Capt C H Cotesworth (21L)
 * 1921-23: Capt M C R W Sparrow (10H)
-* 1923-27: Capt P W Bell (1st (Kings) Dragoon Guards)
+* 1923-27: Capt P W Bell (1DG)
 * 1927-31: Capt N C M Sykes (11H)
 * 1931-35: Capt J M Blakiston-Houston (11H)
 * 1935-38: Capt E S Sword (13/18 RH)

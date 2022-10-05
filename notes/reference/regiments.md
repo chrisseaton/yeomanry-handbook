@@ -1,8 +1,8 @@
-# Regiment
+# Regiments
 
 ## 1st (Royal) Dragoons (1D)
 
-## 1st Dragoon Guards (1DG)
+## 1st (King's) Dragoon Guards (1DG)
 
 ## 3rd Dragoon Guards (3DG)
 
