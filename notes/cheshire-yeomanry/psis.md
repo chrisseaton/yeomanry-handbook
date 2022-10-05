@@ -2,11 +2,11 @@
 
 ## Regular SSM
 
-* 1971-1973 WO2 H F Colwell 16/5L
+* 1971-1973 WO2 H F Colwell (16/5L)
 * 1973-1975 WO2 R A W George 15/19 KRH
 * 1975-1976 WO2 J C Cousins RTR
 * 1976-1978 WO2 D E Goulding QORIH
-* 1978-1980 WO2 C Long 16/5L
+* 1978-1980 WO2 C Long (16/5L)
 * 1980-1983 WO2 I Wilson 4/7 RDG
 * 1983-1985 WO2 J F Rushton 14/20H
 * 1985-1986 WO2 C R Carter 5RIDG
@@ -26,16 +26,16 @@
 
 ## Signals
 
-* 1971-1973 Sgt S Nangle 16/5L
+* 1971-1973 Sgt S Nangle (16/5L)
 * 1973-1976 Sgt J James Scots DG
-* 1976-1978 Sgt I Blanchard 16/5L
-* 1978-1980 Sgt H Stathem 16/5L
-* 1980-1982 Sgt P Manser 16/5L
-* 1982-1984 Sgt E Fellows 16/5L
-* 1984-1986 Sgt R Titchener 16/5L
-* 1986-1988 Sgt D Tompson 16/5L
-* 1988-1990 Sgt D Kirk 16/5L
-* 1990-1993 Sgt M G Sandforth 16/5L
+* 1976-1978 Sgt I Blanchard (16/5L)
+* 1978-1980 Sgt H Stathem (16/5L)
+* 1980-1982 Sgt P Manser (16/5L)
+* 1982-1984 Sgt E Fellows (16/5L)
+* 1984-1986 Sgt R Titchener (16/5L)
+* 1986-1988 Sgt D Tompson (16/5L)
+* 1988-1990 Sgt D Kirk (16/5L)
+* 1990-1993 Sgt M G Sandforth (16/5L)
 * 1993-1995 Sgt P Brentnall RDG
 * 1995-1996 Sgt A Burgess RDG
 * 1996-1999 Sgt A M Robinson QDG
@@ -55,7 +55,7 @@
 * 1982-1984 Sgt J Williamson 5 INNIS DG
 * 1984-1986 Sgt K Johnston 5 INNIS DG
 * 1986-1988 Sgt G Williams QDG
-* 1988-1990 Sgt B Richards 16/5L
+* 1988-1990 Sgt B Richards (16/5L)
 * 1990-1992 Sgt C Higgins 5 INNIS DG
 * 1992-1994 Sgt G Miley RTR
 * 1994-1997 Sgt N McKeown RDG
@@ -64,17 +64,17 @@
 
 ## Driving and Maintenance
 
-* 1971-1973 Sgt K Roberts 16/5L
-* 1973-1975 Sgt P Kinvig 16/5L
-* 1975-1975 Sgt D Lee 16/5L
-* 1975-1978 Sgt J Folan 16/5L
-* 1978-1979 Sgt S Broer 16/5L
-* 1979-1981 Sgt P Smith 16/5L
-* 1981-1984 Sgt J Wyatt 16/5L
-* 1984-1986 Sgt M Pickard 16/5L
-* 1986-1989 Sgt A Gasson 16/5L
-* 1989-1991 Sgt P Sandbrooke 16/5L
-* 1992-1994 Sgt C Murtagh 16/5L
+* 1971-1973 Sgt K Roberts (16/5L)
+* 1973-1975 Sgt P Kinvig (16/5L)
+* 1975-1975 Sgt D Lee (16/5L)
+* 1975-1978 Sgt J Folan (16/5L)
+* 1978-1979 Sgt S Broer (16/5L)
+* 1979-1981 Sgt P Smith (16/5L)
+* 1981-1984 Sgt J Wyatt (16/5L)
+* 1984-1986 Sgt M Pickard (16/5L)
+* 1986-1989 Sgt A Gasson (16/5L)
+* 1989-1991 Sgt P Sandbrooke (16/5L)
+* 1992-1994 Sgt C Murtagh (16/5L)
 * 1994-1996 CoH S Smithers LG
 ...
 * 2015-2017 Sgt M Milner QDG

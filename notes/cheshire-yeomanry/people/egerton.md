@@ -1,4 +1,4 @@
-#  The Egerton Family
+# The Egerton Family
 
 The Egerton and Grey families were associated with the Cheshire Yeomanry in their early years. Also see the Warburton and Egerton-Warburton families.
 

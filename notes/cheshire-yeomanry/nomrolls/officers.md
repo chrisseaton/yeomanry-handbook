@@ -374,7 +374,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 * T W Langford Brooke
 * A Lascelles
-* C A Petersham (8th Earl of Harrington)
+* C A Petersham, 8th Earl of Harrington
 * J Tomkinson
 * A M Frost
 
