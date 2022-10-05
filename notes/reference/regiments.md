@@ -1,14 +1,36 @@
 # Regiment
 
+## 1st (Royal) Dragoons (1D)
+
+## 1st Dragoon Guards (1DG)
+
+## 3rd Dragoon Guards (3DG)
+
+## 3rd Carabiniers (Prince of Wales's Dragoon Guards) (3C)
+
+## 4th Dragoon Guards (4DG)
+
 ## 4th/7th Royal Dragoon Guards (4/7 RDG)
 
 * Amalgamated with 5 INNIS DG to form RDG in 1992
+
+## 5th Lancers (5L)
 
 ## 5th Royal Inniskilling Dragoon Guards (5 INNIS DG)
 
 * Amalgamated with 4/7 DG to form RDG in 1992
 
-## 13th/18th Royal Hussars (13/18 RH)
+## 6th (Inniskilling) Dragoons (6D)
+
+## 7th Dragoon Guards (7DG)
+
+## 9th (Queen's Royal) Lancers (9L)
+
+## 9th Battalion Highland Light Infantry (HLI)
+
+## 11th (Prince Albert's Own) Hussars (11H)
+
+## 13th/18th Royal Hussars (Queen Mary's Own) (13/18 RH)
 
 * Amalgamated with 15/19 KRH to form LD in 1992
 
@@ -16,14 +38,24 @@
 
 * Amalgamated with the RH to form KRH in 1992
 
+## 15th (The King's) Hussars (15H)
+
 ## 15th/19th The King's Royal Hussars (15/19 KRH)
 
 * Amalgamated with 13/18 RH to form LD in 1992
+
+## 16th Lancers (16L)
 
 ## 16th/5th The Queen's Royal Lancers (16/5L)
 
 * Amalgamated with 17/21L to form QRL in 1993
 * Amalgamated with 9/12L to form RL in 2015
+
+## 17th (Duke of Cambridge's Own) Lancers (17L)
+
+## 20th Hussars (20H)
+
+## 21st (Empress of India's) Lancers (21L)
 
 ## Blues and Royals (Royal Horse Guards and 1st Dragoons) (RHG/D)
 
