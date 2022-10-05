@@ -4,4 +4,5 @@
 * Albert, later Edward VII, 8-December 1841 - 22-January-1901
 * George, later George V, 9-November 1901 - 6-May-1910
 * Edward, later Edward VIII, 23-June-1910 - 20-January-1936
-* Charles, 26-July-1958 - present
+* Charles, later Charles III, 26-July-1958 - 8-September-2022
+* William, 8-September-2022
