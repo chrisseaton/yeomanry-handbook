@@ -950,3 +950,134 @@ Years of first joining, either by commission or transfer. Includes attached arms
 * G V Cope
 * W A Dunscath
 * P H Harford
+
+## 1966
+
+* M B Gravett
+* W Afflek
+* R Bissell
+* D W Hill
+* B Iverson
+
+## 1967
+
+* J Baldwin
+
+## 1970
+
+* R Clarke-Lomas
+
+## 1971
+
+* D W Williams-Wynn
+* P L Mather
+* J L Gabbot
+* P T Roberts
+
+## 1972
+
+* P N B Kennedy
+
+## 1973
+
+* E G Hawke, later 11th Baron
+* G C Grosvenor, 6th Earl, later 6th Duke of Westminster
+
+## 1975
+
+* A D B Brooks
+* N J F Dalrymple-Hamilton
+* R Orchard
+* D R B Thompson
+
+## 1976
+
+* N J F Dalrymple-Hamilton
+* C M Tetley
+
+## 1978
+
+* C M Nicklas-Carter
+
+## 1980
+
+* T J Pritchard-Barrett
+* M P Heward
+* C R Hutchison-Smith
+
+## 1983
+
+* D N V Churton
+* J L Owen
+
+## 1985
+
+* W M Barne
+* N C Glazebrook
+* O G Rowley-Conway, later 10th Baron Langford
+* M Jones
+
+## 1986
+
+* J M H Moir
+* P M Cooper
+
+## 1989
+
+* S R R De-Vater
+* A M Furse
+* C Urquhart
+
+## 1990
+
+* N L Hill
+
+## 1992
+
+* J R Compston
+
+## 1994
+
+* L H Meynell
+* M P Cole
+* D Goggs
+* C J Ledsham
+
+## 1995
+
+* D E Abbeton
+* J Lindsay, later 3rd Baronet
+
+## 1996-2017
+
+Not more specific due to lack of records.
+
+* J McBride
+* R W N Collis
+* C M Hodgkinson
+* P C Morris
+* W N W Bankes
+* S E Dawber
+* M A Jerstice
+* B Williams
+
+## 2017
+
+* C Seaton
+* G Bartie
+* A N Fearnall
+* M Oakeley
+
+## 2018
+
+* S P Holland
+* S J Castle
+
+## 2020
+
+* D P Stanfield
+* L Foddy
+
+## 2022
+
+* W Prydderch
