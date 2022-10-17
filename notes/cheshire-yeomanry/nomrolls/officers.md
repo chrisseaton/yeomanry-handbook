@@ -1,6 +1,6 @@
 # Nominal Roll of Officers
 
-Years of first joining, either by commission or transfer. Includes attached arms prior to 1900, as the distinction for example with adjutants is often vague.
+Years of first joining, either by commission or transfer. Includes attached arms prior to 1900, as the distinction for example with adjutants is often vague. Doesn't include Signal Squadron officers or cadets officers.
 
 ## 1797
 
@@ -39,7 +39,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 * H Furey
 * F Beswick
 * T Ridgeway
-* J HIgginson
+* J Higginson
 * W Okell
 * F Sharpe
 * W Bradburne
@@ -276,7 +276,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 ## 1847
 
-* H L Grosvenor, DoW
+* H L Grosvenor, 1st Duke of Westminster
 * E Greg
 * S Pearson Jnr
 
@@ -429,7 +429,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 ## 1879
 
-* G H H Cholmondeley (Earl of Rocksavage)
+* G H H Cholmondeley, Earl of Rocksavage
 
 ## 1880
 
@@ -655,7 +655,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 ## 1918
 
 * W H Gowar
-* H J B O'Ncill
+* H J B O'Neill
 * F W Sullivan
 * R G Lochner
 * W Long (QM)
@@ -889,7 +889,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 * W D Bouch
 * W M Tully
 * B N S Gemmel
-* A W A Spiegclberg
+* A W A Spiegelberg
 * J M Wagstaff
 
 ## 1958
@@ -898,7 +898,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 * R M Roberts
 * C M Mallett
 * J H Prince
-* J R A Fox
+* J R Anselm-Fox
 * J J Hutton
 
 ## 1959
