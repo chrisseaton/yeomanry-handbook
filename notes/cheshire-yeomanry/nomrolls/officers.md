@@ -1057,9 +1057,15 @@ Not more specific due to lack of records.
 * C M Hodgkinson
 * P C Morris
 * W N W Bankes
+* R Dunlea-Jones
 * S E Dawber
+* A S Davies
 * M A Jerstice
 * B Williams
+* N Ecclestone
+* A Fearnall
+* A H Siddell
+* B J Smith
 
 ## 2017
 
@@ -1081,3 +1087,20 @@ Not more specific due to lack of records.
 ## 2022
 
 * W Prydderch
+
+## Unknown
+
+* W A Dunseath
+* A H Gethin
+* A J Gilham
+* M B H Ward
+* R Bowden
+* A Dumont
+* D S Jones
+* R Karadia
+* N S Palmer
+* G H Roberts
+* R D Wharton
+* R Hartshorne
+* R G Dodd
+* J L O'Hanlon
