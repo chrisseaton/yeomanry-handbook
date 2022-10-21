@@ -119,7 +119,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 * T Orrell
 * W Egerton
 * T Hibbert
-* J Davenport Jnr
+* J Davenport, Jnr
 * Sir Hentry Mainwaring, Baronet
 * R L Trafford
 * P D Finney
@@ -176,7 +176,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 * W Wild
 * W Palin
 * T Norbury
-* J Worthington Jnr
+* J Worthington, Jnr
 
 ## 1828
 
@@ -231,7 +231,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 * T W Tatton
 * H Hill
 * T B Cave
-* G Andrew Jnr
+* G Andrew, Jnr
 * R C Ryle
 
 ## 1837
@@ -278,7 +278,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 * H L Grosvenor, 1st Duke of Westminster
 * E Greg
-* S Pearson Jnr
+* S Pearson, Jnr
 
 ## 1848
 
@@ -286,7 +286,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 * J Fenton
 * W Devereux Nicholls
 * P Barker
-* T Lyon Jnr
+* T Lyon, Jnr
 
 ## 1849
 
@@ -295,7 +295,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 ## 1850
 
-* H Leche Jnr
+* H Leche, Jnr
 
 ## 1851
 
