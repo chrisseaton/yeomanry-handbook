@@ -972,7 +972,7 @@
 * 26-May, outpost practice, supervised by Gen Sir Baker Russell
 * 30-May, inspected by Col Gough
 * 2-Sep, Maritini-Metford Carbine issued
-* Emphasis began to be placed on rifles 
+* Emphasis began to be placed on rifles
 
 ## 1897
 
@@ -1285,7 +1285,6 @@
 * Confusing here - Verdin says bottom of p87 that the infantry divisions remained at El Arish, while cavalry and camels fought at Rafah, but then says Cheshire Yeomen were killed at Rafah. Might be becuase 5th Mounted Brigade (Yeomanry) joined at Rafah, but we were 4th, and that had already been renamed 231st Infantry Brigade in the previous year.
 * LCpl Onions killed, Tpr Gwilliam died of wounds at Rafah
 * 6th Company Imperial Camel Corps led by Maj Pettit, Shropshire Yeomanry at this point
-* 
 
 
 # Inter-war
