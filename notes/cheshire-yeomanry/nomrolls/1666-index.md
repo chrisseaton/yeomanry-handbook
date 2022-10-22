@@ -34,20 +34,20 @@
 * Dod
 * Leech
 * Bird
-* William Barneston
-* Edward Bromley
-* Thomas Tanatt
+* Barneston
+* Bromley
+* Tanatt
 * Cartwright
-* Roger Puleston
-* George Morgan
-* Henry Harpur
-* Edward Spencer
-* Thomas Willcocks
-* William Sharman
-* Lord Brereton
-* Thomas Ashton
-* William Gorst
-* John Cottingham
+* Puleston
+* Morgan
+* Harpur
+* Spencer
+* Willcocks
+* Sharman
+* Brereton
+* Ashton
+* Gorst
+* Cottingham
 * Kinderton
 * Millington
 * Beayley

@@ -844,7 +844,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 * M D G Clayton
 * R A O'Callaghan
 * M W Graham
-* W F Glazcbrook
+* W F Glazebrook
 * P H Orme
 * R G Sparrow
 * N H Bruce
@@ -1045,7 +1045,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 ## 1995
 
-* D E Abbeton
+* D E Abberton
 * J Lindsay, later 3rd Baronet
 
 ## 1996-2017
