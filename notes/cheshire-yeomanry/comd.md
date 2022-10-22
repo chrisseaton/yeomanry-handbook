@@ -31,7 +31,7 @@ In earlier years known as Second in Command, and the split between this role and
 * Lt Col G V Churton, 1 Apr 1957 - 1960
 * Lt Col G E Sparrow, 1 Apr 1960 - 1963
 * Lt Col F J K Williams, 1963 - 1967
-* Lt Col J A S Barkworth 1967 - 1968
+* Lt Col J A S Barkworth, 1967 - 1968
 
 ## Officers Commanding
 
@@ -47,7 +47,7 @@ In earlier years known as Second in Command, and the split between this role and
 * Maj D R B Thompson, 1 May 78 - 31 Dec 81
 * Maj E G Hawke, 11th Baron, 1 Jan 82 - 31 Dec 84
 * Maj G C Grosvenor, 6th Duke of Westminster, 1 Jan 85 - 31 Dec 87
-* Maj C R Hutchinson Smith, 1 Jan 88 - 31 Mar 90
+* Maj C R Hutchinson-Smith, 1 Jan 88 - 31 Mar 90
 * Maj N C Glazebrook, 1 Apr 90 - 31 Dec 92
 * Maj N L Hill, 1 Jan 93 - 17 Mar 96
 * Maj P M Cooper, 18 Mar 96 - 31 Mar 98

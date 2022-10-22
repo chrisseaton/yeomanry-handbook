@@ -383,7 +383,7 @@
 
 * Leary p112
 * 16-May
-* Capt R Egerton Warburton took command of the Northwich Troop
+* Capt R Egerton-Warburton took command of the Northwich Troop
   * the Troop was renamed and moved to Arley
 * the Troop later gained the nicknamed *Saucy Arley*
 * 15-Jun, annual camp at Liverpool

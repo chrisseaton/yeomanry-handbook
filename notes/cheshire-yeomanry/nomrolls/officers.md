@@ -186,7 +186,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 ## 1829
 
-* R E Egerton Warburton
+* R E Egerton-Warburton
 * E J Stanley
 * R Broadbent
 * D Ward
@@ -351,7 +351,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 ## 1861
 
-* P Egerton Warburton
+* P Egerton-Warburton
 * A H S Barry
 * W C Brocklehurst
 
