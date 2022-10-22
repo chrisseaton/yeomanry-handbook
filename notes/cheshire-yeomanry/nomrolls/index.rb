@@ -107,28 +107,62 @@ end
   end
 end
 
+sorted_index = []
+
+index.keys.sort.each do |name|
+  input_years = index[name].uniq.sort_by(&:to_s)
+
+  output_years = []
+  input_years.each do |year|
+    if output_years.empty?
+      output_years.push year
+    elsif output_years.last.is_a?(Integer) && year.is_a?(Integer) && output_years.last == year - 1
+      output_years.pop
+      output_years.push (year - 1 .. year)
+    elsif output_years.last.is_a?(Range) && year.is_a?(Integer) && output_years.last.end == year - 1
+      range = output_years.pop
+      output_years.push (range.begin .. year)
+    else
+      output_years.push year
+    end
+  end
+
+  sorted_index.push [name, output_years]
+end
+
 File.open(File.join(__dir__, 'index.md'), 'w') do |file|
   file.puts '## Index of Names'
   file.puts
 
-  index.keys.sort.each do |name|
-    input_years = index[name].uniq.sort_by(&:to_s)
+  sorted_index.each do |name, years|
+    file.puts "* #{name}, #{years}"
+  end
+end
 
-    output_years = []
-    input_years.each do |year|
-      if output_years.empty?
-        output_years.push year
-      elsif output_years.last.is_a?(Integer) && year.is_a?(Integer) && output_years.last == year - 1
-        output_years.pop
-        output_years.push (year - 1 .. year)
-      elsif output_years.last.is_a?(Range) && year.is_a?(Integer) && output_years.last.end == year - 1
-        range = output_years.pop
-        output_years.push (range.begin .. year)
+File.open(File.join(__dir__, '../../../cheshire-yeomanry-handbook/nomrolls/index.tex'), 'w') do |file|
+  file.puts '\renewcommand*{\indexname}{Index of Surnames}'
+  file.puts '\begin{theindex}'
+
+  sorted_index.each do |name, years|
+    years.map! do |year|
+      case year
+      when :boer_honour_roll, :pre_war_roll, :first_world_war_roll,
+          :inter_war_roll, :second_world_war_roll, :post_war_roll,
+          :modern_history_roll
+        'Rolls of Honour'
+      when :hon_cols
+        'Honorary Colonels'
+      when :comd
+        'Commanders'
       else
-        output_years.push year
+        year
       end
     end
 
-    file.puts "* #{name}, #{output_years}"
+    years.uniq!
+
+    file.puts "\\item #{name}, #{years.join(', ')}"
   end
+
+  file.puts '\end{theindex}'
 end
