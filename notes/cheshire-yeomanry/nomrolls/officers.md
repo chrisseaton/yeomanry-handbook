@@ -120,7 +120,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 * W Egerton
 * T Hibbert
 * J Davenport, Jnr
-* Sir Hentry Mainwaring, Baronet
+* Sir Henry Mainwaring, 2nd Baronet
 * R L Trafford
 * P D Finney
 * H Brooke
@@ -166,8 +166,8 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 * J Hulley
 * S Hunt
-* G Leicester, Lord de Tabley
-* W Taton Egerton, Lord Egerton of Tatton
+* G Leicester, later 2nd Baron de Tabley
+* W Taton Egerton, later 1st Baron Egerton
 * D Powell
 * E H Jonson
 * Lord G H Grey
@@ -182,7 +182,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 * E J Lloyd
 * T Reade
-* W Alvanley, Lord Arden
+* W Arden, 2nd Baron Alvanley
 
 ## 1829
 
@@ -270,7 +270,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 ## 1845
 
 * D Herbert
-* G Harry, Earl of Stamford and Warrington
+* G Harry, later 7th Earl of Stamford and 3rd Earl of Warrington
 * W Harper
 * W Brocklehurst
 
@@ -337,7 +337,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 ## 1858
 
-* Sir C W Hakerley, Baronet
+* Sir C W Hakerley, 2nd Baronet
 * G Fairbairn
 
 ## 1859
@@ -359,7 +359,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 * G Barbour
 * E Kenyon
-* J Morton, Earl
+* J Douglas, 18th Earl of Morton
 
 ## 1864
 
@@ -374,7 +374,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 * T W Langford Brooke
 * A Lascelles
-* C A Petersham, 8th Earl of Harrington
+* C A Stanhope, Viscount Petersham, later 8th Earl of Harrington
 * J Tomkinson
 * A M Frost
 
@@ -413,7 +413,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 ## 1874
 
-* V A Grosvenor, Earl
+* V A Grosvenor, Earl Grosvenor
 
 ## 1875
 
@@ -429,7 +429,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 ## 1879
 
-* G H H Cholmondeley, Earl of Rocksavage
+* G H H Cholmondeley, Earl Rocksavage, later 4th Marquess of Cholmondeley
 
 ## 1880
 
