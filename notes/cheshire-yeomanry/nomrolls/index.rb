@@ -93,6 +93,20 @@ File.open(File.join(__dir__, '../rolls-of-honour.md'), 'r') do |file|
   end
 end
 
+[['hon-cols.md', :hon_cols], ['comd.md', :comd]].each do |list, year|
+  File.open(File.join(__dir__, "../#{list}"), 'r') do |file|
+    file.each_line do |line|
+      case line
+      when "* (gapped due to KSLI?)\n"
+      when /^\* (.*)$/
+        key = surname($1)
+        next unless key
+        (index[key] ||= []).push year
+      end
+    end
+  end
+end
+
 File.open(File.join(__dir__, 'index.md'), 'w') do |file|
   file.puts '## Index of Names'
   file.puts
