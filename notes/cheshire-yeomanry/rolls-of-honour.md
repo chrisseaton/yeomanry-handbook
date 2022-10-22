@@ -108,7 +108,7 @@ From Verdin p606: "In compiling the Rolls of Honour set out below the normal pra
 * G Gregory
 * C E Griffiths
 * F G Gunnery
-* Gwilliam # who died of wounds received at the battle of Rafak, appears to have been inadvertently omitted from the original memorial in Chester Cathedral
+* Gwilliam <!-- who died of wounds received at the battle of Rafak, appears to have been inadvertently omitted from the original memorial in Chester Cathedral >
 * F W Haig
 * B Halliday
 * E Hallowood

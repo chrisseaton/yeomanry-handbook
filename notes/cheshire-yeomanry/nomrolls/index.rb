@@ -3,7 +3,7 @@
 def surname(name)
   name.sub! /\s*<!-- .* >/, '' # Remove any comment
   name.sub! /^.*: /, '' # Remove any appointment
-  name.sub! /^(Lt Col|Pte|Dvr|Mr|Tpr|Sig|Spr|LCpl|Cpl|Sgt|CoH|SSgt|WO2|WO1|OCdt|2Lt|Lt|Capt|Maj|Col|Cnt|Cfn|Dvr\/Mec|Farr|Farr\/Sgt|Farr\/Cpl|Dvr\/IC|Farr\/SSgt|Tptr|Sgt\/Cook|Arm\/Sgt|Farr\/QMS|Cpl\/Tptr|Bandsman|Bugler|CSgt|LSgt|Rev|Dr|Mrs|Quartermaster|Cornet|SCpl|WSIWSMI|WSSI|WSI|WSMI|Under Officer|Ensign|Shoeing Smith|SMI|Scpl|Sergeant Major|Sergeant Tptr|Maj Commandant)\s+/, '' # Remove any rank
+  name.sub! /^(Lt Col|Pte|Dvr|SAC|Mr|Tpr|Sig|Spr|LCpl|Cpl|Sgt|CoH|SSgt|WO2|WO1|OCdt|2Lt|Lt|Capt|Maj|Col|Cnt|Cfn|Dvr\/Mec|Farr|Farr\/Sgt|Farr\/Cpl|Dvr\/IC|Farr\/SSgt|Tptr|Sgt\/Cook|Arm\/Sgt|Farr\/QMS|Cpl\/Tptr|Bandsman|Bugler|CSgt|LSgt|Rev|Dr|Mrs|Quartermaster|Cornet|SCpl|WSIWSMI|WSSI|WSI|WSMI|Under Officer|Ensign|Shoeing Smith|SMI|Scpl|Sergeant Major|Sergeant Tptr|Maj Commandant)\s+/, '' # Remove any rank
   name.sub! /^Sir (\w+) /, '' # Remove Sir and first name
   name.sub! /^Lord (\w+) /, '' # Remove Lord and first name
   name.sub! /\s+\(.*\)$/, '' # Remove anything in brackets afterwards (QM, regiment, etc)
@@ -51,9 +51,8 @@ Dir.glob('*.md', base: __dir__) do |file|
       end
     end
   when 'officers.md'
-    year = nil
-
     File.open(File.join(__dir__, file), 'r') do |file|
+      year = nil
       file.each_line do |line|
         case line
         when /^## (\d\d\d\d)$/
@@ -68,21 +67,47 @@ Dir.glob('*.md', base: __dir__) do |file|
   end
 end
 
+File.open(File.join(__dir__, '../rolls-of-honour.md'), 'r') do |file|
+  year = nil
+  file.each_line do |line|
+    case line
+    when "## The Boer Wars\n"
+      year = :boer_honour_roll
+    when "## Pre-War\n"
+      year = :pre_war_roll
+    when "## First World War\n"
+      year = :first_world_war_roll
+    when "## Inter War\n"
+      year = :inter_war_roll
+    when "## Second World War\n"
+      year = :second_world_war_roll
+    when "## Post-War\n"
+      year = :post_war_roll
+    when "## Modern History\n"
+      year = :modern_history_roll
+    when /^\* (.*)$/
+      key = surname($1)
+      next unless key
+      (index[key] ||= []).push year
+    end
+  end
+end
+
 File.open(File.join(__dir__, 'index.md'), 'w') do |file|
   file.puts '## Index of Names'
   file.puts
 
   index.keys.sort.each do |name|
-    input_years = index[name].uniq.sort
+    input_years = index[name].uniq.sort_by(&:to_s)
 
     output_years = []
     input_years.each do |year|
       if output_years.empty?
         output_years.push year
-      elsif output_years.last == year - 1
+      elsif output_years.last.is_a?(Integer) && year.is_a?(Integer) && output_years.last == year - 1
         output_years.pop
         output_years.push (year - 1 .. year)
-      elsif output_years.last.is_a?(Range) && output_years.last.end == year - 1
+      elsif output_years.last.is_a?(Range) && year.is_a?(Integer) && output_years.last.end == year - 1
         range = output_years.pop
         output_years.push (range.begin .. year)
       else
