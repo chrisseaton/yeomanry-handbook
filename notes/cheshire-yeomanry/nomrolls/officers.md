@@ -170,7 +170,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 * W Taton Egerton, later 1st Baron Egerton
 * D Powell
 * E H Jonson
-* Lord G H Grey
+* G H Grey, 8th Baron Grey of Groby
 * G C Antrobus
 * D Ward
 * W Wild
@@ -438,7 +438,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 ## 1881
 
 * E Groves Payley
-* Lord Arthur Hugh Grosvenor
+* Lord Arthur Grosvenor
 
 ## 1882
 
@@ -555,7 +555,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 ## 1910
 
 * G Egerton-Warburton
-* Lord E A Grosvenor
+* Lord Edward Grosvenor
 * M J Kingscote
 
 ## 1911
