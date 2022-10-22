@@ -903,7 +903,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 ## 1959
 
-* R S D'A Cleland
+* R S D Cleland
 * R C Naylor
 * A P Covill
 * D E D Johnson
@@ -1003,7 +1003,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 * T J Pritchard-Barrett
 * M P Heward
-* C R Hutchison-Smith
+* C R Hutchinson-Smith
 
 ## 1983
 
