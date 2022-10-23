@@ -311,7 +311,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 * T H Marshall
 * E H Solly
 * J Holdforth
-* Shallcross Fitzherbert-Widdrington
+* S Fitzherbert-Widdrington
 
 ## 1853
 
