@@ -57,7 +57,7 @@
 
 * 1978 - 1994
 
-# Scimitar
+# Scimitar
 
 * 1994-1999
 * https://en.wikipedia.org/wiki/FV107_Scimitar
