@@ -5,7 +5,7 @@ people_groups = [[nil, []]]
 ARGF.each_line do |line|
   case line
   when "\n"
-    people_groups.push [nil, []]
+    people_groups.push [nil, []] unless people_groups.last.last.empty?
   when /^##\s+(.*)$/
     people_groups.pop if people_groups.last.first.nil? && people_groups.last.last.empty?
     people_groups.push [$1, []]
@@ -31,18 +31,13 @@ ARGF.each_line do |line|
   end
 end
 
-last_title = nil
 clear_tp_ldrs = false
 
 people_groups.each_with_index do |(title, people), n|
-  last_title = title if title
-
-  next if people.empty?
-
   if people.all? { |a, _| a.nil? }
     if n > 0 && people_groups[n - 1].last.all? { |a, _| a.nil? }
       puts '  \\\\' 
-      puts "  \\textbf{#{last_title}} \\\\"
+      puts "  \\textbf{#{title}} \\\\"
     else
       if title
         puts '\begin{center}'
@@ -65,6 +60,19 @@ people_groups.each_with_index do |(title, people), n|
       puts
     end
   else
+    if n > 0 && n < people_groups.size - 1 && people_groups[n + 1].last.all? { |a, _| a.nil? }
+      puts '\end{multicols}'
+      puts
+    end
+
+    if title
+      puts '\begin{center}'
+      puts '  \Large'
+      puts "  \\textbf{#{title}}"
+      puts '\end{center}'
+      puts
+    end
+
     puts '\begin{center}'
     puts '  \begin{tabular}{rl}'
     people.each do |appointment, name|
