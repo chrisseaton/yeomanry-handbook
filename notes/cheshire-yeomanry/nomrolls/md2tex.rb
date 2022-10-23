@@ -10,7 +10,10 @@ ARGF.each_line do |line|
   when /^\* (.*:\s+)?(.*)$/
     appointment = $1
     name = $2
-    name.gsub! /(\d)+st/, '\1\nth'
+    name.gsub! /\b(\d)+st\b/, '\1\st'
+    name.gsub! /\b(\d)+nd\b/, '\1\nd'
+    name.gsub! /\b(\d)+rd\b/, '\1\rd'
+    name.gsub! /\b(\d)+th\b/, '\1\nth'
     appointment.sub! /:\s+$/, '' if appointment
     people_groups.last.last.push [appointment, name]
   end
