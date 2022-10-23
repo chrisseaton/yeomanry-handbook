@@ -141,7 +141,7 @@
 
 * Cheshire Yeomanry (Earl of Chester's)
 
-## 1942
+## 1942
 
 * 5th Lines of Communication Signals, Royal Corps of Signals
 

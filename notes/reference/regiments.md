@@ -66,7 +66,7 @@
 
 * Encompasses LG and RHG/D from 1992
 
-## King's Regiment (KR)
+## King's Regiment (KR)
 
 * Presumed from KR in 1995 CY orbat
 * Infantry

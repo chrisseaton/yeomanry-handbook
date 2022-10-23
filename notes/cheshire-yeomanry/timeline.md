@@ -741,7 +741,7 @@
   * inspected by Col J Reynolds
   * candelabra presented (to who?) at the Grosvenor Hotel, Chester
 
-## 1871
+## 1871
 
 * Leary p168
 * Regiment reduced to eight troops - the Toft and Altrincham troops were disbanded
@@ -820,7 +820,7 @@
 * Leary p178
 * Annual training in local areas
 
-## 1882
+## 1882
 
 * Leary p179
 * 24-Apr, the Peckforton troop was disbanded and a troop was raised on the Wirral instead
