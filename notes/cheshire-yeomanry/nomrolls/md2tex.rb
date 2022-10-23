@@ -4,6 +4,9 @@ people_groups = [[nil, []]]
 
 ARGF.each_line do |line|
   case line
+  when "\n"
+    people_groups.pop if people_groups.last.last.empty?
+    people_groups.push [nil, []]
   when /^##\s+(.*)$/
     people_groups.pop if people_groups.last.last.empty?
     people_groups.push [$1, []]
