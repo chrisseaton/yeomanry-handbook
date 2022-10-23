@@ -331,7 +331,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 ## 1856
 
-* J B Leicester Warren (3rd Lord de Tabley)
+* J B Leicester Warren, 3rd Lord de Tabley
 * C G Cholmondeley
 * C A Merriman
 
