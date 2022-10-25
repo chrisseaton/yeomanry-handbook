@@ -1584,7 +1584,7 @@
 * McTigue, [1973..1981, 1983..1986]
 * McTique, [1972]
 * McWaters, [1916]
-* Mcanerney, [2017]
+* McAnerney, [2017]
 * Mckeon, [1997]
 * Mcnerney, [2015]
 * Meagre, [1990..1992]
