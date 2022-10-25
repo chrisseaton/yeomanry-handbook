@@ -6,7 +6,7 @@ ARGF.each_line do |line|
   case line
   when "\n"
     people_groups.push [nil, []] unless people_groups.last.last.empty?
-  when /^##\s+(.*)$/
+  when /^#+\s+(.*)$/
     people_groups.pop if people_groups.last.first.nil? && people_groups.last.last.empty?
     people_groups.push [$1, []]
   when /^\* (.*:\s+)?(.*)$/
