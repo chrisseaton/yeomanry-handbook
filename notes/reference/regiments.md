@@ -158,7 +158,7 @@
 
 ### Royal Scots Dragoon Guards (Carabiniers and Greys) (SCOTS DG)
 
-* Amalgamated from 3rd Carabiniers (Prince of Wales's Dragoon Guards) and The Royal Scots Greys (2nd Dragoons) in 1971
+* Amalgamated from 3C and 2D in 1971
 
 ### Household Cavalry Regiment (HCR)
 
