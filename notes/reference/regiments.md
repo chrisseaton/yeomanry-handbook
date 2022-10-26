@@ -35,7 +35,7 @@
 ### Carabiniers (6th Dragoon Guards) (6DG)
 
 * Raised in 1685
-* Amalgamated with 5DG to form 5/6DG in 1922
+* Amalgamated with 5DG to form 3C in 1922
 
 ### 7th (The Princess Royal's) Dragoon Guards (7DG)
 
@@ -50,7 +50,7 @@
 ### 6th (Inniskilling) Dragoons (6D)
 
 * Raised in 1689
-* Amalgamated with 5D to form 5/6D in 1922
+* Amalgamated with 5D to form 5 INNIS DG in 1922
 
 ### 9th (Queen's Royal) Lancers (9L)
 
@@ -70,7 +70,7 @@
 ### 16th Lancers (16L)
 
 * Raised in 1759
-* Amalgamated with 5L to form 16/6L in 1922
+* Amalgamated with 5L to form 16/5L in 1922
 
 ### 17th (Duke of Cambridge's Own) Lancers (17L)
 
@@ -141,10 +141,20 @@
 
 * Amalgamated from KDG and 2DG in 1959
 
+### 9th/12th Royal Lancers (9/12L)
+
+* Amalgamated from 9L and 12L in 1960
+* Amalgamated into RL in 2015
+
 ### Blues and Royals (Royal Horse Guards and 1st Dragoons) (RHG/D)
 
 * Amalgamated from RHG and RD in 1969
 * Part of the Household Cavalry Regiment from 1992
+
+## The Royal Hussars (Prince of Wales's Own) (RH)
+
+* Formed from 10H and 11H in 1969
+* Amalgamated into KRH in 1992
 
 ### Royal Scots Dragoon Guards (Carabiniers and Greys) (SCOTS DG)
 
@@ -153,6 +163,10 @@
 ### Household Cavalry Regiment (HCR)
 
 * Encompasses LG and RHG/D from 1992
+
+### King's Royal Hussars (KRH)
+
+* Amalgamated from RH and 14/20H in 1922
 
 ### Light Dragoons (LD)
 
@@ -171,7 +185,7 @@
 * Amalgamated from 16/5L and 17/21L in 1993
 * Amalgamated with 9/12L to form RL in 2015
 
-### Royal Lancers
+### Royal Lancers (RL)
 
 * Amalgamated from 9/12L and QRL in 2015
 
