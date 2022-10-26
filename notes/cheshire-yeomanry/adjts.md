@@ -40,7 +40,7 @@
 * 1959-61: Capt G P D'A Waud (3C)
 * 1961-64: Capt P J A Hedley (3C)
 * 1964-65: Capt I H Jeffers (3C)
-* 1972-73 Capt P G E Bartholomew (RSDG)
+* 1972-73 Capt P G E Bartholomew (SCOTS DG)
 * 1973-75 Capt C M Tetley (16/5L)
 * 1975-77 Capt H C G Gabbey (5 INNIS DG)
 * 1977-79 Capt W R Waterhouse (16/5L)
