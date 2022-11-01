@@ -107,6 +107,17 @@ end
   end
 end
 
+File.open(File.join(__dir__, 'see.txt'), 'r') do |file|
+  file.each_line do |line|
+    case line
+    when /(.*), (.*)$/
+      (index[$1] ||= []).push "see #{$2}"
+    else
+      raise
+    end
+  end
+end
+
 sorted_index = []
 
 index.keys.sort.each do |name|
