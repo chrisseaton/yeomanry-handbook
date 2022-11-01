@@ -166,7 +166,7 @@
 
 ### King's Royal Hussars (KRH)
 
-* Amalgamated from RH and 14/20H in 1922
+* Amalgamated from RH and 14/20H in 1992
 
 ### Light Dragoons (LD)
 
