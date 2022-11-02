@@ -1066,6 +1066,15 @@ Not more specific due to lack of records.
 * A Fearnall <!-- around 2016? -->
 * A H Siddell <!-- QOY -->
 * B J Smith <!-- around 2016? -->
+* R Bowden <!-- RMLY -->
+* A Dumont <!-- RMLY -->
+* D S Jones <!-- RMLY -->
+* R Karadia <!-- RMLY -->
+* N S Palmer <!-- RMLY -->
+* G H Roberts <!-- commissioned same time as DJ? -->
+* R D Wharton <!-- ex SSM RMLY -->
+* J L O'Hanlon <!-- REME? -->
+* R Hartshorne <!-- RMLY -->
 
 ## 2017
 
@@ -1094,14 +1103,5 @@ Not more specific due to lack of records.
 * A H Gethin <!-- CY? -->
 * A J Gilham <!-- CY? -->
 * M B H Ward <!-- early QOY era -->
-* R Bowden <!-- RMLY -->
-* A Dumont <!-- RMLY -->
-* D S Jones <!-- RMLY -->
-* R Karadia <!-- RMLY -->
-* N S Palmer <!-- RMLY -->
-* G H Roberts <!-- commissioned same time as DJ? -->
-* R D Wharton <!-- ex SSM RMLY -->
-* R Hartshorne <!-- RMLY -->
 * R G Dodd <!-- early QOY era -->
 * J L O'Hanlon <!-- REME? -->
-* S Brettell <!-- was RMLY another Sqn, came onto our books but had no appointment -->
