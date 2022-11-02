@@ -1,9 +1,8 @@
 # Annual Training
 
-Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely means the Roodee. Especially earlier camp was billeted in the town. Called variously 'permanent duty', 'annual training', 'annual camp'.
+Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely means the Roodee. Especially earlier camp was billeted in the town. Called variously 'permanent duty', 'annual training', 'annual camp', 'annual continuous training', 'annual deployment exercise'.
 
 * 1804, Tabley (January), Liverpool (July), Tabley (September)
-* 1805, Liverpool
 * 1805, Liverpool
 * 1806, Chester
 * 1807, in the local area of each troop
@@ -118,8 +117,10 @@ Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely 
 * 1971, Bellerby, individual training and TEWTs
 * 1972, Westdown, troop training and inter-troop competition
 ...
+* 1999, Salisbury Plain
 * 2017, Warcop, courses camp
 * 2018, Salisbury Plain, Ex WESSEX STORM
 * 2019, Croatia, Ex SAVA STAR
 * 2020, Thetford, support to Light Dragoons
 * 2021, Galloway Forest, Ex RISING FOX
+* 2022, Galloway Forest, Ex GALLOPING DRAGOON

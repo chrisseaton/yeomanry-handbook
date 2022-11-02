@@ -1052,20 +1052,20 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 Not more specific due to lack of records.
 
-* J McBride
-* R W N Collis
-* C M Hodgkinson
-* P C Morris
-* W N W Bankes
-* R Dunlea-Jones
-* S E Dawber
-* A S Davies
-* M A Jerstice
-* B Williams
-* N Ecclestone
-* A Fearnall
-* A H Siddell
-* B J Smith
+* J McBride <!-- was in 1999 photo -->
+* R W N Collis <!-- not in 1999 photo >
+* C M Hodgkinson <!-- QOY before RMLY? -->
+* P C Morris <!-- not in 1999 photo -->
+* W N W Bankes <!-- QOY before RMLY? -->
+* R Dunlea-Jones <!-- not in 1999 photo -->
+* S E Dawber <!-- around 2015/16? >
+* A S Davies <!-- 2016 -->
+* M A Jerstice <!-- around 2016? -->
+* B Williams <!-- around 2016? -->
+* N Ecclestone <!-- around 2016? -->
+* A Fearnall <!-- around 2016? -->
+* A H Siddell <!-- QOY -->
+* B J Smith <!-- around 2016? -->
 
 ## 2017
 
@@ -1090,17 +1090,18 @@ Not more specific due to lack of records.
 
 ## Unknown
 
-* W A Dunseath
-* A H Gethin
-* A J Gilham
-* M B H Ward
-* R Bowden
-* A Dumont
-* D S Jones
-* R Karadia
-* N S Palmer
-* G H Roberts
-* R D Wharton
-* R Hartshorne
-* R G Dodd
-* J L O'Hanlon
+* W A Dunseath <!-- CY? -->
+* A H Gethin <!-- CY? -->
+* A J Gilham <!-- CY? -->
+* M B H Ward <!-- early QOY era -->
+* R Bowden <!-- RMLY -->
+* A Dumont <!-- RMLY -->
+* D S Jones <!-- RMLY -->
+* R Karadia <!-- RMLY -->
+* N S Palmer <!-- RMLY -->
+* G H Roberts <!-- commissioned same time as DJ? -->
+* R D Wharton <!-- ex SSM RMLY -->
+* R Hartshorne <!-- RMLY -->
+* R G Dodd <!-- early QOY era -->
+* J L O'Hanlon <!-- REME? -->
+* S Brettell <!-- was RMLY another Sqn, came onto our books but had no appointment -->
