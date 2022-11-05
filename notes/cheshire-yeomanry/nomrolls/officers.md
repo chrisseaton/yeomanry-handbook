@@ -1052,29 +1052,29 @@ Years of first joining, either by commission or transfer. Includes attached arms
 
 Not more specific due to lack of records.
 
-* J McBride <!-- was in 1999 photo -->
+* J McBride <!-- was in 1999 photo >
 * R W N Collis <!-- not in 1999 photo >
-* C M Hodgkinson <!-- QOY before RMLY? -->
-* P C Morris <!-- not in 1999 photo -->
-* W N W Bankes <!-- QOY before RMLY? -->
-* R Dunlea-Jones <!-- not in 1999 photo -->
+* C M Hodgkinson <!-- QOY before RMLY? >
+* P C Morris <!-- not in 1999 photo >
+* W N W Bankes <!-- QOY before RMLY? >
+* R Dunlea-Jones <!-- not in 1999 photo >
 * S E Dawber <!-- around 2015/16? >
-* A S Davies <!-- 2016 -->
-* M A Jerstice <!-- around 2016? -->
-* B Williams <!-- around 2016? -->
-* N Ecclestone <!-- around 2016? -->
-* A Fearnall <!-- around 2016? -->
-* A H Siddell <!-- QOY -->
-* B J Smith <!-- around 2016? -->
-* R Bowden <!-- RMLY around 2013 -->
-* A Dumont <!-- RMLY -->
-* D S Jones <!-- RMLY -->
-* R Karadia <!-- RMLY -->
-* N S Palmer <!-- RMLY -->
-* G H Roberts <!-- commissioned same time as DJ? -->
-* R D Wharton <!-- ex SSM RMLY -->
-* J L O'Hanlon <!-- REME? -->
-* R Hartshorne <!-- RMLY -->
+* A S Davies <!-- 2016 >
+* M A Jerstice <!-- around 2016? >
+* B Williams <!-- around 2016? >
+* N Ecclestone <!-- around 2016? >
+* A Fearnall <!-- around 2016? >
+* A H Siddell <!-- QOY >
+* B J Smith <!-- around 2016? >
+* R Bowden <!-- RMLY around 2013 >
+* A Dumont <!-- RMLY >
+* D S Jones <!-- RMLY >
+* R Karadia <!-- RMLY >
+* N S Palmer <!-- RMLY >
+* G H Roberts <!-- commissioned same time as DJ? >
+* R D Wharton <!-- ex SSM RMLY >
+* J L O'Hanlon <!-- REME? >
+* R Hartshorne <!-- RMLY >
 
 ## 2017
 
@@ -1099,9 +1099,9 @@ Not more specific due to lack of records.
 
 ## Unknown
 
-* W A Dunseath <!-- CY? -->
-* A H Gethin <!-- CY? -->
-* A J Gilham <!-- CY? -->
-* M B H Ward <!-- early QOY era -->
-* R G Dodd <!-- early QOY era -->
-* J L O'Hanlon <!-- REME? -->
+* W A Dunseath <!-- CY? >
+* A H Gethin <!-- CY? >
+* A J Gilham <!-- CY? >
+* M B H Ward <!-- early QOY era >
+* R G Dodd <!-- early QOY era >
+* J L O'Hanlon <!-- REME? >

@@ -54,6 +54,7 @@ Dir.glob('*.md', base: __dir__) do |file|
     File.open(File.join(__dir__, file), 'r') do |file|
       year = nil
       file.each_line do |line|
+        line.sub! /\s*<!-- .* >/, '' # Remove any comment
         case line
         when /^## (\d\d\d\d)$/
           year = Integer($1)
