@@ -1066,7 +1066,7 @@ Not more specific due to lack of records.
 * A Fearnall <!-- around 2016? -->
 * A H Siddell <!-- QOY -->
 * B J Smith <!-- around 2016? -->
-* R Bowden <!-- RMLY -->
+* R Bowden <!-- RMLY around 2013 -->
 * A Dumont <!-- RMLY -->
 * D S Jones <!-- RMLY -->
 * R Karadia <!-- RMLY -->
