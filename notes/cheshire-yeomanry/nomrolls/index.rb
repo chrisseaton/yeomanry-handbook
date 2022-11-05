@@ -152,6 +152,7 @@ end
 
 File.open(File.join(__dir__, '../../../cheshire-yeomanry-handbook/nomrolls/index.tex'), 'w') do |file|
   file.puts '\renewcommand*{\indexname}{Index of Surnames}'
+  file.puts '{\sloppy'
   file.puts '\begin{theindex}'
 
   sorted_index.each do |name, years|
@@ -176,4 +177,5 @@ File.open(File.join(__dir__, '../../../cheshire-yeomanry-handbook/nomrolls/index
   end
 
   file.puts '\end{theindex}'
+  file.puts '}'
 end
