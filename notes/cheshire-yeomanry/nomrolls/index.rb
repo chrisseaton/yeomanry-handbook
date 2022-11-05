@@ -94,7 +94,7 @@ File.open(File.join(__dir__, '../rolls-of-honour.md'), 'r') do |file|
   end
 end
 
-[['hon-cols.md', :hon_cols], ['comd.md', :comd]].each do |list, year|
+[['hon-cols.md', :hon_cols], ['comd.md', :comd], ['sm.md', :sm]].each do |list, year|
   File.open(File.join(__dir__, "../#{list}"), 'r') do |file|
     file.each_line do |line|
       case line
@@ -166,6 +166,8 @@ File.open(File.join(__dir__, '../../../cheshire-yeomanry-handbook/nomrolls/index
         'Honorary Colonels'
       when :comd
         'Commanders'
+      when :sm
+        'Sergeants Major'
       else
         year
       end

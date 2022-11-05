@@ -1,4 +1,4 @@
-# Sergeant Majors
+# Sergeants Major
 
 ## Regimental Sergeants Major
 
