@@ -3,6 +3,7 @@
 people_groups = [[nil, []]]
 
 ARGF.each_line do |line|
+  line.sub! /\s*<!-- .* >/, '' # Remove any comment
   case line
   when "\n"
     people_groups.push [nil, []] unless people_groups.last.last.empty?
