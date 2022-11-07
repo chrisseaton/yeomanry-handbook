@@ -156,8 +156,8 @@ Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely 
 * 2010, Catterick, courses camp
 * 2011, ???
 * 2012, Castlemartin, ranges
-* 2013, ???
-* 2014, ???
+* 2013, Salisbury Plain
+* 2014, Denmark, Ex VIKING STAR
 * 2015, Bovington, courses camp
 * 2016, West Tofts, Thetford, military skills
 * 2017, Warcop, courses camp
