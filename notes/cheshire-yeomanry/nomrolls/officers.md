@@ -1055,7 +1055,7 @@ Not more specific due to lack of records.
 * J McBride <!-- was in 1999 photo >
 * R W N Collis <!-- not in 1999 photo >
 * C M Hodgkinson <!-- QOY before RMLY? >
-* P C Morris <!-- not in 1999 photo >
+* P C Morris <!-- 2003 >
 * W N W Bankes <!-- QOY before RMLY? >
 * R Dunlea-Jones <!-- not in 1999 photo >
 * S E Dawber <!-- around 2015/16? >
@@ -1071,7 +1071,7 @@ Not more specific due to lack of records.
 * D S Jones <!-- RMLY >
 * R Karadia <!-- RMLY >
 * N S Palmer <!-- RMLY >
-* G H Roberts <!-- commissioned same time as DJ? >
+* G H Roberts <!-- 2003 >
 * R D Wharton <!-- ex SSM RMLY >
 * J L O'Hanlon <!-- REME? >
 * R Hartshorne <!-- RMLY >

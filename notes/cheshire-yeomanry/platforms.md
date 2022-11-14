@@ -12,6 +12,6 @@
 * 1972-1978 - Saladin
 * 1995-1999 - Scimitar
 * 1995-1999 - Sabre
-* 1999-2014 - Challenger 2
-* 2014-2018 - Land Rover Defender RWMIK
+* 1999-2012 - Challenger 2
+* 2012-2018 - Land Rover Defender RWMIK
 * 2018-present - Supacat Jackal MWMIK

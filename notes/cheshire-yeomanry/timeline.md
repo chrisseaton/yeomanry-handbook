@@ -1394,38 +1394,62 @@
 
 ## 1999
 
+* 24-Jun, rebadging ceremony, Fox
 * 1-Jul, re-subordinated to the *Royal Mercian and Lancastrian Yeomanry*
-
-## 1999
-
 * Oct, Maj Compston assumed command
+
+## 2000
+
+* 29-Jun - 15-Jul, annual camp in the Ardennes in Belgium, Op ORIENT EXPRESS, armoured exercise on cut-down land rovers, including squadron-on-squadron
+* 16-Sept, Officers' Mess dance at Tixall by invitation of Mrs Hugh Leigh
 
 ## 2001
 
 * 19-Feb, foot and mouth disease outbreak began
 * Major restriction on movement across land, but not completely prevented
+* No annual camp
 
 ## 2002
 
 * Mar, Maj Compson handed over command to Maj Ledsham
+* 26-Jul - 10-Aug, Annual camp at Sennelager, with the QRH
+* Fire fighter's strike - ARC used as a base for Green Goddesses, manned by Regular troops
 
 ## 2003
 
 * Op TELIC 1 - possibility of full mobilisation, but intelligent mobilisation in the end
 * 50% of Regiment's contingent from C Sqn
 * Margaret Hartley fund raised in pubs in the local area to support them
+* 29-Aug - 13-Sep, annnual camp, Salisbury Plain
+
+## 2004
+
+* Played the staff at Eaton at cricket
 
 ## 2005
 
 * Feb, Maj Leadsham handed over command to Maj Sir James Lindsay
 * Focus on COIN and gunnery
 * Won the Regimental trophy for gunnery
+* 2-17-Sep, annual camp at Longmoor, urban operations, then combined-arms trainer in Warminster
+* Medals presented for Op TELIC 1, presented by the 6th Duke of Westminster, followed by All Ranks Squadron Dance
 
 ## 2006
 
 * 13-Oct, RMLY Guidon presented by 6th Duke of Westminster at Eton Hall
 * Annual camp also included a short exercise and a battlefield study
+* Outcome of FAS TA defence review increased the size of the regiment slightly, increasing establishment of the Sqn to 81
 
-## 2007
+## 2010
 
-* Etablishment raised to 81
+* Severe budget restrictions on the TA, leading to running some unpaid weekends
+* Feb, Cortez (Heavy Base ISTAR) briefing
+* Threat of more future changes to the structure of the TA
+
+  "My own assessment at this stage is that our CR2 role will reduce; I see more of a future for Reece, Crewing of UOR vehicles, Mentoring, and perhaps an element of CBRN - but this is speculation at this stage. One thing is for sure - CORTEZ is a lifeline for us, and should hold us in good stead for our future."
+
+## 2011
+
+* 20-Jul, visit my Queen Elizabeth II, medal presentation, thanksgiving in Lichfield Cathedral, and lunch at Lichfield Cathedral School afterward. Band of the Light Cavalry.
+* Sep, Oct, annual camp at Castlemartin and Salisbury Plain
+* Start of Bowman and WMIK conversion, and conversion to recce
