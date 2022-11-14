@@ -1391,3 +1391,7 @@
 ## 1999
 
 * 1-Jul, re-subordinated to the *Royal Mercian and Lancastrian Yeomanry*
+
+## 2006
+
+* 13-Oct, RMLY Guidon presented by 6th Duke of Westminster at Eton Hall
