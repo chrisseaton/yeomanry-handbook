@@ -1396,6 +1396,36 @@
 
 * 1-Jul, re-subordinated to the *Royal Mercian and Lancastrian Yeomanry*
 
+## 1999
+
+* Oct, Maj Compston assumed command
+
+## 2001
+
+* 19-Feb, foot and mouth disease outbreak began
+* Major restriction on movement across land, but not completely prevented
+
+## 2002
+
+* Mar, Maj Compson handed over command to Maj Ledsham
+
+## 2003
+
+* Op TELIC 1 - possibility of full mobilisation, but intelligent mobilisation in the end
+* 50% of Regiment's contingent from C Sqn
+* Margaret Hartley fund raised in pubs in the local area to support them
+
+## 2005
+
+* Feb, Maj Leadsham handed over command to Maj Sir James Lindsay
+* Focus on COIN and gunnery
+* Won the Regimental trophy for gunnery
+
 ## 2006
 
 * 13-Oct, RMLY Guidon presented by 6th Duke of Westminster at Eton Hall
+* Annual camp also included a short exercise and a battlefield study
+
+## 2007
+
+* Etablishment raised to 81

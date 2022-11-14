@@ -148,7 +148,7 @@ Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely 
 * 2002, Sennelager
 * 2003, Warminster, courses and staff training
 * 2004, courses camp
-* 2005, Longmoor, urban operations
+* 2005, Longmoor, urban operations, then combined-arms trainer in Warminster
 * 2006, Nesscliffe, guidon presentation
 * 2007, courses camp
 * 2008, Sennelager and Munster, courses camp
