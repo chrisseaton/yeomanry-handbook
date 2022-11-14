@@ -47,6 +47,7 @@
 * System of beacons on the cost used to alert in case of invasion, and the Colonel had sealed prepared orders
 * 12-Dec, officers met at the George Inn, Knutsford, decided to station three men for six months in Knutsford in order to be able to carry orders in the event of an invasion
 * 28-Dec, a naval press-gang tried to recruit a Yeoman in Chester and detained him in the Northgate Gaol, but he was broken out by a crowd
+* *Western Cheshire Volunteer Cavalry The Earl of Chester's Regiment* (doubtful?)
 
 ## 1804
 
@@ -269,6 +270,8 @@
 * 16-Dec, demobilised
 * 27-Dec, dinner at the White Lion Inn, Stockport, Troop presented a sabre to Capt Newton
 * Dunham Massey and Altrincham troops raised
+* *1st Regiment HRH The King's Cheshire Regiment* (doubtful?)
+* *2nd Regiment HRH The King's Cheshire Regiment* (doubtful?)
 
 ## 1820
 
@@ -378,6 +381,7 @@
 
 * Leary p112
 * 4-Aug, annual camp at Mere
+* *2nd Regiment HRH The King's Cheshire Regiment* disbanded (doubtful?)
 
 ## 1829
 
