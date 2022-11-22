@@ -138,7 +138,7 @@ Liverpool likely means Bootle, or Bootle Sands, or Crosby Sands. Chester likely 
 * 1992 12 – 26 Sept. UK Ex Northern Fox. Wk 1 Dalmellington Loch Doon. Wk 2 Castle Kennedy Stranraer – Berwick.
 * 1993 18 Sept – 3 Oct. Germany Ex Grand Canyon. Munsingen South Germany, ARRC. Fly South Cerney. Wk 1 SqnRegt Ex. Wk 2 Bde Ex – 9/12L Bosnia Scenario. (Coach caught fire at Runcorn on way back!)
 * 1994 3-18 June. UK Wk 1 Castlemartin Ranges. Wk 2 Regt Ex up to Cheshire.
-* 1995 30 Sept – 15 Oct. UK Scotland Wk 1 Barry Buden. Wk 2 Ex up to Lossiemouth.
+* 1995 30 Sept – 15 Oct. UK Scotland Wk 1 Barry Buddon. Wk 2 Ex up to Lossiemouth.
 * 1996 7 – 23 June. UK Wk 1 Cornwall – Devon – Somerset. Wk 2 Castlemartin Ranges.
 * 1997 Sept. UK Wk 1 SPTA. Wk 2. 1 Recce Bde Ex Deep Gorge II Scottish Borders.
 * 1998 16 Oct – 1 Nov. UK Wk 1 Castlemartin Ranges. Wk 2 Sennybridge – Wales Recce Bde Ex with 9/12L vs RWxY. - later Weekend Ex Final Fling.

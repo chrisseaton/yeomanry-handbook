@@ -1390,7 +1390,40 @@
 
 ## 1994
 
-* 23-Jul, 80 Signal Squadron moved to Runcorn
+* 23-Jul, 80 Signal Squadron moved Gilwern to Crown Gate Barracks in Runcorn
+
+## 1995
+
+* May, announced that Foxes and Scrimitars to be replaced by Sabres (Scorpion hull, Fox turret, with GPMG replaced by chain gun) - QOY first regiment to recieve them
+* 7-May, VE day stand at Tatton, lance guard and vehicle drive-by in Chester
+* 2-Jul, 100th birthday of last WW1 veteran, Jim Hutton
+* 14-Jul, Yeomanry Sunday at Thornton Manor, with battle run demonstration
+* 18-Jul, Jim Hutton entertained at Knightsbridge Barracks and Buckingham Palace to meet the Queen
+* Sep, QOY Officers' Mess Ball at Eaton Hall
+* Cheshire Yeomanry film comissioned
+
+## 1996
+
+* 17-Mar, received Freedom of the City of Chester
+ * Band of the Queen's Royal Lancers
+ * Two luncheons
+ * 80 officers and men, 6 horses, 5 Sabres
+* Jun, annual camp, 4 QOY sqns fought NI Horse from Land's End to Exmoor, then Support Tp had training by the Navy at the damage control trainer at HMS Raleigh and on Brecon Beacons, while sabre tps fired at Castlemartin
+* Joan Wanklyn's painting of the Freedom parade
+* David Thorp's mural of Litani, now in the museum
+* Sponsored bike ride from Big Ben at Westminster to Big Ben at Eaton Hall
+
+## 1997
+
+* Dedication of new WW2 memorial in the Cathedral, led by Capt Geoffrey Dryland
+* Jan, Thanksgiving for Col Sir John Fleming Leicester at Tabley House chapel
+* 22-Jan, premiere at Chester Cathedral of the film
+* May, exhibition of trophies, pictures, memorabilia
+* Jul, same at Chester Military Museum
+* 20-Jul, Bicentenary Parade
+  * Tatoo on the Roodee
+  * Lunch
+  * Drumhread service
 
 ## 1999
 
