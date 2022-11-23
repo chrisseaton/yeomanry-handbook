@@ -9,10 +9,10 @@ def surname(name)
   name.sub! /\s+\(.*\)$/, '' # Remove anything in brackets afterwards (QM, regiment, etc)
   name.sub! /, (Jnr|Snr)$/, '' # Remove any suffixes
   name.sub! /, .*$/, '' # Remove titles after a comma
+  name.sub! /\bde[MV]? /, '' # Remove some prefixes
 
   if name =~ /^([A-Z] )*([\w\-' ]+)$/ # Simple initials and surname
     name = $2
-    name.sub! /^de[MV]? /, '' # Remove some prefixes
     name unless name.size == 1 # Ignore single letter names
   else
     puts "rejected #{name.inspect}"
