@@ -3,7 +3,7 @@
 def surname(name)
   name.sub! /\s*<!-- .* >/, '' # Remove any comment
   name.sub! /^.*: /, '' # Remove any appointment
-  name.sub! /^(Lt Col|Pte|Dvr|SAC|Mr|Tpr|Sig|Spr|LCpl|Cpl|Sgt|CoH|SSgt|WO2|WO1|OCdt|2Lt|Lt|Capt|Maj|Col|Cnt|Cfn|Dvr\/Mec|Farr|Farr\/Sgt|Farr\/Cpl|Dvr\/IC|Farr\/SSgt|Tptr|Sgt\/Cook|Arm\/Sgt|Farr\/QMS|Cpl\/Tptr|Bandsman|Bugler|CSgt|LSgt|Rev|Dr|Mrs|Quartermaster|SCpl|WSIWSMI|WSSI|WSI|WSMI|Under Officer|Ensign|Shoeing Smith|SMI|Scpl|Sergeant Major|Sergeant Tptr|Maj Commandant|SAC)\s+/, '' # Remove any rank
+  name.sub! /^(Maj Commandant|Lt Col|Pte|Dvr|SAC|Mr|Tpr|Sig|Spr|LCpl|Cpl|Sgt|CoH|SSgt|WO2|WO1|OCdt|2Lt|Lt|Capt|Maj|Col|Cnt|Cfn|Dvr\/Mec|Farr|Farr\/Sgt|Farr\/Cpl|Dvr\/IC|Farr\/SSgt|Tptr|Sgt\/Cook|Arm\/Sgt|Farr\/QMS|Cpl\/Tptr|Bandsman|Bugler|CSgt|LSgt|Rev|Dr|Mrs|Quartermaster|SCpl|WSIWSMI|WSSI|WSI|WSMI|Under Officer|Ensign|Shoeing Smith|SMI|Scpl|Sergeant Major|Sergeant Tptr|SAC)\s+/, '' # Remove any rank
   name.sub! /^Sir (\w+) /, '' # Remove Sir and first name
   name.sub! /^Lord (\w+) /, '' # Remove Lord and first name
   name.sub! /\s+\(.*\)$/, '' # Remove anything in brackets afterwards (QM, regiment, etc)

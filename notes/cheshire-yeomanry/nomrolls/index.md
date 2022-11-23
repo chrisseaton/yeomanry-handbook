@@ -486,7 +486,6 @@
 * Colthorpe, [1956]
 * Colthurst, [1660]
 * Colwell, [1972]
-* Commandant S Wright, [1819]
 * Commandant T C Dod, [1803]
 * Compston, [1990..1994, 1996..1997, 2000..2002, :comd]
 * Condon, [1939]
