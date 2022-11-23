@@ -270,7 +270,7 @@ Years of first joining, either by commission or transfer. Includes attached arms
 ## 1845
 
 * D Herbert
-* G Harry, later 7th Earl of Stamford and 3rd Earl of Warrington
+* G Harry, surname actually Grey, later 7th Earl of Stamford and 3rd Earl of Warrington
 * W Harper
 * W Brocklehurst
 
