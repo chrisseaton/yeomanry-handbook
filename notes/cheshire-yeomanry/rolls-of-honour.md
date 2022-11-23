@@ -269,6 +269,6 @@ From Verdin p606: "In compiling the Rolls of Honour set out below the normal pra
 
 ## Modern History
 
-* SAC J J Smart RAF
+* SAC J J Smart (RAF)
 * J Moore
 * Tpr K Heller
