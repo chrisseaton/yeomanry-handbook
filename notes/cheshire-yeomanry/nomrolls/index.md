@@ -2188,6 +2188,7 @@
 * Stacey, [1939]
 * Stainbank, [1839]
 * Stamer, [1897]
+* Stamford, ["see Grey"]
 * Stanbank, [1839]
 * Standbank, [1842]
 * Stanfield, [2015..2022]
